@@ -1,0 +1,21 @@
+backend:
+  name: github
+  repo: rayz224/LCCGuides
+  branch: main
+
+media_folder: "guides/{{slug}}"
+public_folder: "/guides/{{slug}}"
+
+collections:
+  - name: "guides"
+    label: "Event Guides"
+    folder: "guides"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Guide Name", name: "title", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "string"}
+      - {label: "Logo", name: "logo", widget: "image", allow_multiple: false}
+      - {label: "Content", name: "body", widget: "markdown"}
+      - {label: "Event Date", name: "date", widget: "datetime"}
+      - {label: "Status", name: "status", widget: "select", options: ["draft", "published"]}
