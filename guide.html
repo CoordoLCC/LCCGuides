@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guide du Participant</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <!-- Marked.js for Markdown parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+
+<body>
+    <header class="guide-header">
+        <!-- Mobile hamburger menu -->
+        <button class="guide-hamburger" id="guide-hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+        <h1 id="guide-title">Guide du Participant</h1>
+    </header>
+
+    <main class="guide-wrapper">
+        <nav class="guide-nav-sidebar" id="guide-nav-sidebar">
+            <ul class="guide-nav-menu" id="nav-menu">
+                <!-- Navigation will be generated dynamically -->
+            </ul>
+        </nav>
+
+        <div class="guide-main-content" id="content">
+            <!-- Content will be loaded dynamically -->
+        </div>
+    </main>
+
+    <!-- Load main application module -->
+    <script type="module" src="js/main.js"></script>
+</body>
+
+</html>
