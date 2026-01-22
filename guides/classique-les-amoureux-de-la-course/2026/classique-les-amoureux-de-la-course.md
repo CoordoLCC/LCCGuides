@@ -150,8 +150,7 @@ Un **photographe sera sur place** pour capturer vos plus beaux sourires !
 
 {{< sized-image src="partenairesofficielsadlc2026.png" alt="Maple3, Formagerie Victoria, Le Subtil" width="100%" >}}
 
-## 
-Partenaires majeurs/publics et fournisseurs
+### Partenaires majeurs/publics et fournisseurs
 
 {{< sized-image src="partenairesmajeurspubliquesetfournisseursadlc2026.png" alt="Athlétisme Québec, Centre de Glace Intact Assurances, PCN Physio, Krispy Kernels, Café Barista" width="100%" >}}
 
