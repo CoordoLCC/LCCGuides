@@ -15,7 +15,6 @@ function processSizedImageShortcode(content, basePath) {
             absSrc = basePath ? `${basePath}/${src}` : src;
         }
         if (width) {
-            style += "display: block; margin-left: auto; margin-right: auto; ";
             style += `width: ${width};`;
         }
         if (height) style += `height: ${height};`;
