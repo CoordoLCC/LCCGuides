@@ -2,14 +2,14 @@
 
 /**
  * Process custom image width syntax
- * Supports: ![alt](image.jpg){width=50%} or ![alt](image.jpg){width=300px}
+ * Supports: ![alt](image.jpg){width=50%} or ![alt](image.jpg "title"){width=300px}
  * The {width=...} part in markdown gets converted to a title attribute by marked,
  * so we pre-process the content to handle our custom syntax
  */
 function processCustomImageSyntax(content) {
-    // Match ![alt](url){width=value} or ![alt](url){w=value}
-    // Also supports height: {width=50% height=200px} or {w=50% h=200px}
-    const imageRegex = /!\[([^\]]*)\]\(([^)]+)\)\{([^}]+)\}/g;
+    // Match ![alt](url){attrs} or ![alt](url "title"){attrs}
+    // The url group captures just the filename, ignoring optional "title"
+    const imageRegex = /!\[([^\]]*)\]\(([^\s")]+)(?:\s*"[^"]*")?\)\{([^}]+)\}/g;
 
     return content.replace(imageRegex, (match, alt, url, attributes) => {
         let style = "";
