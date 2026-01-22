@@ -7,46 +7,21 @@ media_folder: static/media
 public_folder: /media
 
 collections:
-  # Collection 1: Events (parent)
-  - name: "events"
-    label: "Événements"
-    label_singular: "Événement"
-    folder: "guides"
-    path: "events/{{slug}}"
-    create: true
-    slug: "{{slug}}"
-    identifier_field: name
-    fields:
-      - label: "Nom de l'événement"
-        name: "name"
-        widget: "string"
-
-      - label: "Slug"
-        name: "slug"
-        widget: "string"
-        hint: "Nom convivial pour l'URL (ex: classique-champlain)"
-
-  # Collection 2: Guide Editions (child)
-  - name: "guide_editions"
+  - name: "guides"
     label: "Guides"
     label_singular: "Guide"
     folder: "guides"
     create: true
-    path: "{{event}}/{{year}}/{{event}}"
+    path: "{{slug}}/{{year}}/{{slug}}"
     extension: "md"
-    slug: "{{event}}-{{year}}"
-    summary: "{{event}} - {{year}}"
-    identifier_field: slug
+    summary: "{{title}} - {{year}}"
 
     fields:
       - label: "Événement"
-        name: "event"
-        widget: "relation"
-        collection: "events"
-        search_fields: ["name", "slug"]
-        value_field: "slug"
-        display_fields: ["name"]
-        hint: "Sélectionnez l'événement parent"
+        name: "title"
+        widget: "string"
+        required: true
+        hint: "Nom de l'événement (ex: Classique Champlain)"
 
       - label: "Année"
         name: "year"
@@ -56,8 +31,8 @@ collections:
       - label: "Logo (SVG seulement)"
         name: "logo"
         widget: "image"
-        media_folder: "/guides/{{fields.event}}/{{fields.year}}"
-        public_folder: "/guides/{{fields.event}}/{{fields.year}}"
+        media_folder: "/guides/{{slug}}/{{year}}"
+        public_folder: ""
 
       - label: "Contenu du guide"
         name: "body"
