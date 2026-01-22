@@ -1,8 +1,9 @@
 ---
-title: Classique Champlain 2026
+title: Classique Champlain
 slug: champlain-2026
 logo: /guides/{{slug}}/champlainlogo.svg
 date: 2026-04-23T06:00:00.000-04:00
+year: "2026"
 status: published
 ---
 # Guide du coureur : Classique Champlain 2026 (TITRE)
