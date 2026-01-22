@@ -26,7 +26,7 @@ function processCustomImageSyntax(content) {
             style += `height: ${heightMatch[1]};`;
         }
 
-        return `<img src="${url}" alt="${alt}" style="${style}">`;
+        return `<img src='${url}' alt='${alt}' style='${style}'>`;
     });
 }
 
