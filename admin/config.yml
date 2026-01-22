@@ -7,19 +7,66 @@ media_folder: static/media
 public_folder: /media
 
 collections:
-  - name: "guides"
-    label: "Event Guides"
+  # Collection 1: Events (parent)
+  - name: "events"
+    label: "Événements"
     folder: "guides"
     create: true
-    nested:
-      depth: 2
-      summary: "{{title}} ({{year}})"
-    meta: {path: {widget: "parent", label: "Dossier parent", index_file: "index"}}
-    media_folder: ""
-    public_folder: ""
+    slug: "{{slug}}"
+    identifier_field: name
     fields:
-      - {label: "Nom de l'événement", name: "title", widget: "string", hint: "Événement (ex: Classique Champlain)"}
-      - {label: "Année", name: "year", widget: "string", hint: "Année (ex: 2026)", pattern: ['^[0-9]{4}$', "Format: 4 chiffres (ex: 2026)"]}
-      - {label: "Logo", name: "logo", widget: "image", allow_multiple: false}
-      - {label: "Contenu", name: "body", widget: "markdown"}
-      - {label: "Status", name: "status", widget: "select", options: ["draft", "published"]}
+      - label: "Nom de l'événement"
+        name: "name"
+        widget: "string"
+
+      - label: "Slug"
+        name: "slug"
+        widget: "string"
+        hint: "Nom convivial pour l'URL (ex: classique-champlain)"
+
+  # Collection 2: Guide Editions (child)
+  - name: "guide_editions"
+    label: "Guides annuels"
+    folder: "guides"
+    create: true
+    path: "{{event}}/{{year}}/{{event}}"
+    extension: "md"
+    slug: "{{event}}-{{year}}"
+    identifier_field: title
+
+    fields:
+      - label: "Événement"
+        name: "event"
+        widget: "relation"
+        collection: "events"
+        search_fields: ["name", "slug"]
+        value_field: "slug"
+        display_fields: ["name"]
+        hint: "Sélectionnez l'événement parent"
+
+      - label: "Année"
+        name: "year"
+        widget: "number"
+        value_type: "int"
+
+      - label: "Titre"
+        name: "title"
+        widget: "string"
+        hint: "Titre (ex: Classique Champlain)"
+
+      - label: "Status"
+        name: "status"
+        widget: "select"
+        options: ["draft", "published"]
+        default: "draft"
+
+      - label: "Logo (SVG seulement)"
+        name: "logo"
+        widget: "image"
+        media_folder: "/guides/{{fields.event}}/{{fields.year}}"
+        public_folder: "/guides/{{fields.event}}/{{fields.year}}"
+
+      - label: "Contenu du guide"
+        name: "body"
+        widget: "markdown"
+        required: true
