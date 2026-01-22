@@ -126,16 +126,35 @@ async function loadGuideContent(paths, isLocal = false) {
     renderNavigation(sections);
     renderContent(sections, paths.basePath);
 
-    // After rendering, scroll to hash if present
+    // After rendering, scroll to hash if present, but wait for images to load
     if (window.location.hash) {
         const id = window.location.hash.slice(1);
-        // Delay to ensure DOM is ready
-        setTimeout(() => {
+        const content = document.getElementById("content");
+        const imgs = Array.from(content.querySelectorAll("img"));
+        if (imgs.length === 0) {
+            // No images, scroll immediately
             const el = document.getElementById(id);
-            if (el) {
-                el.scrollIntoView({ behavior: "smooth", block: "start" });
-            }
-        }, 0);
+            if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+        } else {
+            // Wait for all images to load or error
+            let loaded = 0;
+            const total = imgs.length;
+            const checkAndScroll = () => {
+                loaded++;
+                if (loaded === total) {
+                    const el = document.getElementById(id);
+                    if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+                }
+            };
+            imgs.forEach((img) => {
+                if (img.complete) {
+                    checkAndScroll();
+                } else {
+                    img.addEventListener("load", checkAndScroll, { once: true });
+                    img.addEventListener("error", checkAndScroll, { once: true });
+                }
+            });
+        }
     }
 }
 
