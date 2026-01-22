@@ -54,15 +54,15 @@ Même si aucun vestiaire surveillé n'est prévu, **des casiers sont disponibles
 
 **Date :** Samedi 14 février 2026
 
-| Activité                             | Heure       |
-| ------------------------------------ | ----------- |
-| Remise des dossards                  | 6h30 à 8h30 |
-| **Départ** 2,5 km                    | 7h30        |
-| **Départ** 5 km Le Subtil            | 7h30        |
-| Remise de médailles (2,5 km et 5 km) | 7h55        |
-| **Départ** 10 minutes classiques La Fromagerie Victoria     | 8h15        |
-| **Départ** 10 km                     | 8h30        |
-| Remise de médailles (10 km)          | 9h20        |
+| Activité                                                | Heure       |
+| ------------------------------------------------------- | ----------- |
+| Remise des dossards                                     | 6h30 à 8h30 |
+| **Départ** 5 km Le Subtil                               | 7h30        |
+| Remise de médailles (2,5 km et 5 km)                    | 7h55        |
+| **Départ** 10 minutes classiques La Fromagerie Victoria | 8h15        |
+| **Départ** 10 km La Fromagerie Victoria                 | 8h30        |
+| **Départ** 2,5 km                                       | 8h30        |
+| Remise de médailles (10 km)                             | 9h20        |
 
 #### Corrals/Vagues
 
