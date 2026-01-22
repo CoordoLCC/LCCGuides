@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: rayz224/LCCGuides
+  repo: Rayz224/LCCGuides
   branch: main
 
 media_folder: "guides/{{slug}}"
