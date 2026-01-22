@@ -11,8 +11,10 @@ collections:
     label: "Event Guides"
     folder: "guides"
     create: true
-    slug: "{{slug}}-{{year}}"
-    path: "{{slug}}/{{year}}/{{slug}}"
+    nested:
+      depth: 2
+      summary: "{{title}} ({{year}})"
+    meta: {path: {widget: "parent", label: "Dossier parent", index_file: "index"}}
     media_folder: ""
     public_folder: ""
     fields:
