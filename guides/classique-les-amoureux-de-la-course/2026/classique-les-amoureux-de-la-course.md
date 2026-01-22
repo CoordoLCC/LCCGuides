@@ -12,7 +12,7 @@ status: published
 
 #### Mot du Président Directeur Général - Francis Bachand
 
-> « Bienvenue à la première Classique de la saison ! Que vous soyez ici pour battre votre record personnel sur notre piste ultra-rapide ou pour partager un moment sportif en duo pour la Saint-Valentin, nous sommes ravis de vous accueillir au Centre de Glace Intact Assurance. »
+> « Bienvenue à la première Classique de la saison ! Que vous soyez ici pour battre votre record personnel sur notre piste ultra-rapide ou pour partager un moment sportif en duo pour la Saint-Valentin, nous sommes ravis de vous accueillir au Centre de Glace Intact Assurance. !!!!»
 
 #### Mission de Les Classiques Capitale
 
