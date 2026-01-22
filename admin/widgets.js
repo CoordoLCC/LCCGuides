@@ -19,7 +19,7 @@ CMS.registerEditorComponent({
             name: "width",
             label: "Largeur",
             widget: "string",
-            hint: "Ex: 50%, 300px, auto",
+            hint: "Ex: 100%, 50%, 300px, auto",
             required: false,
         },
         {

@@ -2,24 +2,27 @@
 
 let hamburger, navSidebar;
 
-export function initNavigation() {
+function initNavigation() {
     hamburger = document.getElementById("guide-hamburger");
     navSidebar = document.getElementById("guide-nav-sidebar");
 
-    hamburger.addEventListener("click", toggleMenu);
+    hamburger.addEventListener("click", toggleMobileMenu);
 }
 
-function toggleMenu() {
+function toggleMobileMenu() {
     hamburger.classList.toggle("guide-open");
     navSidebar.classList.toggle("guide-open");
 }
 
-export function closeMenu() {
+function closeMobileMenu() {
     hamburger.classList.remove("guide-open");
     navSidebar.classList.remove("guide-open");
 }
 
-export function renderNavigation(sections, navMenu) {
+export function renderNavigation(sections) {
+    initNavigation();
+
+    const navMenu = document.getElementById("nav-menu");
     navMenu.innerHTML = "";
 
     sections.forEach((section) => {
@@ -54,14 +57,14 @@ export function renderNavigation(sections, navMenu) {
                 subA.onclick = (e) => {
                     e.preventDefault();
                     scrollToSection(subsection.id);
-                    closeMenu();
+                    closeMobileMenu();
                 };
                 subLi.appendChild(subA);
                 subUl.appendChild(subLi);
             });
 
-            // Click on title - on mobile only toggle submenu, on desktop also scroll
-            titleSpan.addEventListener("click", (e) => {
+            // Click on button
+            button.addEventListener("click", (e) => {
                 e.stopPropagation();
                 const isMobile = window.innerWidth <= 768;
 
@@ -74,7 +77,6 @@ export function renderNavigation(sections, navMenu) {
                     scrollToSection(section.id);
                     button.classList.toggle("guide-expanded");
                     subUl.classList.toggle("guide-show");
-                    closeMenu();
                 }
             });
 

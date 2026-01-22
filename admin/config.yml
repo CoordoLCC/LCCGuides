@@ -34,6 +34,7 @@ collections:
         widget: "image"
         media_folder: "/guides/{{slug}}/{{fields.year}}"
         public_folder: ""
+        pattern: [".*\\.svg$", "Seuls les fichiers SVG sont autorisés."]
 
       - label: "Contenu du guide"
         name: "body"

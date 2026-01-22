@@ -1,6 +1,6 @@
 // ===== MAIN APPLICATION =====
 import { extractColorsFromLogo } from "./themeManager.js";
-import { initNavigation, renderNavigation } from "./navigation.js";
+import { renderNavigation } from "./navigation.js";
 import { parseMarkdown } from "./markdownParser.js";
 import { renderContent } from "./contentRenderer.js";
 import { DEV_CONFIG } from "./dev_config.js";
@@ -51,15 +51,7 @@ function parseFrontmatter(markdown) {
     return { metadata, content };
 }
 
-// ===== CONTENT LOADING =====
-
-async function fetchMarkdown(url) {
-    const response = await fetch(url);
-    if (!response.ok) {
-        throw new Error(`Failed to load markdown file: ${response.status}`);
-    }
-    return response.text();
-}
+// ===== ERROR DISPLAY =====
 
 function displayError(details) {
     console.error(details);
@@ -74,60 +66,71 @@ function displayError(details) {
     </main>`;
 }
 
+// ===== CONTENT LOADING =====
+
+async function fetchMarkdown(url) {
+    const response = await fetch(url);
+    if (!response.ok) {
+        throw new Error(`Failed to load markdown file: ${response.status}`);
+    }
+    return response.text();
+}
+
+function getLogoUrl(metadata, paths, isLocal) {
+    if (isLocal) {
+        return DEV_CONFIG.LOGO_FILE || null;
+    } else if (metadata.logo && paths.basePath) {
+        return `${paths.basePath}/${metadata.logo}`;
+    }
+    return null;
+}
+
+// Dynamic favicon
+function setFavicon(svgUrl) {
+    if (!svgUrl.endsWith(".svg")) return;
+    let link = document.querySelector("link[rel~='icon']");
+    if (!link) {
+        link = document.createElement("link");
+        link.rel = "icon";
+        document.head.appendChild(link);
+    }
+    link.type = "image/svg+xml";
+    link.href = svgUrl;
+}
+
 async function loadGuideContent(paths, isLocal = false) {
-    const navMenu = document.getElementById("nav-menu");
-    const content = document.getElementById("content");
     const title = document.getElementById("guide-title");
 
     const rawMarkdown = await fetchMarkdown(paths.content);
     const { metadata, content: markdownContent } = parseFrontmatter(rawMarkdown);
-    // Set page title to guide title if available
-    if (metadata.title) {
-        document.title = metadata.title + " - Guide du Participant";
-    }
 
     if (metadata.status === "draft") {
         displayError("Ce guide est en cours de rédaction et sera disponible prochainement.");
         return;
     }
 
-    // Build logo path - use dev config in dev mode, frontmatter in production
-    let logoUrl = null;
-    if (isLocal) {
-        logoUrl = DEV_CONFIG.LOGO_FILE || null;
-    } else if (metadata.logo && paths.basePath) {
-        logoUrl = `${paths.basePath}/${metadata.logo}`;
-    }
+    const logoUrl = getLogoUrl(metadata, paths, isLocal);
 
     if (logoUrl) {
         await extractColorsFromLogo(logoUrl);
-        // Set favicon dynamically to SVG logo
         setFavicon(logoUrl);
     }
-    // ===== DYNAMIC FAVICON =====
-    function setFavicon(svgUrl) {
-        if (!svgUrl.endsWith(".svg")) return;
-        let link = document.querySelector("link[rel~='icon']");
-        if (!link) {
-            link = document.createElement("link");
-            link.rel = "icon";
-            document.head.appendChild(link);
-        }
-        link.type = "image/svg+xml";
-        link.href = svgUrl;
+
+    // Set page title
+    if (metadata.title) {
+        document.title = metadata.title + " - Guide du Participant";
     }
 
     const sections = parseMarkdown(markdownContent, title);
 
-    initNavigation();
-    renderNavigation(sections, navMenu);
-    renderContent(sections, content);
+    renderNavigation(sections);
+    renderContent(sections);
 }
 
 // ===== INITIALIZATION =====
 
 async function init() {
-    // Check if we're in development mode (localhost)
+    // Development mode: load guide from dev_config.js
     if (isDevelopment()) {
         const contentPath = DEV_CONFIG.MARKDOWN_URL || DEV_CONFIG.MARKDOWN_FILE;
 
@@ -150,7 +153,6 @@ async function init() {
 
     // Normal mode: parse guide from URL path
     const guide = getGuideFromUrl();
-
     const paths = buildGuidePaths(guide);
 
     try {

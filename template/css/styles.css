@@ -260,7 +260,10 @@ body::before {
 /* ===== CONTENT SECTIONS ===== */
 .guide-content-section {
     margin-bottom: 50px;
-    scroll-margin-top: 100px;
+}
+
+.guide-content-section, .guide-subsection-box {
+    scroll-margin-top: 20px;
 }
 
 .guide-content-section h2 {

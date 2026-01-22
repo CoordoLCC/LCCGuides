@@ -43,7 +43,8 @@ function processCustomImageSyntax(content) {
     });
 }
 
-export function renderContent(sections, container) {
+export function renderContent(sections) {
+    const container = document.getElementById("content");
     container.innerHTML = "";
 
     sections.forEach((section) => {
