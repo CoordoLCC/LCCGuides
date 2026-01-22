@@ -125,6 +125,18 @@ async function loadGuideContent(paths, isLocal = false) {
 
     renderNavigation(sections);
     renderContent(sections);
+
+    // After rendering, scroll to hash if present
+    if (window.location.hash) {
+        const id = window.location.hash.slice(1);
+        // Delay to ensure DOM is ready
+        setTimeout(() => {
+            const el = document.getElementById(id);
+            if (el) {
+                el.scrollIntoView({ behavior: "smooth", block: "start" });
+            }
+        }, 0);
+    }
 }
 
 // ===== INITIALIZATION =====
