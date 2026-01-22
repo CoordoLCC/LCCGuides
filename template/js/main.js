@@ -63,8 +63,18 @@ async function fetchMarkdown(url) {
 
 function displayError(details) {
     console.error(details);
-    const errorUrl = `/template/error.html?message=${encodeURIComponent(details)}`;
-    window.location.href = errorUrl;
+    document.body.innerHTML = `
+    <header class="guide-header">
+        <h1>Guide du Participant</h1>
+    </header>
+    <main class="guide-wrapper">
+        <div class="guide-main-content">
+            <div class="error-message" id="error-content">
+                <h2>Erreur de chargement</h2>
+                <p id="error-details">${details}</p>
+            </div>
+        </div>
+    </main>`;
 }
 
 async function loadGuideContent(paths, isLocal = false) {
