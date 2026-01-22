@@ -90,13 +90,9 @@ Un grand écran au Centre de Glaces Intact Assurance affichera chaque passage à
 
 ### Services médicaux
 
-**Présence de l'équipe de PCN Physiothérapie** pour vos petits bobos ou conseils.
-
-{{< sized-image src="logo-partenaire-pcn-1-.jpg" alt="PCN Physiothérapie" width="20%" >}}
+**L'équipe de PCN Physiothérapie** sera présente sur place pour vos petits bobos ou conseils.
 
 ### Les 10 minutes classiques présentés par La Fromagerie Victoria
-
-{{< sized-image src="fromvic.png" alt="Fromagerie Victoria" width="50%" >}}
 
 **Concept :** Inspiré du format "Backyard", l'objectif est de faire le **plus de boucles possible en 10 minutes**
 
