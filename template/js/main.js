@@ -64,9 +64,6 @@ async function fetchMarkdown(url) {
 function displayError(details) {
     console.error(details);
     document.body.innerHTML = `
-    <header class="guide-header">
-        <h1>Guide du Participant</h1>
-    </header>
     <main class="guide-wrapper">
         <div class="guide-main-content">
             <div class="error-message" id="error-content">
@@ -84,6 +81,10 @@ async function loadGuideContent(paths, isLocal = false) {
 
     const rawMarkdown = await fetchMarkdown(paths.content);
     const { metadata, content: markdownContent } = parseFrontmatter(rawMarkdown);
+    // Set page title to guide title if available
+    if (metadata.title) {
+        document.title = metadata.title + " - Guide du Participant";
+    }
 
     if (metadata.status === "draft") {
         displayError("Ce guide est en cours de rédaction et sera disponible prochainement.");
@@ -97,8 +98,23 @@ async function loadGuideContent(paths, isLocal = false) {
     } else if (metadata.logo && paths.basePath) {
         logoUrl = `${paths.basePath}/${metadata.logo}`;
     }
+
     if (logoUrl) {
         await extractColorsFromLogo(logoUrl);
+        // Set favicon dynamically to SVG logo
+        setFavicon(logoUrl);
+    }
+    // ===== DYNAMIC FAVICON =====
+    function setFavicon(svgUrl) {
+        if (!svgUrl.endsWith(".svg")) return;
+        let link = document.querySelector("link[rel~='icon']");
+        if (!link) {
+            link = document.createElement("link");
+            link.rel = "icon";
+            document.head.appendChild(link);
+        }
+        link.type = "image/svg+xml";
+        link.href = svgUrl;
     }
 
     const sections = parseMarkdown(markdownContent, title);
