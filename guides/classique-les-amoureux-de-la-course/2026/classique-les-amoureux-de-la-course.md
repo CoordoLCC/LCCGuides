@@ -144,15 +144,11 @@ Un **photographe sera sur place** pour capturer vos plus beaux sourires !
 
 ### Partenaire présentateur
 
-![Shop Santé](logo_ss_complet_noir-2.0-1-.png "Shop Santé"){width=100%}
+{{< sized-image src="logo_ss_complet_noir-2.0-1-.png" alt="Shop Santé" width="100%" >}}
 
 ### Partenaires officiels
 
-![Centre de Glace Intact Assurance](logo_centre_de_glaces_rvb_h-618800787.png "Centre de Glace Intact Assurance"){width=30%}
 
-![Grand Club de Course](grand-club.jpg "Grand Club de Course"){width=30%}
-
-![PCN Physiothérapie](logo-partenaire-pcn-1-.jpg "PCN Physiothérapie"){width=30%}
 
 ## Autres questions/contact
 
