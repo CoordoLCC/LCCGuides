@@ -144,7 +144,7 @@ Un **photographe sera sur place** pour capturer vos plus beaux sourires !
 
 ### Partenaire présentateur
 
-![Shop Santé](logo_ss_complet_noir-2.0-1-.png "Shop Santé")
+![Shop Santé](logo_ss_complet_noir-2.0-1-.png "Shop Santé"){w=30%}
 
 ### Partenaires officiels
 
