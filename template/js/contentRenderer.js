@@ -9,8 +9,10 @@ function processSizedImageShortcode(content) {
 
     return content.replace(shortcodeRegex, (match, src, alt, width, height) => {
         let style = "";
-        if (width) style += `width: ${width};`;
-        if (width !== "100%") style += "display: block; margin-left: auto; margin-right: auto;";
+        if (width) {
+            style += "display: block; margin-left: auto; margin-right: auto; ";
+            style += `width: ${width};`;
+        }
         if (height) style += `height: ${height};`;
         return `<img src="${src}" alt="${alt}" style="${style}">`;
     });
