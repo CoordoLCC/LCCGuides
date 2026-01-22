@@ -14,7 +14,7 @@ collections:
     create: true
     path: "{{slug}}/{{year}}/{{slug}}"
     extension: "md"
-    summary: "{{title}} - {{year}}"
+    summary: "{{title}} - {{fields.year}}"
 
     fields:
       - label: "Événement"
@@ -32,7 +32,7 @@ collections:
       - label: "Logo (SVG seulement)"
         name: "logo"
         widget: "image"
-        media_folder: "/guides/{{fields.slug}}/{{fields.year}}"
+        media_folder: "/guides/{{slug}}/{{fields.year}}"
         public_folder: ""
 
       - label: "Contenu du guide"
