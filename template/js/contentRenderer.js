@@ -1,10 +1,23 @@
 // ===== CONTENT RENDERER =====
 
 /**
- * Process custom image width syntax
+ * Process custom image shortcode from Decap CMS
+ * Supports: {{< sized-image src="image.jpg" alt="text" width="50%" height="200px" >}}
+ */
+function processSizedImageShortcode(content) {
+    const shortcodeRegex = /{{< sized-image src="([^"]*)" alt="([^"]*)"(?: width="([^"]*)")?(?: height="([^"]*)")? >}}/g;
+
+    return content.replace(shortcodeRegex, (match, src, alt, width, height) => {
+        let style = "";
+        if (width) style += `width: ${width};`;
+        if (height) style += `height: ${height};`;
+        return `<img src="${src}" alt="${alt}" style="${style}">`;
+    });
+}
+
+/**
+ * Process custom image width syntax (legacy/manual)
  * Supports: ![alt](image.jpg){width=50%} or ![alt](image.jpg "title"){width=300px}
- * The {width=...} part in markdown gets converted to a title attribute by marked,
- * so we pre-process the content to handle our custom syntax
  */
 function processCustomImageSyntax(content) {
     // Match ![alt](url){attrs} or ![alt](url "title"){attrs}
@@ -55,7 +68,9 @@ export function renderContent(sections, container) {
             const contentElement = document.createElement("div");
             contentElement.className = "guide-content";
 
-            const processedContent = processCustomImageSyntax(subsection.content);
+            // Process custom image syntaxes before markdown parsing
+            let processedContent = processSizedImageShortcode(subsection.content);
+            processedContent = processCustomImageSyntax(processedContent);
             contentElement.innerHTML = marked.parse(processedContent);
             subsectionElement.appendChild(contentElement);
 
