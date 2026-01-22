@@ -150,7 +150,7 @@ Un **photographe sera sur place** pour capturer vos plus beaux sourires !
 
 ### Partenaires officiels
 
-![Centre de Glace Intact Assurance](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcentredeglaces.ca%2Fuploads%2FLogo_Centre_de_glaces_RVB_H.png&f=1&nofb=1&ipt=ad9ab7faec2d448d8c10da5c3d550562b9531afc54607f25a3d1c4424edcf9cf "Centre de Glace Intact Assurance")
+![Centre de Glace Intact Assurance](logo_centre_de_glaces_rvb_h-618800787.png "Centre de Glace Intact Assurance")
 
 {width=30%}
 
