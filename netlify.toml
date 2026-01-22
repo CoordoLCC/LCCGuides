@@ -1,4 +1,9 @@
 [[redirects]]
-  from = "/guides/:slug"
+  from = "/guides/:slug/:year"
+  to = "/template/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/guides/:slug/:year/"
   to = "/template/index.html"
   status = 200
