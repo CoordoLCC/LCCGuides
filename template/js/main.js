@@ -82,7 +82,7 @@ async function loadGuideContent(paths, isLocal = false) {
     const { metadata, content: markdownContent } = parseFrontmatter(rawMarkdown);
 
     if (metadata.status === "draft") {
-        error("Ce guide est en cours de rédaction et sera disponible prochainement.");
+        const error = new Error("Ce guide est en cours de rédaction et sera disponible prochainement.");
         console.error("Error loading guide:", error);
         displayError(error);
         return;
