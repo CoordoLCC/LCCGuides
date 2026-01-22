@@ -14,7 +14,7 @@ function isDevelopment() {
 // ===== URL PARSING =====
 
 function getGuideFromUrl() {
-    const pathMatch = window.location.pathname.match(/^\/([^\/]+)\/(\d{4})/);
+    const pathMatch = window.location.pathname.match(/^\/guides\/([^\/]+)\/(\d{4})/);
     if (!pathMatch) {
         return null;
     }
@@ -23,7 +23,6 @@ function getGuideFromUrl() {
 
 function buildGuidePaths(guide) {
     const basePath = `/guides/${guide.slug}/${guide.year}`;
-    console.log("Guide base path:", basePath);
     return {
         basePath,
         content: `${basePath}/${guide.slug}.md`,
