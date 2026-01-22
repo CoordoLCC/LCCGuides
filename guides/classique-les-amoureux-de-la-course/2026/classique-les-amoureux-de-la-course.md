@@ -38,8 +38,7 @@ Le transfert de dossards ou changement d'épreuve n'est **pas autorisé** pour c
 
 **Centre de Glace Intact Assurance**
 
-999 Av. De Rochebelle
-Québec, QC G1V 0J6
+[999 Av. De Rochebelle, Québec, QC G1V 0J6](https://maps.app.goo.gl/FyVkzYLE293GHr2L7)
 
 ### Stationnement et accès
 
@@ -93,11 +92,15 @@ Un grand écran au Centre de Glaces Intact Assurance affichera chaque passage à
 
 **Présence de l'équipe de PCN Physiothérapie** pour vos petits bobos ou conseils.
 
-### Les 10 minutes Classiques
+{{< sized-image src="logo-partenaire-pcn-1-.jpg" alt="PCN Physiothérapie" width="20%" >}}
+
+### Les 10 minutes classiques présentés par La Fromagerie Victoria
+
+{{< sized-image src="fromvic.png" alt="Fromagerie Victoria" width="50%" >}}
 
 **Concept :** Inspiré du format "Backyard", l'objectif est de faire le **plus de boucles possible en 10 minutes**
 
-* Format animé par l'équipe du **Grand Club de Course**
+* Animé par l'équipe du **Grand Club de Course**
 * Course ou marche, en solo ou en famille
 * L'important est de bouger dans le plaisir !
 
@@ -157,6 +160,7 @@ Un **photographe sera sur place** pour capturer vos plus beaux sourires !
 ## Vous aimeriez plus de détails?
 
 ### Contactez-nous!
+
 Pour toute question ou information supplémentaire, n'hésitez pas à nous contacter à support@sportscapitale.com
 
 > **Bon événement à tous et que la Saint-Valentin soit sportive ! ❤️🏃**
