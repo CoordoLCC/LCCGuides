@@ -24,9 +24,9 @@ La remise des dossards se fera **la journée même en continu**, à l'entrée du
 
 **Important :** Ayez en votre possession une **pièce d'identité** - elle vous sera demandée à votre arrivée.
 
-| Heure de début | Lieu | Document requis |
-|----------------|------|-----------------|
-| 6h30 | Entrée du Centre de Glaces Intact Assurance | Pièce d'identité valide |
+| Heure de début | Lieu                                        | Document requis         |
+| -------------- | ------------------------------------------- | ----------------------- |
+| 6h30           | Entrée du Centre de Glaces Intact Assurance | Pièce d'identité valide |
 
 ### Transfert de dossards/Changement d'épreuve
 
@@ -55,14 +55,14 @@ Même si aucun vestiaire surveillé n'est prévu, **des casiers sont disponibles
 
 **Date :** Samedi 14 février 2026
 
-| Activité | Heure |
-|----------|-------|
-| Remise des dossards | 6h30 à 8h30 |
-| **Départ** 2,5 km et 5 km | 7h30 |
-| Remise de médailles (2,5 km et 5 km) | 7h55 |
-| **Départ** 10 minutes Classiques | 8h15 |
-| **Départ** 10 km | 8h30 |
-| Remise de médailles (10 km) | 9h20 |
+| Activité                             | Heure       |
+| ------------------------------------ | ----------- |
+| Remise des dossards                  | 6h30 à 8h30 |
+| **Départ** 2,5 km et 5 km            | 7h30        |
+| Remise de médailles (2,5 km et 5 km) | 7h55        |
+| **Départ** 10 minutes Classiques     | 8h15        |
+| **Départ** 10 km                     | 8h30        |
+| Remise de médailles (10 km)          | 9h20        |
 
 #### Corrals/Vagues
 
@@ -86,21 +86,20 @@ Un grand écran au Centre de Glaces Intact Assurance affichera chaque passage à
 
 ### Dépassements
 
-- Privilégiez les **corridors intérieurs** pour dépasser
-- Les coureurs plus rapides doivent favoriser le **corridor gris (intérieur)**
+* Privilégiez les **corridors intérieurs** pour dépasser
+* Les coureurs plus rapides doivent favoriser le **corridor gris (intérieur)**
 
 ### Services médicaux
 
 **Présence de l'équipe de PCN Physiothérapie** pour vos petits bobos ou conseils.
 
-
 ### Les 10 minutes Classiques
 
 **Concept :** Inspiré du format "Backyard", l'objectif est de faire le **plus de boucles possible en 10 minutes**
 
-- Format animé par l'équipe du **Grand Club de Course**
-- Course ou marche, en solo ou en famille
-- L'important est de bouger dans le plaisir !
+* Format animé par l'équipe du **Grand Club de Course**
+* Course ou marche, en solo ou en famille
+* L'important est de bouger dans le plaisir !
 
 ## Après la course
 
@@ -111,8 +110,9 @@ Un grand écran au Centre de Glaces Intact Assurance affichera chaque passage à
 ### Résultats
 
 Tous les résultats seront disponibles **en temps réel** :
-- Sur l'application mobile Paceasy
-- Sur le site web de Sport Chrono : [https://resultats.sportchrono.com/evenements](https://resultats.sportchrono.com/evenements)
+
+* Sur l'application mobile Paceasy
+* Sur le site web de Sport Chrono : <https://resultats.sportchrono.com/evenements>
 
 ### Médailles et podium
 
@@ -125,13 +125,14 @@ Les médailles de participation seront remises à l'arrivée, **si vous avez pri
 Les podiums seront appelés au micro par l'animateur quelques minutes après chaque épreuve.
 
 **Récompenses :** Les trois premiers hommes et femmes de chaque distance recevront :
-- Une médaille
-- Un prix de nos partenaires
 
-| Position | Récompenses |
-|----------|-------------|
-| 1er, 2e, 3e (H/F) | Médaille + Prix partenaires |
-| Tous les participants* | Médaille de participation |
+* Une médaille
+* Un prix de nos partenaires
+
+| Position               | Récompenses                 |
+| ---------------------- | --------------------------- |
+| 1er, 2e, 3e (H/F)      | Médaille + Prix partenaires |
+| Tous les participants* | Médaille de participation   |
 
 ### Photos
 
@@ -139,18 +140,20 @@ Un **photographe sera sur place** pour capturer vos plus beaux sourires !
 
 📸 Les photos seront disponibles sur nos réseaux sociaux après la course.
 
-
 ## Partenaires
 
-Nous remercions chaleureusement nos partenaires qui rendent cet événement possible :
-- Centre de Glace Intact Assurance
-- PCN Physiothérapie
-- Grand Club de Course
+### Partenaire présentateur
 
+![Shop Santé](logo_ss_complet_noir-2.0-1-.png "Shop Santé")
+
+### Partenaires officiels
+
+* Centre de Glace Intact Assurance
+* PCN Physiothérapie
+* Grand Club de Course
 
 ## Autres questions/contact
 
 Pour toute question ou information supplémentaire, n'hésitez pas à nous contacter à support@sportscapitale.com
-
 
 > **Bon événement à tous et que la Saint-Valentin soit sportive ! ❤️🏃**
