@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erreur - Guide du Participant</title>
+    <link rel="stylesheet" href="/template/css/styles.css">
+</head>
+
+<body>
+    <header class="guide-header">
+        <h1>Guide du Participant</h1>
+    </header>
+
+    <main class="guide-wrapper">
+        <div class="guide-main-content">
+            <div class="error-message" id="error-content">
+                <h2>Erreur de chargement</h2>
+                <p id="error-details">Une erreur est survenue lors du chargement du guide.</p>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        // Get error message from URL params
+        const params = new URLSearchParams(window.location.search);
+        const errorMessage = params.get('message');
+        if (errorMessage) {
+            document.getElementById('error-details').textContent = decodeURIComponent(errorMessage);
+        }
+    </script>
+</body>
+
+</html>

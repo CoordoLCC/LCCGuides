@@ -61,16 +61,10 @@ async function fetchMarkdown(url) {
     return response.text();
 }
 
-function displayError(error) {
-    const content = document.getElementById("content");
-
-    content.innerHTML = `
-        <div class="error-message">
-            <h2>Error Loading Guide</h2>
-            <p>Unable to load the guide content. Please try again later.</p>
-            <p>Details: ${error.message}</p>
-        </div>
-    `;
+function displayError(details) {
+    console.error(error);
+    const errorUrl = `/template/error.html?message=${encodeURIComponent(details)}`;
+    window.location.href = errorUrl;
 }
 
 async function loadGuideContent(paths, isLocal = false) {
@@ -82,9 +76,7 @@ async function loadGuideContent(paths, isLocal = false) {
     const { metadata, content: markdownContent } = parseFrontmatter(rawMarkdown);
 
     if (metadata.status === "draft") {
-        const error = new Error("Ce guide est en cours de rédaction et sera disponible prochainement.");
-        console.error("Error loading guide:", error);
-        displayError(error);
+        displayError("Ce guide est en cours de rédaction et sera disponible prochainement.");
         return;
     }
 
@@ -101,6 +93,7 @@ async function loadGuideContent(paths, isLocal = false) {
 
     const sections = parseMarkdown(markdownContent, title);
 
+    initNavigation();
     renderNavigation(sections, navMenu);
     renderContent(sections, content);
 }
@@ -108,8 +101,6 @@ async function loadGuideContent(paths, isLocal = false) {
 // ===== INITIALIZATION =====
 
 async function init() {
-    initNavigation();
-
     // Check if we're in development mode (localhost)
     if (isDevelopment()) {
         const contentPath = DEV_CONFIG.MARKDOWN_URL || DEV_CONFIG.MARKDOWN_FILE;
@@ -119,34 +110,27 @@ async function init() {
         console.log("   Logo:", DEV_CONFIG.LOGO_FILE || "(none)");
 
         if (!contentPath) {
-            displayError(new Error("No MARKDOWN_URL or MARKDOWN_FILE defined in dev_config.js"));
+            displayError("LOCAL MODE : No MARKDOWN_URL or MARKDOWN_FILE defined in dev_config.js");
             return;
         }
 
         try {
             await loadGuideContent({ content: contentPath, basePath: null }, true);
         } catch (error) {
-            console.error("Error loading local guide:", error);
-            displayError(error);
+            displayError(`LOCAL MODE : ${error}`);
         }
         return;
     }
 
     // Normal mode: parse guide from URL path
     const guide = getGuideFromUrl();
-    if (!guide) {
-        console.error("Invalid guide URL");
-        displayError(new Error("Aucun guide trouvé à cette adresse."));
-        return;
-    }
 
     const paths = buildGuidePaths(guide);
 
     try {
         await loadGuideContent(paths);
     } catch (error) {
-        console.error("Error loading guide:", error);
-        displayError(error);
+        displayError(`${error}`);
     }
 }
 
