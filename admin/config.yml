@@ -10,6 +10,7 @@ collections:
   # Collection 1: Events (parent)
   - name: "events"
     label: "Événements"
+    label_singular: "Événement"
     folder: "guides"
     path: "events/{{slug}}"
     create: true
@@ -27,13 +28,14 @@ collections:
 
   # Collection 2: Guide Editions (child)
   - name: "guide_editions"
-    label: "Guides annuels"
+    label: "Guides"
+    label_singular: "Guide"
     folder: "guides"
     create: true
     path: "{{event}}/{{year}}/{{event}}"
     extension: "md"
     slug: "{{event}}-{{year}}"
-    label: "{{event}} - {{year}}"
+    summary: "{{event}} - {{year}}"
     identifier_field: slug
 
     fields:
