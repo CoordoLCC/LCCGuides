@@ -22,7 +22,7 @@ function getGuideFromUrl() {
 }
 
 function buildGuidePaths(guide) {
-    const basePath = `/${guide.slug}/${guide.year}`;
+    const basePath = `/guides/${guide.slug}/${guide.year}`;
     return {
         basePath,
         content: `${basePath}/${guide.slug}.md`,
