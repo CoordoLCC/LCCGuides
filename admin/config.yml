@@ -25,13 +25,14 @@ collections:
 
       - label: "Année"
         name: "year"
-        widget: "number"
-        value_type: "int"
+        widget: "string"
+        required: true
+        pattern: ["^[0-9]{4}$", "Entrez une année valide (ex: 2025)"]
 
       - label: "Logo (SVG seulement)"
         name: "logo"
         widget: "image"
-        media_folder: "/guides/{{slug}}/{{year}}"
+        media_folder: "/guides/{{fields.slug}}/{{fields.year}}"
         public_folder: ""
 
       - label: "Contenu du guide"
