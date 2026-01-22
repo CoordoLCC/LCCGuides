@@ -3,6 +3,13 @@ import { extractColorsFromLogo } from "./themeManager.js";
 import { initNavigation, renderNavigation } from "./navigation.js";
 import { parseMarkdown } from "./markdownParser.js";
 import { renderContent } from "./contentRenderer.js";
+import { DEV_CONFIG } from "./dev_config.js";
+
+// ===== ENVIRONMENT DETECTION =====
+function isDevelopment() {
+    const host = window.location.hostname;
+    return host === "localhost" || host === "127.0.0.1";
+}
 
 // ===== URL PARSING =====
 
@@ -66,7 +73,7 @@ function displayError(error) {
     `;
 }
 
-async function loadGuideContent(paths) {
+async function loadGuideContent(paths, isLocal = false) {
     const navMenu = document.getElementById("nav-menu");
     const content = document.getElementById("content");
     const title = document.getElementById("guide-title");
@@ -74,8 +81,20 @@ async function loadGuideContent(paths) {
     const rawMarkdown = await fetchMarkdown(paths.content);
     const { metadata, content: markdownContent } = parseFrontmatter(rawMarkdown);
 
-    // Build logo path from metadata
-    const logoUrl = metadata.logo ? `${paths.basePath}/${metadata.logo}` : null;
+    if (metadata.status === "draft") {
+        error("Ce guide est en cours de rédaction et sera disponible prochainement.");
+        console.error("Error loading guide:", error);
+        displayError(error);
+        return;
+    }
+
+    // Build logo path - use dev config in dev mode, frontmatter in production
+    let logoUrl = null;
+    if (isLocal) {
+        logoUrl = DEV_CONFIG.LOGO_FILE || null;
+    } else if (metadata.logo && paths.basePath) {
+        logoUrl = `${paths.basePath}/${metadata.logo}`;
+    }
     if (logoUrl) {
         await extractColorsFromLogo(logoUrl);
     }
@@ -89,15 +108,39 @@ async function loadGuideContent(paths) {
 // ===== INITIALIZATION =====
 
 async function init() {
+    initNavigation();
+
+    // Check if we're in development mode (localhost)
+    if (isDevelopment()) {
+        const contentPath = DEV_CONFIG.MARKDOWN_URL || DEV_CONFIG.MARKDOWN_FILE;
+
+        console.log("🧪 Development mode (localhost detected)");
+        console.log("   Markdown:", contentPath);
+        console.log("   Logo:", DEV_CONFIG.LOGO_FILE || "(none)");
+
+        if (!contentPath) {
+            displayError(new Error("No MARKDOWN_URL or MARKDOWN_FILE defined in dev_config.js"));
+            return;
+        }
+
+        try {
+            await loadGuideContent({ content: contentPath, basePath: null }, true);
+        } catch (error) {
+            console.error("Error loading local guide:", error);
+            displayError(error);
+        }
+        return;
+    }
+
+    // Normal mode: parse guide from URL path
     const guide = getGuideFromUrl();
     if (!guide) {
         console.error("Invalid guide URL");
+        displayError(new Error("Aucun guide trouvé à cette adresse."));
         return;
     }
 
     const paths = buildGuidePaths(guide);
-
-    initNavigation();
 
     try {
         await loadGuideContent(paths);

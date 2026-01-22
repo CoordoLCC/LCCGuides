@@ -435,6 +435,11 @@ body::before {
         display: flex;
     }
 
+    .guide-content-section,
+    .guide-subsection-box {
+        scroll-margin-top: 120px;
+    }
+
     .guide-nav-sidebar {
         width: 280px;
         min-width: 280px;
