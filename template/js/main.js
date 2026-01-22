@@ -124,7 +124,7 @@ async function loadGuideContent(paths, isLocal = false) {
     const sections = parseMarkdown(markdownContent, title);
 
     renderNavigation(sections);
-    renderContent(sections);
+    renderContent(sections, paths.basePath);
 
     // After rendering, scroll to hash if present
     if (window.location.hash) {

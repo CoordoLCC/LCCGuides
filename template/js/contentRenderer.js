@@ -4,49 +4,26 @@
  * Process custom image shortcode from Decap CMS
  * Supports: {{< sized-image src="image.jpg" alt="text" width="50%" height="200px" >}}
  */
-function processSizedImageShortcode(content) {
-    const shortcodeRegex = /{{< sized-image src="([^"]*)" alt="([^"]*)"(?: width="([^"]*)")?(?: height="([^"]*)")? >}}/g;
+function processSizedImageShortcode(content, basePath) {
+    const shortcodeRegex =
+        /{{< sized-image src="([^"]*)" alt="([^"]*)"(?: width="([^"]*)")?(?: height="([^"]*)")? >}}/g;
 
     return content.replace(shortcodeRegex, (match, src, alt, width, height) => {
         let style = "";
+        let absSrc = src;
+        if (src && !/^([a-z]+:)?\//i.test(src)) {
+            absSrc = basePath ? `${basePath}/${src}` : src;
+        }
         if (width) {
             style += "display: block; margin-left: auto; margin-right: auto; ";
             style += `width: ${width};`;
         }
         if (height) style += `height: ${height};`;
-        return `<img src="${src}" alt="${alt}" style="${style}">`;
+        return `<img src="${absSrc}" alt="${alt}" style="${style}">`;
     });
 }
 
-/**
- * Process custom image width syntax (legacy/manual)
- * Supports: ![alt](image.jpg){width=50%} or ![alt](image.jpg "title"){width=300px}
- */
-function processCustomImageSyntax(content) {
-    // Match ![alt](url){attrs} or ![alt](url "title"){attrs}
-    // The url group captures just the filename, ignoring optional "title"
-    const imageRegex = /!\[([^\]]*)\]\(([^\s")]+)(?:\s*"[^"]*")?\)\{([^}]+)\}/g;
-
-    return content.replace(imageRegex, (match, alt, url, attributes) => {
-        let style = "";
-
-        // Parse width
-        const widthMatch = attributes.match(/(?:width|w)=([^\s}]+)/);
-        if (widthMatch) {
-            style += `width: ${widthMatch[1]};`;
-        }
-
-        // Parse height
-        const heightMatch = attributes.match(/(?:height|h)=([^\s}]+)/);
-        if (heightMatch) {
-            style += `height: ${heightMatch[1]};`;
-        }
-
-        return `<img src='${url}' alt='${alt}' style='${style}'>`;
-    });
-}
-
-export function renderContent(sections) {
+export function renderContent(sections, basePath) {
     const container = document.getElementById("content");
     container.innerHTML = "";
 
@@ -73,8 +50,7 @@ export function renderContent(sections) {
             contentElement.className = "guide-content";
 
             // Process custom image syntaxes before markdown parsing
-            let processedContent = processSizedImageShortcode(subsection.content);
-            processedContent = processCustomImageSyntax(processedContent);
+            let processedContent = processSizedImageShortcode(subsection.content, basePath);
             contentElement.innerHTML = marked.parse(processedContent);
             subsectionElement.appendChild(contentElement);
 
