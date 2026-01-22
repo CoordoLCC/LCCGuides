@@ -8,6 +8,14 @@ status: published
 
 ## Avant la course
 
+### Partenaire présentateur
+
+{{< sized-image src="logo_ss_complet_noir-2.0-1-.png" alt="Shop Santé" width="100%" >}}
+
+### Partenaires officiels
+
+{{< sized-image src="partenairesofficielsadlc2026.png" alt="Maple3, Formagerie Victoria, Le Subtil" width="100%" >}}
+
 ### Introduction
 
 #### Mot du Président Directeur Général - Francis Bachand
@@ -36,7 +44,7 @@ Le transfert de dossards ou changement d'épreuve n'est **pas autorisé** pour c
 
 La Classique Les Amoureux de la Course est sanctionné ARGENT par Athlétisme Québec!
 
-{{< sized-image src="aq_sanction-argent.png" alt="Sanction Argent Athlétisme Québec" width="40%" >}}
+{{< sized-image src="aq_sanction-argent.png" alt="Sanction Argent Athlétisme Québec" width="30%" >}}
 
 ## Départ
 
