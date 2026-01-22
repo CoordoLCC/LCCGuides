@@ -3,18 +3,21 @@ backend:
   repo: Rayz224/LCCGuides
   branch: main
 
+media_folder: static/media
+public_folder: /media
+
 collections:
   - name: "guides"
     label: "Event Guides"
     folder: "guides"
     create: true
     slug: "{{event}}-{{year}}"
-    path: "{{event}}/{{year}}/{{event}}"
+    path: "{{event}}/{{year}}"
     media_folder: ""
     public_folder: ""
     fields:
-      - {label: "Event", name: "event", widget: "string", hint: "Event name (e.g., summer-event)"}
-      - {label: "Year", name: "year", widget: "string", hint: "Year (e.g., 2026)"}
+      - {label: "Nom de l'événement", name: "title", widget: "string", hint: "Événement (ex: Classique Champlain)"}
+      - {label: "Année", name: "year", widget: "string", hint: "Année (ex: 2026)"}
       - {label: "Logo", name: "logo", widget: "image", allow_multiple: false}
-      - {label: "Content", name: "body", widget: "markdown"}
+      - {label: "Contenu", name: "body", widget: "markdown"}
       - {label: "Status", name: "status", widget: "select", options: ["draft", "published"]}
