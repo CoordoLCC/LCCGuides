@@ -11,6 +11,7 @@ collections:
   - name: "events"
     label: "Événements"
     folder: "guides"
+    path: "events/{{slug}}"
     create: true
     slug: "{{slug}}"
     identifier_field: name
@@ -32,6 +33,7 @@ collections:
     path: "{{event}}/{{year}}/{{event}}"
     extension: "md"
     slug: "{{event}}-{{year}}"
+    label: "{{event}} - {{year}}"
     identifier_field: slug
 
     fields:
