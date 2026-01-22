@@ -32,6 +32,12 @@ La remise des dossards se fera **la journée même en continu**, à l'entrée du
 
 Le transfert de dossards ou changement d'épreuve n'est **pas autorisé** pour cet événement.
 
+### Certifications et sanctions
+
+La Classique Les Amoureux de la Course est sanctionné ARGENT par Athlétisme Québec!
+
+{{< sized-image src="aq_sanction-argent.png" alt="Sanction Argent Athlétisme Québec" width="40%" >}}
+
 ## Départ
 
 ### Emplacement
