@@ -32,7 +32,7 @@ collections:
     path: "{{event}}/{{year}}/{{event}}"
     extension: "md"
     slug: "{{event}}-{{year}}"
-    identifier_field: title
+    identifier_field: slug
 
     fields:
       - label: "Événement"
@@ -49,17 +49,6 @@ collections:
         widget: "number"
         value_type: "int"
 
-      - label: "Titre"
-        name: "title"
-        widget: "string"
-        hint: "Titre (ex: Classique Champlain)"
-
-      - label: "Status"
-        name: "status"
-        widget: "select"
-        options: ["draft", "published"]
-        default: "draft"
-
       - label: "Logo (SVG seulement)"
         name: "logo"
         widget: "image"
@@ -70,3 +59,9 @@ collections:
         name: "body"
         widget: "markdown"
         required: true
+
+      - label: "Status"
+        name: "status"
+        widget: "select"
+        options: ["draft", "published"]
+        default: "draft"
