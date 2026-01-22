@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/guides/:slug"
+  to = "/template/index.html"
+  status = 200
