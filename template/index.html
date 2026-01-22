@@ -30,6 +30,13 @@
         </nav>
 
         <div class="guide-main-content" id="content">
+            <!-- Loading overlay shown by default, removed when guide loads -->
+            <div id="loading-overlay" class="loading-overlay" aria-live="polite">
+                <div class="loading-box">
+                    <div class="spinner" aria-hidden="true"></div>
+                    <div class="loading-text">Chargement du guide…</div>
+                </div>
+            </div>
             <!-- Content will be loaded dynamically -->
         </div>
     </main>
