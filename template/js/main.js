@@ -62,7 +62,7 @@ async function fetchMarkdown(url) {
 }
 
 function displayError(details) {
-    console.error(error);
+    console.error(details);
     const errorUrl = `/template/error.html?message=${encodeURIComponent(details)}`;
     window.location.href = errorUrl;
 }
