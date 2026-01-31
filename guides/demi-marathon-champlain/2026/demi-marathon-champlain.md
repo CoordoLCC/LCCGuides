@@ -2,7 +2,7 @@
 title: Demi-Marathon Champlain
 year: "2026"
 logo: champlainlogo.svg
-status: draft
+status: published
 ---
 # Test
 
