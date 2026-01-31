@@ -2,6 +2,9 @@ backend:
   name: github
   repo: CoordoLCC/LCCGuides
   branch: main
+  site_domain: https://guides.lcc-interne.com
+  base_url: https://guides.lcc-interne.com
+  auth_endpoint: /api/auth
 
 media_folder: assets
 public_folder: /assets
