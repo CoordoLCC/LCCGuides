@@ -1,2 +1,2 @@
-/guides/:slug/:year /template/index 200
-/guides/:slug/:year/ /template/index 200
+/guides/:slug/:year /template/guide 200
+/guides/:slug/:year/ /template/guide 200
