@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Rayz224/LCCGuides
+  repo: CoordoLCC/LCCGuides
   branch: main
 
 media_folder: static/media
