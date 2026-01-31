@@ -15,8 +15,6 @@ collections:
     path: "{{slug}}/{{year}}/{{slug}}"
     extension: "md"
     summary: "{{title}} - {{fields.year}}"
-    media_folder: "{{media_folder}}"
-    public_folder: "{{public_folder}}"
 
     fields:
       - label: "Événement"
