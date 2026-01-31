@@ -30,9 +30,9 @@ LCCGuides is a static site for publishing event guides. It uses simple Markdown 
 ### Deployment details
 
 - The repo is under the CoordoLCC GitHub account.
-- The site is deployed on Netlify with the CoordoLCC account.
-    - Github OAuth with Netlify is used for authentication in Decap CMS.
-- The `guides.lcc-interne.com` domain points to the Netlify deployment and is registered with Cloudflare (Raph's account).
+- The site is deployed on Cloudflare Pages with Raph's account.
+    - Github OAuth with is used for authentication in Decap CMS (Cloudflare functions).
+- The `guides.lcc-interne.com` domain points to the Cloudflare Pages deployment and is registered with Raph's account on Cloudflare.
 
 ### Repository layout
 
@@ -42,5 +42,6 @@ LCCGuides is a static site for publishing event guides. It uses simple Markdown 
 	- `template/index.html` — Main page template.
 	- `template/css/styles.css` — Styles.
 	- `template/js/` — Client-side scripts (`markdownParser.js`, `contentRenderer.js`, `main.js`, etc.).
-- `netlify.toml` — Deployment configuration for Netlify.
+- `_redirects` — Deployment configuration for Cloudflare Pages.
+- `functions/` — Cloudflare functions for Decap CMS backend (GitHub OAuth).
 
