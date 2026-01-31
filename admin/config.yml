@@ -15,8 +15,8 @@ collections:
     path: "{{slug}}/{{year}}/{{slug}}"
     extension: "md"
     summary: "{{title}} - {{fields.year}}"
-    media_folder: {{media_folder}}
-    public_folder: {{public_folder}}
+    media_folder: "{{media_folder}}"
+    public_folder: "{{public_folder}}"
 
     fields:
       - label: "Événement"
@@ -35,8 +35,6 @@ collections:
         name: "logo"
         widget: "image"
         pattern: [".*\\.svg$", "Seuls les fichiers SVG sont autorisés."]
-        media_folder: "{{media_folder}}/logos"
-        public_folder: "{{public_folder}}/logos"
 
       - label: "Contenu du guide"
         name: "body"
