@@ -94,6 +94,13 @@ Des **périodes d'échauffement** seront indiquées par l'animateur. Veuillez su
 
 **Configuration :** Une boucle intérieure de **456 mètres**
 
+| Activité                                                          | Nombre de tours |
+| ------------------------------------------------------------------| --------------- |
+| 5 km Le Subtil (Départ 15m après la ligne d'arrivée)              | 11 tours        |
+| 10 minutes classiques La Fomagerie Victoria                       | Le plus possible|
+| 10 km La Fomagerie Victoria (Départ 30m après la ligne d'arrivée) | 22 tours        |
+| 2.5 km (Départ 236m après la ligne d'arrivée)                     | 6 tours         |
+
 Un grand écran au Centre de Glaces Intact Assurance affichera chaque passage à la ligne pour vous aider à suivre votre progression.
 
 ⚠️ **Note importante :** L'équipe des Classiques Capitale n'est pas responsable de comptabiliser vos tours de pistes. Utilisez l'écran géant pour suivre vos passages.
