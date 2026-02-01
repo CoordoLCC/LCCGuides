@@ -1,7 +1,7 @@
 ---
 title: Classique Les Amoureux de la course
 year: "2026"
-logo: amoureuxlogo.svg
+logo: /assets/amoureuxlogo.svg
 status: published
 ---
 # Guide du coureur : Classique Les Amoureux de la course 2026
@@ -10,11 +10,11 @@ status: published
 
 ### Partenaire présentateur
 
-{{< sized-image src="logo_ss_complet_noir-2.0-1-.png" alt="Shop Santé" width="100%" >}}
+{{< sized-image src="/assets/logo_ss_complet_noir-2.0-1-.png" alt="Shop Santé" width="100%" >}}
 
 ### Partenaires officiels
 
-{{< sized-image src="partenairesofficielsadlc2026.png" alt="Maple3, Formagerie Victoria, Le Subtil" width="100%" >}}
+{{< sized-image src="/assets/partenairesofficielsadlc2026.png" alt="Maple3, Formagerie Victoria, Le Subtil" width="100%" >}}
 
 ### Introduction
 
@@ -44,7 +44,7 @@ Le transfert de dossards ou changement d'épreuve n'est **pas autorisé** pour c
 
 La Classique Les Amoureux de la Course est sanctionné ARGENT par Athlétisme Québec!
 
-{{< sized-image src="aq_sanction-argent.png" alt="Sanction Argent Athlétisme Québec" width="30%" >}}
+{{< sized-image src="/assets/aq_sanction-argent.png" alt="Sanction Argent Athlétisme Québec" width="30%" >}}
 
 ## Départ
 
@@ -94,12 +94,12 @@ Des **périodes d'échauffement** seront indiquées par l'animateur. Veuillez su
 
 **Configuration :** Une boucle intérieure de **456 mètres**
 
-| Activité                                                               | Nombre de tours |
-| -----------------------------------------------------------------------| --------------- |
-| 5 km Le Subtil (**Départ 15m après la ligne d'arrivée**)               | 11 tours        |
-| 10 minutes classiques La Fomagerie Victoria                            | Le plus possible|
-| 10 km La Fomagerie Victoria (**Départ 30m après la ligne d'arrivée**)  | 22 tours        |
-| 2.5 km La Fomagerie Victoria (**Départ 235m après la ligne d'arrivée**)| 6 tours         |
+| Activité                                                                | Nombre de tours  |
+| ----------------------------------------------------------------------- | ---------------- |
+| 5 km Le Subtil (**Départ 15m après la ligne d'arrivée**)                | 11 tours         |
+| 10 minutes classiques La Fomagerie Victoria                             | Le plus possible |
+| 10 km La Fomagerie Victoria (**Départ 30m après la ligne d'arrivée**)   | 22 tours         |
+| 2.5 km La Fomagerie Victoria (**Départ 235m après la ligne d'arrivée**) | 6 tours          |
 
 Un grand écran au Centre de Glaces Intact Assurance affichera chaque passage à la ligne pour vous aider à suivre votre progression.
 
@@ -165,15 +165,15 @@ Un **photographe sera sur place** pour capturer vos plus beaux sourires !
 
 ### Partenaire présentateur
 
-{{< sized-image src="logo_ss_complet_noir-2.0-1-.png" alt="Shop Santé" width="100%" >}}
+{{< sized-image src="/assets/logo_ss_complet_noir-2.0-1-.png" alt="Shop Santé" width="100%" >}}
 
 ### Partenaires officiels
 
-{{< sized-image src="partenairesofficielsadlc2026.png" alt="Maple3, Formagerie Victoria, Le Subtil" width="100%" >}}
+{{< sized-image src="/assets/partenairesofficielsadlc2026.png" alt="Maple3, Formagerie Victoria, Le Subtil" width="100%" >}}
 
 ### Partenaires majeurs/publics et fournisseurs
 
-{{< sized-image src="partenairesmajeurspubliquesetfournisseursadlc2026.png" alt="Athlétisme Québec, Centre de Glace Intact Assurances, PCN Physio, Krispy Kernels, Café Barista" width="100%" >}}
+{{< sized-image src="/assets/partenairesmajeurspubliquesetfournisseursadlc2026.png" alt="Athlétisme Québec, Centre de Glace Intact Assurances, PCN Physio, Krispy Kernels, Café Barista" width="100%" >}}
 
 ## Vous aimeriez plus de détails?
 
