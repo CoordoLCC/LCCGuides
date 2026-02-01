@@ -1,7 +1,7 @@
 ---
 title: Demi-Marathon Champlain
 year: "2026"
-logo: champlainlogo.svg
+logo: /assets/champlainlogo.svg
 status: published
 ---
 # Guide du coureur : Demi-Marathon Champlain 2026
@@ -10,11 +10,11 @@ status: published
 
 ### Partenaire présentateur
 
-{{< sized-image src="logo_ss_complet_noir-2.0-1-.png" alt="Shop Santé" width="100%" >}}
+{{< sized-image src="/assets/logo_ss_complet_noir-2.0-1-.png" alt="Shop Santé" width="100%" >}}
 
 ### Partenaires officiels
 
-{{< sized-image src="partenairesofficielsadlc2026.png" alt="Maple3, Formagerie Victoria, Le Subtil" width="100%" >}}
+{{< sized-image src="/assets/partenairesofficielsadlc2026.png" alt="Maple3, Formagerie Victoria, Le Subtil" width="100%" >}}
 
 ### Introduction
 
@@ -46,7 +46,7 @@ Le transfert de dossards ou changement d'épreuve n'est **pas autorisé** pour c
 
 La Classique Les Amoureux de la Course est sanctionné ARGENT par Athlétisme Québec!
 
-{{< sized-image src="aq_sanction-argent.png" alt="Sanction Argent Athlétisme Québec" width="30%" >}}
+{{< sized-image src="/assets/aq_sanction-argent.png" alt="Sanction Argent Athlétisme Québec" width="30%" >}}
 
 ## Départ
 
@@ -167,15 +167,15 @@ Un **photographe sera sur place** pour capturer vos plus beaux sourires !
 
 ### Partenaire présentateur
 
-{{< sized-image src="logo_ss_complet_noir-2.0-1-.png" alt="Shop Santé" width="100%" >}}
+{{< sized-image src="/assets/logo_ss_complet_noir-2.0-1-.png" alt="Shop Santé" width="100%" >}}
 
 ### Partenaires officiels
 
-{{< sized-image src="partenairesofficielsadlc2026.png" alt="Maple3, Formagerie Victoria, Le Subtil" width="100%" >}}
+{{< sized-image src="/assets/partenairesofficielsadlc2026.png" alt="Maple3, Formagerie Victoria, Le Subtil" width="100%" >}}
 
 ### Partenaires majeurs/publics et fournisseurs
 
-{{< sized-image src="partenairesmajeurspubliquesetfournisseursadlc2026.png" alt="Athlétisme Québec, Centre de Glace Intact Assurances, PCN Physio, Krispy Kernels, Café Barista" width="100%" >}}
+{{< sized-image src="/assets/partenairesmajeurspubliquesetfournisseursadlc2026.png" alt="Athlétisme Québec, Centre de Glace Intact Assurances, PCN Physio, Krispy Kernels, Café Barista" width="100%" >}}
 
 ## Vous aimeriez plus de détails?
 
