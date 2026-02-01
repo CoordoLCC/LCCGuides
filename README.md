@@ -38,6 +38,7 @@ LCCGuides is a static site for publishing event guides. It uses simple Markdown 
 
 - `admin/` — Decap CMS configuration and admin UI (`index.html`, `config.yml`, `widgets.js`).
 - `guides/` — Content directory. Each guide is organized by name and year, e.g. `guides/<name>/<year>/<file>.md`.
+- `assets/` — Static assets used by the site (images, logos, etc.).
 - `template/` — Static site template used for preview and local testing:
 	- `template/index.html` — Main page template.
 	- `template/css/styles.css` — Styles.
