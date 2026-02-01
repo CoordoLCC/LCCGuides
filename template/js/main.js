@@ -79,6 +79,8 @@ async function fetchMarkdown(url) {
 function getLogoUrl(metadata, paths, isLocal) {
     if (isLocal) {
         return DEV_CONFIG.LOGO_FILE || null;
+    } else if (metadata.logo.startsWith("/")) {
+        return metadata.logo;
     } else if (metadata.logo && paths.basePath) {
         return `${paths.basePath}/${metadata.logo}`;
     }
