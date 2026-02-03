@@ -2,7 +2,7 @@
 title: Demi-Marathon Champlain
 year: "2026"
 logo: /assets/champlainlogo.svg
-status: draft
+status: published
 ---
 # Guide du coureur : Demi-Marathon Champlain 2026
 
