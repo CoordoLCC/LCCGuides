@@ -145,7 +145,7 @@ Les médailles de participation seront remises à l'arrivée, **si vous avez pri
 
 Les podiums seront appelés au micro par l'animateur quelques minutes après chaque épreuve.
 
-**Récompenses :** Les trois premiers hommes et femmes de chaque distance recevront :
+**Récompenses :** Les trois premiers hommes et femmes de chaque distance (5 km et 10 km) recevront :
 
 * Une médaille
 * Un prix de nos partenaires
