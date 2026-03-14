@@ -1,4 +1,9 @@
+/_redirects /_redirects 200
+/admin/* /admin/:splat 200
+/assets/* /assets/:splat 200
+/template/* /template/:splat 200
+
 /:slug/:year /template/guide 200
 /:slug/:year/ /template/guide 200
-/guides/:slug/:year /template/guide 200
-/guides/:slug/:year/ /template/guide 200
+/guides/:slug/:year /:slug/:year 301
+/guides/:slug/:year/ /:slug/:year/ 301
