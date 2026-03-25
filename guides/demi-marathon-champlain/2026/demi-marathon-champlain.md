@@ -322,7 +322,7 @@ Des **photographes seront sur place** pour capturer vos plus beaux sourires !
 
 ### Partenaires majeurs/publics et fournisseurs
 
-{{< sized-image src="/assets/partenairesmajeurspubliquesetfournisseursadlc2026.png" alt="Athlétisme Québec, Centre de Glace Intact Assurances, PCN Physio, Krispy Kernels, Café Barista" width="100%" >}}
+{{< sized-image src="/assets/partenairepubliquesclc2026.png" alt="Athlétisme Québec, Centre de Glace Intact Assurances, PCN Physio, Krispy Kernels, Café Barista" width="100%" >}}
 
 ## Vous aimeriez plus de détails?
 
