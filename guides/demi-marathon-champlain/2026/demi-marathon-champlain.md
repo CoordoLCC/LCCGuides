@@ -2,7 +2,7 @@
 title: Demi-Marathon Champlain
 year: "2026"
 logo: /assets/champlainlogo.svg
-status: draft
+status: published
 ---
 # Guide du coureur : Demi-Marathon Champlain 2026
 
@@ -20,9 +20,7 @@ status: draft
 
 #### Mot du Président Directeur Général - Francis Bachand
 
-***À MODIFIER***
-
-> « Bienvenue à la première Classique de la saison ! Que vous soyez ici pour battre votre record personnel sur notre piste ultra-rapide ou pour partager un moment sportif en duo pour la Saint-Valentin, nous sommes ravis de vous accueillir au Centre de Glace Intact Assurance. !!!!»
+> Lancer la saison sur la Promenade Samuel-De Champlain, c'est offrir aux coureurs un décor de carte postale à chaque foulée. Courir au bord du fleuve, au moment précis où la lumière du matin transforme le paysage, insuffle une énergie unique qui pousse chacun à se dépasser, peu importe son niveau. C'est un immense privilège de voir une communauté aussi diversifiée s'approprier ce lieu emblématique pour relever un défi sain, tout en honorant la beauté de notre capitale par nos gestes durables.
 
 #### Mission de Les Classiques Capitale
 
@@ -30,95 +28,227 @@ Les Classiques Capitale s'engage à promouvoir la course à pied dans une atmosp
 
 ### Remise des dossards
 
-La remise des dossards se fera **la journée même en continu**, à l'entrée du Centre de Glaces Intact Assurance.
+Pour éviter l'attente le jour de l'événement et prendre le départ l'esprit tranquille, nous vous recommandons fortement de récupérer votre dossard à l'avance chez notre partenaire Shop Santé. 
 
-**Important :** Ayez en votre possession une **pièce d'identité** - elle vous sera demandée à votre arrivée.
+Des concours et de l'animation sont prévus sur place pour bien lancer votre week-end de course!
 
-| Heure de début | Lieu                                        | Document requis         |
-| -------------- | ------------------------------------------- | ----------------------- |
-| 6h30           | Entrée du Centre de Glaces Intact Assurance | Pièce d'identité valide |
+| Dates                                      | Heures     | Lieu                              | Épreuves                                     | Addresse                                                        |
+|--------------------------------------------|------------|-----------------------------------|----------------------------------------------|-----------------------------------------------------------------|
+| Mercredi 22, jeudi 23 et vendredi 24 avril | 16h à 20h  | Shop Santé Lebourgneuf            | Toutes                                       | 5580, boulevard des Gradins, local 100, Québec (Québec) G2J 1R7 |
+| Samedi 25 avril                            | 7h à 10h30 | Pavillon de la Station de la Côte | 20 minutes classiques, 2,5 km, 5 km et 10 km | 400 Bd Champlain                                                |
+| Dimanche 26 avril                          | 14h à 20h  | Pavillon de la Station de la Côte | Demi-Marathon                                | 400 Bd Champlain                                                |
+
+Notes importantes :
+- Le samedi matin, seulement les coureurs inscrits au 20 minutes classiques, 2,5 km, 5 km et 10 km pourront récupérer leur dossard.
+- AUCUNE remise de dossard ne sera possible le dimanche matin pour le demi-marathon.
+- **Important :** Ayez en votre possession une **pièce d'identité** - elle vous sera demandée à votre arrivée.
+
+À AJOUTER PRÉVENTION FRAUDE
 
 ### Transfert de dossards/Changement d'épreuve
 
-Le transfert de dossards ou changement d'épreuve n'est **pas autorisé** pour cet événement.
+Le transfert de dossards ou le changement d’épreuve doivent se faire directement sur votre compte client Sport Chrono. Des frais s’appliquent selon la politique d’inscription en vigueur.
+
+La procédure pour effectuer un transfert ou un changement d’épreuve peut être consultée sur notre site web : TODO
 
 ### Certifications et sanctions
 
-La Classique Les Amoureux de la Course est sanctionné ARGENT par Athlétisme Québec!
+Le Demi-Marathon Champlain est sanctionné ARGENT par Athlétisme Québec!
 
 {{< sized-image src="/assets/aq_sanction-argent.png" alt="Sanction Argent Athlétisme Québec" width="30%" >}}
 
-## Départ
+## Départ 
 
 ### Emplacement
 
-**Centre de Glace Intact Assurance**
+| Épreuve               | Lieu                                                  | Addresse  |
+|-----------------------|-------------------------------------------------------|-----------|
+| 20 minutes classiques | Site d'arrivée                                        | Link TODO |
+| 2.5km, 5km, 10km      | Promenade Champlain, en face de la Station de la Côte | Link TODO |
+| Demi-Marathon         | Boulevard Champlain, Quai des cageux                  | Link TODO |
 
-[999 Av. De Rochebelle, Québec, QC G1V 0J6](https://maps.app.goo.gl/FyVkzYLE293GHr2L7)
+PLAN DU SITE DE DÉPART TODO
 
 ### Stationnement et accès
 
-**Stationnement gratuit** disponible directement au Centre de Glaces.
+**Stationnement gratuit** disponible à plusieurs emplacements :
+
+**Samedi 25 avril :**
+
+STATIONNEMENT SAMEDI TODO
+
+| Emplacement                    | Addresse                               | Notes                                                            |
+|--------------------------------|----------------------------------------|------------------------------------------------------------------|
+| P1                             | Stationnement de la Station de la Côte | À proximité immédiate                                            |
+| P2                             | Stationnement du Domaine Cataraqui     | Suivre les indications pour descendre vers la Station de la Côte |
+| P3                             | Belvédère de la Côte de Sillery        | À proximité, accès par la Promenade Champlain                    |
+| P4                             | Stationnement Chemin du Foulon         | À proximité, accès par la Promenade Champlain                    |
+| Le long du Boulevard Champlain | ..                                     | ..                                                               |
+
+Attention, le stationnement de la Station de la Plage sera fermé!
+
+**Dimanche 26 avril :**
+
+STATIONNEMENT DIMANCHE TODO
+
+| Emplacement                                         | Addresse                               | Notes                                                            |
+|-----------------------------------------------------|----------------------------------------|------------------------------------------------------------------|
+| P1                                                  | Stationnement de la Station de la Côte | À proximité immédiate                                            |
+| P2                                                  | Stationnement du Domaine Cataraqui     | Suivre les indications pour descendre vers la Station de la Côte |
+| P3                                                  | Belvédère de la Côte de Sillery        | À proximité, accès par la Promenade Champlain                    |
+| P4                                                  | Stationnement Chemin du Foulon         | À proximité, accès par la Promenade Champlain                    |
+| P5                                                  | Stationnement au bas de la Côte Ross   | Prendre la navette                                               |
+| P6                                                  | Stationnement du Quai des Cageux       | Prendre la navette                                               |
+| Le long du Boulevard Champlain (Côté nord seulement | ..                                     | Le coté sud (coté fleuve) sera inaccessible                      |
+
+Attention, le stationnement de la Station de la Plage sera fermé!
+
+### Navettes (Dimanche 26 avril)
+Le service de navettes est réservé exclusivement aux participants de la distance du demi-marathon. Les autobus circuleront en alternance entre la Station de la Côte (P1) et le Quai des Cageux (P6) de **4h45 à 10h00**. 
+
+Ce service est mis à votre disposition pour assurer la liaison entre les deux sites et faciliter l'accès à la ligne de départ ou le retour à votre véhicule, selon le stationnement que vous aurez choisi.
 
 ### Vestiaires
 
-Même si aucun vestiaire surveillé n'est prévu, **des casiers sont disponibles** près de la ligne d'arrivée. Ayez un cadenas en main au besoin.
+Un vestiaire sera disponible au pavillon de la Station de la Côte, le samedi et le dimanche pour tous les participants.
+Vous pourrez y déposer vos effets personnels avant le départ et les récupérer au même endroit après votre épreuve.
 
-> ⚠️ Les Classiques Capitale et le Centre de Glaces Intact Assurance ne sont pas responsables des objets perdus.
+**Dimanche 26 avril :** Un véhicule de transport sera aussi situé proche du départ du demi-marathon pour récupérer vos effets personnels, ils seront ensuite disponibles au pavillon de la Station de la Côte à votre arrivée. 
+
+> ⚠️ Les Classiques Capitale ne sont pas responsables des objets perdus. Tout article non récupéré dans les 48 heures suivant l’événement sera remis à des organismes de bienfaisance.
 
 ### Horaire
 
-**Date :** Samedi 14 février 2026
+**Date :** Samedi 25 avril 2026
 
-| Activité                                                | Heure       |
-| ------------------------------------------------------- | ----------- |
-| Remise des dossards                                     | 6h30 à 8h30 |
-| **Départ** 5 km Le Subtil                               | 7h30        |
-| Remise de médailles (2,5 km et 5 km)                    | 7h55        |
-| **Départ** 10 minutes classiques La Fromagerie Victoria | 8h15        |
-| **Départ** 10 km La Fromagerie Victoria                 | 8h30        |
-| **Départ** 2,5 km La Fomagerie Victoria                 | 8h30        |
-| Remise de médailles (10 km)                             | 9h20        |
+| Activité                                                | Heure      |
+|---------------------------------------------------------|------------|
+| Remise des dossards (20min, 2.5km, 5km, 10km)           | 7h à 10h30 |
+| **Départ** 20 minutes classiques La Fromagerie Victoria | 8h30       |
+| **Départ** 5km Le Subtil                                | 9h00       |
+| Remise de médailles (5 km)                              | ~9h25      |
+| **Départ** 2,5 km La Fromagerie Victoria                | 9h45       |
+| Remise de médailles (2,5 km)                            | ~10h       |
+| **Départ** 10 km La Fomagerie Victoria                  | 10h30      |
+| Remise de médailles (10 km)                             | ~11h15     |
+| Remise des dossards (21.1km)                            | 14h à 20h  |
 
+**Date :** Dimanche 26 avril 2026
+
+| Activité                      | Heure    |
+|-------------------------------|----------|
+| **Départ** 21.1km Maple3      | **5h45** |
+| Remise de médailles (21.1 km) | ~7h30    |
+
+> ⚠️ Le départ du Demi-Marathon est au levé du soleil donc très tôt! 
 #### Corrals/Vagues
 
-Les départs se font **par distance**. Vous serez appelé à la ligne **10 minutes avant votre départ**.
+**Samedi 25 avril 2026 :**
 
-> **Conseil :** Soyez attentifs aux annonces de l'animateur pour ne pas manquer votre vague de départ.
+Les départs se feront en une seule vague pour les 20 minutes classiques, 2.5 km, 5 km et 10 km.
 
-### Échauffement
+**Dimanche 26 avril 2026 :**
 
-Des **périodes d'échauffement** seront indiquées par l'animateur. Veuillez suivre attentivement les instructions (temps alloués, corridor à suivre).
+Le départ du demi-marathon se fera en plusieurs vagues, voici les temps estimés pour chaque corral, vous êtes invités à vous placer dans le corral correspondant à votre temps estimé pour assurer une course fluide et sécuritaire pour tous les participants.
+
+| Couleur du corral | Temps estimé  |
+|-------------------|---------------|
+| Bleu              | Moins de 1h35 |
+| Vert              | 1h35 à 1h45   |
+| Orange            | 1h45 à 2h00   |
+| Mauve             | 2h00 à 2h15   |
+| Rouge             | 2h15 et plus  |
 
 ## Durant la course
 
 ### Parcours
 
-**Configuration :** Une boucle intérieure de **456 mètres**
+Voici les parcours détaillés pour chaque épreuve.
 
-| Activité                                                                | Nombre de tours  |
-| ----------------------------------------------------------------------- | ---------------- |
-| 5 km Le Subtil (**Départ 15m après la ligne d'arrivée**)                | 11 tours         |
-| 10 minutes classiques La Fomagerie Victoria                             | Le plus possible |
-| 10 km La Fomagerie Victoria (**Départ 30m après la ligne d'arrivée**)   | 22 tours         |
-| 2.5 km La Fomagerie Victoria (**Départ 235m après la ligne d'arrivée**) | 6 tours          |
+| Éreuve                                                      | Lien                                    |
+|-------------------------------------------------------------|-----------------------------------------|
+| 20 minutes classiques La Fomagerie Victoria (Tours de ~500m | https://ridewithgps.com/routes/53839817 |
+| 2.5 km La Fomagerie Victoria                                | https://ridewithgps.com/routes/53839813                                        |
+| 5 km Le Subtil                                              | https://ridewithgps.com/routes/53839814 |
+| 10 km La Fomagerie Victoria                                 | https://ridewithgps.com/routes/53839815 |
+| 21.1 km Maple3                                              | https://ridewithgps.com/routes/53839816 |
 
-Un grand écran au Centre de Glaces Intact Assurance affichera chaque passage à la ligne pour vous aider à suivre votre progression.
+### Ravitaillements
 
-⚠️ **Note importante :** L'équipe des Classiques Capitale n'est pas responsable de comptabiliser vos tours de pistes. Utilisez l'écran géant pour suivre vos passages.
+Aucun ravitaillement ne sera offert pour les 20 minutes classiques, le 2.5 km et le 5km.
 
-### Dépassements
+**10 km :** 
 
-* Privilégiez les **corridors intérieurs** pour dépasser
-* Les coureurs plus rapides doivent favoriser le **corridor gris (intérieur)**
+| Kilométrage | Ravitaillement |
+|-------------|----------------|
+| 5 km        | Eau et Maple3  |
+| 8 km        | Eau et Maple3  |
+
+**21.1 km :**
+
+| Kilométrage | Ravitaillement           |
+|-------------|--------------------------|
+| 3 km        | Eau et Maple3            |
+| 6 km        | Eau, Maple3 et Toilettes |
+| 10 km       | Eau, Maple3 et Toilettes |
+| 13 km       | Eau et Maple3            |
+| 16 km       | Eau et Maple3            |
+| 19 km       | Eau et Maple3            |
+
+De l'eau et une collation après-course fournie par nos partenaires sera également disponibles à l'arrivée pour tous les participants.
+
+#### Faire attention à l'environnement
+L'organisation des Classiques Capitales applique une politique de zéro tolérance concernant les déchets sur le parcours. 
+
+> ⚠️ Un participant qui jette des déchets sur le parcours à l'extérieur des zones de ravitaillement s'expose à une disqualification immédiate.
+
+Nous comptons sur votre civisme pour préserver l'environnement en utilisant les bacs de tri mis à votre disposition sur les sites de l'événement. 
+
+Merci de nous aider à garder les lieux propres et à minimiser notre empreinte écologique.
+
+### Lapins de cadence
+
+Nos lapins de cadence seront présents sur le parcours le dimanche pour vous accompagner exclusivement sur la distance du demi-marathon. 
+
+Repérez-les grâce à leurs déguisements et leurs affiches de temps pour vous aider à maintenir votre allure.
+
+Voici les temps visés par nos lapins de cadence pour le demi-marathon :
+- 1h30
+- 1h40
+- 1h50
+- 2h00
+- 2h10
+- 2h20
+- 2h30
+
+### Véhicules d'abandon
+Un véhicule d'abandon sera disponible pour les coureurs désirant abandonner ou incapable de terminer l'épreuve. Si vous devez vous retirer, veuillez en informer immédiatement le bénévole le plus proche afin qu'il puisse demander le passage du véhicule. Celui-ci vous ramènera à la Station de la Côte.
+
+Veuillez noter que ce service est destiné aux abandons logistiques seulement ; pour toute urgence de santé, nous priorisons l'accès rapide au service médical.
+
+### Temps limite
+Le temps limite pour compléter les épreuves est fixé selon les distances :
+- Demi-marathon : 3h30
+- 10 km : 2h00
+- 5 km : 1h00
+
+Passé ces délais, le parcours sera progressivement rouvert et la sécurité ne sera plus assurée.
 
 ### Services médicaux
 
-**L'équipe de PCN Physiothérapie** sera présente sur place pour vos petits bobos ou conseils.
+Les services médicaux seront assurés par **Dessercom**. Plusieurs intervenants seront répartis sur le parcours pour assurer votre sécurité.
 
-### Les 10 minutes classiques présentés par La Fromagerie Victoria
+L'équipe de **PCN Physiothérapie** sera présente sur place pour vous offrir des soins et des conseils.
 
-**Concept :** Inspiré du format "Backyard", l'objectif est de faire le **plus de boucles possible en 10 minutes**
+#### Quoi faire en cas d'urgence
+
+En cas d'urgence, veuillez vous référer au numéro de téléphone inscrit au dos de votre dossard. 
+
+Pour une intervention rapide, contactez ce numéro ou adressez-vous immédiatement au bénévole le plus proche sur le parcours.
+
+### Les 20 minutes classiques présentés par La Fromagerie Victoria
+
+**Concept :** Inspiré du format "Backyard", l'objectif est de faire le **plus de boucles d'environ 500m possible en 20 minutes**
 
 * Animé par l'équipe du **Grand Club de Course**
 * Course ou marche, en solo ou en famille
@@ -147,15 +277,10 @@ Les médailles de participation seront remises à l'arrivée, **si vous avez pri
 
 Les podiums seront appelés au micro par l'animateur quelques minutes après chaque épreuve.
 
-**Récompenses :** Les trois premiers hommes et femmes de chaque distance recevront :
+**Récompenses :** Les trois premiers hommes et femmes de chaque distance (2.5 km, 5 km, 10 km et 21.1 km) recevront :
 
-* Une médaille
-* Un prix de nos partenaires
-
-| Position               | Récompenses                 |
-| ---------------------- | --------------------------- |
-| 1er, 2e, 3e (H/F)      | Médaille + Prix partenaires |
-| Tous les participants* | Médaille de participation   |
+* Une médaille selon leur position
+* Un prix de notre partenaire présentateur Shop Santé
 
 ### Photos
 
@@ -183,4 +308,4 @@ Un **photographe sera sur place** pour capturer vos plus beaux sourires !
 
 Pour toute question ou information supplémentaire, n'hésitez pas à nous contacter à support@sportscapitale.com
 
-> **Bon événement à tous et que la Saint-Valentin soit sportive ! ❤️🏃**
+> **Bon événement à tous ! ❤️🏃**
