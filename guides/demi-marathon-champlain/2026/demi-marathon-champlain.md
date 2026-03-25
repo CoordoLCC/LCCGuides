@@ -32,29 +32,27 @@ Les Classiques Capitale s'engage à promouvoir la course à pied dans une atmosp
 
 Pour éviter l'attente le jour de l'événement et prendre le départ l'esprit tranquille, nous vous recommandons fortement de récupérer votre dossard à l'avance chez notre partenaire Shop Santé. 
 
-Des concours et de l'animation sont prévus sur place pour bien lancer votre week-end de course!
+| Dates                                      | Heures     | Lieu                              | Épreuves                                     | Addresse                                                                                       |
+| ------------------------------------------ | ---------- | --------------------------------- | -------------------------------------------- |------------------------------------------------------------------------------------------------|
+| Mercredi 22, jeudi 23 et vendredi 24 avril | 16h à 20h  | Shop Santé Lebourgneuf            | Toutes                                       | [5580 Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9) |
+| Samedi 25 avril                            | 7h à 10h30 | Pavillon de la Station de la Côte | 20 minutes classiques, 2,5 km, 5 km et 10 km | [400 Bd Champlain, Québec, QC G1T](https://maps.app.goo.gl/oAhSHfF5Fxn8uXqU7)                  |
+| Samedi 25 avril                            | 14h à 18h  | Pavillon de la Station de la Côte | Demi-Marathon                                | [400 Bd Champlain, Québec, QC G1T](https://maps.app.goo.gl/oAhSHfF5Fxn8uXqU7)                  |
 
-| Dates                                      | Heures     | Lieu                              | Épreuves                                     | Addresse                                                        |
-| ------------------------------------------ | ---------- | --------------------------------- | -------------------------------------------- | --------------------------------------------------------------- |
-| Mercredi 22, jeudi 23 et vendredi 24 avril | 16h à 20h  | Shop Santé Lebourgneuf            | Toutes                                       | [5580 Bd des Gradins Local 100, Québec City, Quebec G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9) |
-| Samedi 25 avril                            | 7h à 10h30 | Pavillon de la Station de la Côte | 20 minutes classiques, 2,5 km, 5 km et 10 km | [400 Bd Champlain, Québec, QC G1T](https://maps.app.goo.gl/oAhSHfF5Fxn8uXqU7)                               |
-| Samedi 25 avril                            | 14h à 18h  | Pavillon de la Station de la Côte | Demi-Marathon                                | [400 Bd Champlain, Québec, QC G1T](https://maps.app.goo.gl/oAhSHfF5Fxn8uXqU7)                                                |
+**Notes importantes :**
 
-Notes importantes :
-
-* Le samedi matin, seulement les coureurs inscrits au 20 minutes classiques, 2,5 km, 5 km et 10 km pourront récupérer leur dossard.
-* AUCUNE remise de dossard ne sera possible le dimanche matin pour le demi-marathon.
-* **Important :** Ayez en votre possession une **pièce d'identité** - elle vous sera demandée à votre arrivée.
+* Le samedi matin (7h à 10h30), seulement les coureurs inscrits au 20 minutes classiques, 2,5 km, 5 km et 10 km pourront récupérer leur dossard.
+* Aucune remise de dossard ne sera possible le dimanche matin pour le demi-marathon avant le départ.
+* **Important :** Ayez en votre possession une **pièce d'identité physique avec photo** - elle vous sera demandée à votre arrivée.
 
 ### Transfert de dossards/Changement d'épreuve
 
 Le transfert de dossards ou le changement d’épreuve doivent se faire directement sur votre compte client Sport Chrono. Des frais s’appliquent selon la politique d’inscription en vigueur.
 
-La procédure pour effectuer un transfert ou un changement d’épreuve peut être consultée sur notre site web : <https://lesclassiquescapitale.com/procedure-transfert-changement/>
+La procédure pour effectuer un transfert ou un changement d’épreuve peut être consultée sur notre site : <https://lesclassiquescapitale.com/procedure-transfert-changement/>
 
 ### Certifications et sanctions
 
-Le Demi-Marathon Champlain est sanctionné ARGENT par Athlétisme Québec!
+Le Demi-Marathon Champlain est sanctionné ARGENT par Athlétisme Québec.
 
 {{< sized-image src="/assets/aq_sanction-argent.png" alt="Sanction Argent Athlétisme Québec" width="30%" >}}
 
@@ -84,41 +82,42 @@ Le Demi-Marathon Champlain est sanctionné ARGENT par Athlétisme Québec!
 
 {{< sized-image src="/assets/stationnementsclc26samedi.jpg" alt="Stationnement Samedi CLC26" width="100%" >}}
 
-| Emplacement                    | Addresse                               | Notes                                                            |
-| ------------------------------ | -------------------------------------- | ---------------------------------------------------------------- |
-| P1                             | Stationnement de la Station de la Côte | À proximité immédiate                                            |
-| P2                             | Stationnement du Domaine Cataraqui     | Suivre les indications pour descendre vers la Station de la Côte |
-| P3                             | Belvédère de la Côte de Sillery        | À proximité, accès par la Promenade Champlain                    |
-| P4                             | Stationnement Chemin du Foulon         | À proximité, accès par la Promenade Champlain                    |
-| Le long du Boulevard Champlain | ..                                     | ..                                                               |
+| Emplacement                                    | Addresse                               | Directions                                                       |
+|------------------------------------------------|----------------------------------------|------------------------------------------------------------------|
+| P1                                             | Stationnement de la Station de la Côte | À proximité immédiate                                            |
+| P2                                             | Stationnement du Domaine Cataraqui     | Suivre les indications pour descendre vers la Station de la Côte |
+| P3                                             | Belvédère de la Côte de Sillery        | Descendre la côte de Sillery vers la Station de la Côte          |
+| P4                                             | Stationnement Chemin du Foulon         | Accès par la Promenade Champlain                                 |
+| Stationnements longeant le Boulevard Champlain | -                                      | Accès par la Promenade Champlain                                 |
 
-Attention, le stationnement de la Station de la Plage sera fermé!
+Le stationnement de la Station de la Plage ne sera pas accessible.
+
 
 **Dimanche 26 avril :**
 
 {{< sized-image src="/assets/stationnementsclc26dimanche.jpg" alt="Stationnement Dimanche CLC26" width="100%" >}}
 
-| Emplacement                                         | Addresse                               | Notes                                                            |
-| --------------------------------------------------- | -------------------------------------- | ---------------------------------------------------------------- |
-| P1                                                  | Stationnement de la Station de la Côte | À proximité immédiate                                            |
-| P2                                                  | Stationnement du Domaine Cataraqui     | Suivre les indications pour descendre vers la Station de la Côte |
-| P3                                                  | Belvédère de la Côte de Sillery        | À proximité, accès par la Promenade Champlain                    |
-| P4                                                  | Stationnement Chemin du Foulon         | À proximité, accès par la Promenade Champlain                    |
-| P5                                                  | Stationnement au bas de la Côte Ross   | Prendre la navette                                               |
-| P6                                                  | Stationnement du Quai des Cageux       | Prendre la navette                                               |
-| Le long du Boulevard Champlain (Côté nord seulement | ..                                     | Le coté sud (coté fleuve) sera inaccessible                      |
+| Emplacement                                                          | Addresse                               | Directions                                                                    |
+|----------------------------------------------------------------------|----------------------------------------|-------------------------------------------------------------------------------|
+| P1                                                                   | Stationnement de la Station de la Côte | À proximité immédiate                                                         |
+| P2                                                                   | Stationnement du Domaine Cataraqui     | Suivre les indications pour descendre vers la Station de la Côte              |
+| P3                                                                   | Belvédère de la Côte de Sillery        | Descendre la côte de Sillery vers la Station de la Côte                       |
+| P4                                                                   | Stationnement Chemin du Foulon         | Accès par la Promenade Champlain                                              |
+| P5                                                                   | Stationnement au bas de la Côte Ross   | Proche du départ, voir section sur les navettes                               |
+| P6                                                                   | Stationnement du Quai des Cageux       | Proche du départ, voir section sur les navettes                               |
+| Stationnements longeant le Boulevard Champlain (Côté nord seulement) | -                                      | Accès par la Promenade Champlain, le coté sud (coté fleuve) sera inaccessible |
 
-Attention, le stationnement de la Station de la Plage sera fermé!
+Le stationnement de la Station de la Plage ne sera pas accessible.
 
 ### Navettes (Dimanche 26 avril)
 
-Le service de navettes est réservé exclusivement aux participants de la distance du demi-marathon. Les autobus circuleront en alternance entre la Station de la Côte (P1) et le Quai des Cageux (P6) de **4h45 à 10h00**. 
+Le service de navettes est réservé exclusivement aux participants de la distance du demi-marathon. Les autobus circuleront en alternance entre la Station de la Côte (**P1**) et le Quai des Cageux (**P6**) de **4h45 à 9h45**. 
 
 Ce service est mis à votre disposition pour assurer la liaison entre les deux sites et faciliter l'accès à la ligne de départ ou le retour à votre véhicule, selon le stationnement que vous aurez choisi.
 
 ### Vestiaires
 
-Un vestiaire sera disponible au pavillon de la Station de la Côte, le samedi et le dimanche pour tous les participants.
+Un vestiaire sera disponible au pavillon de la Station de la Côte, le samedi et dimanche pour tous les participants.
 Vous pourrez y déposer vos effets personnels avant le départ et les récupérer au même endroit après votre épreuve.
 
 **Dimanche 26 avril :** Un véhicule de transport sera aussi situé proche du départ du demi-marathon pour récupérer vos effets personnels, ils seront ensuite disponibles au pavillon de la Station de la Côte à votre arrivée. 
@@ -148,25 +147,25 @@ Vous pourrez y déposer vos effets personnels avant le départ et les récupére
 | **Départ** 21.1km Maple3      | **5h45** |
 | Remise de médailles (21.1 km) | ~7h30    |
 
-> ⚠️ Le départ du Demi-Marathon est au levé du soleil donc très tôt! 
+> ⏰ Un réveil aux premières lueurs : Le départ aura lieu au lever du soleil. C’est un rendez-vous matinal! Assurez-vous de planifier votre transport en conséquence.
 
 #### Corrals/Vagues
 
-**Samedi 25 avril 2026 :**
+**Samedi 25 avril :**
 
 Les départs se feront en une seule vague pour les 20 minutes classiques, 2.5 km, 5 km et 10 km.
 
-**Dimanche 26 avril 2026 :**
+**Dimanche 26 avril :**
 
 Le départ du demi-marathon se fera en plusieurs vagues, voici les temps estimés pour chaque corral, vous êtes invités à vous placer dans le corral correspondant à votre temps estimé pour assurer une course fluide et sécuritaire pour tous les participants.
 
 | Couleur du corral | Temps estimé  |
-| ----------------- | ------------- |
-| Bleu              | Moins de 1h35 |
-| Vert              | 1h35 à 1h45   |
-| Orange            | 1h45 à 2h00   |
-| Mauve             | 2h00 à 2h15   |
-| Rouge             | 2h15 et plus  |
+|-------------------| ------------- |
+| 🟦 Bleu           | Moins de 1h35 |
+| 🟩 Vert           | 1h35 à 1h45   |
+| 🟧 Orange         | 1h45 à 2h00   |
+| 🟪 Mauve          | 2h00 à 2h15   |
+| 🟥 Rouge          | 2h15 et plus  |
 
 ## Durant la course
 
@@ -186,6 +185,8 @@ Voici les parcours détaillés pour chaque épreuve.
 
 Aucun ravitaillement ne sera offert pour les 20 minutes classiques, le 2.5 km et le 5km.
 
+Voici les ravitaillements pour le 10 km et 21.1 km :
+
 **10 km :** 
 
 | Kilométrage | Ravitaillement |
@@ -195,14 +196,14 @@ Aucun ravitaillement ne sera offert pour les 20 minutes classiques, le 2.5 km et
 
 **21.1 km :**
 
-| Kilométrage | Ravitaillement           |
-| ----------- | ------------------------ |
-| 3 km        | Eau et Maple3            |
-| 6 km        | Eau, Maple3 et Toilettes |
-| 10 km       | Eau, Maple3 et Toilettes |
-| 13 km       | Eau et Maple3            |
-| 16 km       | Eau et Maple3            |
-| 19 km       | Eau et Maple3            |
+| Kilométrage | Ravitaillement          |
+| ----------- | ----------------------- |
+| 3 km        | Eau et Maple3           |
+| 6 km        | Eau, Maple3 et Toilette |
+| 10 km       | Eau, Maple3 et Toilette |
+| 13 km       | Eau et Maple3           |
+| 16 km       | Eau et Maple3           |
+| 19 km       | Eau et Maple3           |
 
 De l'eau et une collation après-course fournie par nos partenaires sera également disponibles à l'arrivée pour tous les participants.
 
@@ -212,7 +213,7 @@ L'organisation des Classiques Capitales applique une politique de zéro toléran
 
 > ⚠️ Un participant qui jette des déchets sur le parcours à l'extérieur des zones de ravitaillement s'expose à une disqualification immédiate.
 
-Nous comptons sur votre civisme pour préserver l'environnement en utilisant les bacs de tri mis à votre disposition sur les sites de l'événement. 
+Nous comptons sur votre civisme pour préserver l'environnement en utilisant les bacs mis à votre disposition sur les sites de l'événement. 
 
 Merci de nous aider à garder les lieux propres et à minimiser notre empreinte écologique.
 
@@ -220,23 +221,19 @@ Merci de nous aider à garder les lieux propres et à minimiser notre empreinte 
 
 Nos lapins de cadence seront présents sur le parcours le dimanche pour vous accompagner exclusivement sur la distance du demi-marathon. 
 
-Repérez-les grâce à leurs déguisements et leurs affiches de temps pour vous aider à maintenir votre allure.
+Repérez-les grâce leurs affiches de temps pour vous aider à maintenir votre allure.
 
 Voici les temps visés par nos lapins de cadence pour le demi-marathon :
 
-* 1h30
-* 1h40
-* 1h50
-* 2h00
-* 2h10
-* 2h20
-* 2h30
-
-### Véhicules d'abandon
-
-Un véhicule d'abandon sera disponible pour les coureurs désirant abandonner ou incapable de terminer l'épreuve. Si vous devez vous retirer, veuillez en informer immédiatement le bénévole le plus proche afin qu'il puisse demander le passage du véhicule. Celui-ci vous ramènera à la Station de la Côte.
-
-Veuillez noter que ce service est destiné aux abandons logistiques seulement ; pour toute urgence de santé, nous priorisons l'accès rapide au service médical.
+| Temps visé |
+|------------|
+| 1h30       |
+| 1h40       |
+| 1h50       |
+| 2h00       |
+| 2h10       |
+| 2h20       |
+| 2h30       |
 
 ### Temps limite
 
@@ -248,11 +245,17 @@ Le temps limite pour compléter les épreuves est fixé selon les distances :
 
 Passé ces délais, le parcours sera progressivement rouvert et la sécurité ne sera plus assurée.
 
+### Véhicules d'abandon
+
+Un véhicule d'abandon sera disponible pour les coureurs désirant abandonner ou incapable de terminer l'épreuve. Si vous devez vous retirer, veuillez en informer immédiatement le bénévole le plus proche afin qu'il puisse demander le passage du véhicule. Celui-ci vous ramènera à la Station de la Côte.
+
+Veuillez noter que ce service est destiné aux abandons logistiques seulement ; pour toute urgence de santé, nous priorisons l'accès rapide au service médical.
+
 ### Services médicaux
 
 Les services médicaux seront assurés par **Dessercom**. Plusieurs intervenants seront répartis sur le parcours pour assurer votre sécurité.
 
-L'équipe de **PCN Physiothérapie** sera présente sur place pour vous offrir des soins et des conseils.
+L'équipe de **PCN Physiothérapie** sera présente à l'arrivée pour vous offrir des soins et des conseils.
 
 #### Quoi faire en cas d'urgence
 
@@ -275,6 +278,8 @@ Pour une intervention rapide, contactez ce numéro ou adressez-vous immédiateme
 ### Collation après course
 
 À votre arrivée, vous recevrez une **collation**, gracieuseté de nos partenaires.
+
+Le foodtruck [Fumoir & Café](https://www.facebook.com/people/Fumoir-caf%C3%A9-Gym-BBQ/61574335331817/) et notre partenaire [Le Subtil](https://lesubtil.com/) seront présents pour satisfaire votre appétit après l'effort.
 
 ### Résultats
 
@@ -300,9 +305,9 @@ Les podiums seront appelés au micro par l'animateur quelques minutes après cha
 
 ### Photos
 
-Un **photographe sera sur place** pour capturer vos plus beaux sourires !
+Des **photographes seront sur place** pour capturer vos plus beaux sourires !
 
-📸 Les photos seront disponibles sur nos réseaux sociaux après la course.
+📸 Les photos seront disponibles sur nos réseaux sociaux quelques jours après la course.
 
 ## Partenaires
 
