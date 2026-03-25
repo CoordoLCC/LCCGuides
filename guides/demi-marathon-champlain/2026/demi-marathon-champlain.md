@@ -4,6 +4,8 @@ year: "2026"
 logo: /assets/champlainlogo.svg
 status: published
 ---
+{{< sized-image src="" alt="" >}}
+
 # Guide du coureur : Demi-Marathon Champlain 2026
 
 ## Avant la course
@@ -33,23 +35,22 @@ Pour éviter l'attente le jour de l'événement et prendre le départ l'esprit t
 Des concours et de l'animation sont prévus sur place pour bien lancer votre week-end de course!
 
 | Dates                                      | Heures     | Lieu                              | Épreuves                                     | Addresse                                                        |
-|--------------------------------------------|------------|-----------------------------------|----------------------------------------------|-----------------------------------------------------------------|
+| ------------------------------------------ | ---------- | --------------------------------- | -------------------------------------------- | --------------------------------------------------------------- |
 | Mercredi 22, jeudi 23 et vendredi 24 avril | 16h à 20h  | Shop Santé Lebourgneuf            | Toutes                                       | 5580, boulevard des Gradins, local 100, Québec (Québec) G2J 1R7 |
 | Samedi 25 avril                            | 7h à 10h30 | Pavillon de la Station de la Côte | 20 minutes classiques, 2,5 km, 5 km et 10 km | 400 Bd Champlain                                                |
-| Dimanche 26 avril                          | 14h à 20h  | Pavillon de la Station de la Côte | Demi-Marathon                                | 400 Bd Champlain                                                |
+| Samedi 25 avril                            | 14h à 18h  | Pavillon de la Station de la Côte | Demi-Marathon                                | 400 Bd Champlain                                                |
 
 Notes importantes :
-- Le samedi matin, seulement les coureurs inscrits au 20 minutes classiques, 2,5 km, 5 km et 10 km pourront récupérer leur dossard.
-- AUCUNE remise de dossard ne sera possible le dimanche matin pour le demi-marathon.
-- **Important :** Ayez en votre possession une **pièce d'identité** - elle vous sera demandée à votre arrivée.
 
-À AJOUTER PRÉVENTION FRAUDE
+* Le samedi matin, seulement les coureurs inscrits au 20 minutes classiques, 2,5 km, 5 km et 10 km pourront récupérer leur dossard.
+* AUCUNE remise de dossard ne sera possible le dimanche matin pour le demi-marathon.
+* **Important :** Ayez en votre possession une **pièce d'identité** - elle vous sera demandée à votre arrivée.
 
 ### Transfert de dossards/Changement d'épreuve
 
 Le transfert de dossards ou le changement d’épreuve doivent se faire directement sur votre compte client Sport Chrono. Des frais s’appliquent selon la politique d’inscription en vigueur.
 
-La procédure pour effectuer un transfert ou un changement d’épreuve peut être consultée sur notre site web : TODO
+La procédure pour effectuer un transfert ou un changement d’épreuve peut être consultée sur notre site web : <https://lesclassiquescapitale.com/procedure-transfert-changement/>
 
 ### Certifications et sanctions
 
@@ -57,17 +58,23 @@ Le Demi-Marathon Champlain est sanctionné ARGENT par Athlétisme Québec!
 
 {{< sized-image src="/assets/aq_sanction-argent.png" alt="Sanction Argent Athlétisme Québec" width="30%" >}}
 
-## Départ 
+## Départ
 
 ### Emplacement
 
-| Épreuve               | Lieu                                                  | Addresse  |
-|-----------------------|-------------------------------------------------------|-----------|
-| 20 minutes classiques | Site d'arrivée                                        | Link TODO |
-| 2.5km, 5km, 10km      | Promenade Champlain, en face de la Station de la Côte | Link TODO |
-| Demi-Marathon         | Boulevard Champlain, Quai des cageux                  | Link TODO |
+| Épreuve               | Lieu                                                  | Addresse                                                                           |
+| --------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| 20 minutes classiques | Site d'arrivée                                        | [Promenade Champlain](https://maps.app.goo.gl/58AzAC9hifPTjuZx6)                   |
+| 2.5km, 5km, 10km      | Promenade Champlain, en face de la Station de la Côte | [400 Bd Champlain, Québec, QC G1T](https://maps.app.goo.gl/GqNSSFHWcFmBLHgS7)      |
+| Demi-Marathon         | Boulevard Champlain, Quai des Cageux                  | [2795 Bd Champlain, Québec, QC G1W 2J3](https://maps.app.goo.gl/7SHZP17UoWfvHonb8) |
 
-PLAN DU SITE DE DÉPART TODO
+**Samedi 25 avril :**
+
+{{< sized-image src="/assets/stationnementsclc26samedi.jpg" alt="Stationnements Demi-Marathon Champlain 2026 Samedi" width="100%" >}}
+
+**Dimanche 26 avril :**
+
+{{< sized-image src="/assets/stationnementsclc26dimanche.jpg" alt="Stationnements Demi-Marathon Champlain 2026 Dimanche" width="100%" >}}
 
 ### Stationnement et accès
 
@@ -75,10 +82,10 @@ PLAN DU SITE DE DÉPART TODO
 
 **Samedi 25 avril :**
 
-STATIONNEMENT SAMEDI TODO
+{{< sized-image src="" alt="" >}}
 
 | Emplacement                    | Addresse                               | Notes                                                            |
-|--------------------------------|----------------------------------------|------------------------------------------------------------------|
+| ------------------------------ | -------------------------------------- | ---------------------------------------------------------------- |
 | P1                             | Stationnement de la Station de la Côte | À proximité immédiate                                            |
 | P2                             | Stationnement du Domaine Cataraqui     | Suivre les indications pour descendre vers la Station de la Côte |
 | P3                             | Belvédère de la Côte de Sillery        | À proximité, accès par la Promenade Champlain                    |
@@ -92,7 +99,7 @@ Attention, le stationnement de la Station de la Plage sera fermé!
 STATIONNEMENT DIMANCHE TODO
 
 | Emplacement                                         | Addresse                               | Notes                                                            |
-|-----------------------------------------------------|----------------------------------------|------------------------------------------------------------------|
+| --------------------------------------------------- | -------------------------------------- | ---------------------------------------------------------------- |
 | P1                                                  | Stationnement de la Station de la Côte | À proximité immédiate                                            |
 | P2                                                  | Stationnement du Domaine Cataraqui     | Suivre les indications pour descendre vers la Station de la Côte |
 | P3                                                  | Belvédère de la Côte de Sillery        | À proximité, accès par la Promenade Champlain                    |
@@ -104,6 +111,7 @@ STATIONNEMENT DIMANCHE TODO
 Attention, le stationnement de la Station de la Plage sera fermé!
 
 ### Navettes (Dimanche 26 avril)
+
 Le service de navettes est réservé exclusivement aux participants de la distance du demi-marathon. Les autobus circuleront en alternance entre la Station de la Côte (P1) et le Quai des Cageux (P6) de **4h45 à 10h00**. 
 
 Ce service est mis à votre disposition pour assurer la liaison entre les deux sites et faciliter l'accès à la ligne de départ ou le retour à votre véhicule, selon le stationnement que vous aurez choisi.
@@ -122,7 +130,7 @@ Vous pourrez y déposer vos effets personnels avant le départ et les récupére
 **Date :** Samedi 25 avril 2026
 
 | Activité                                                | Heure      |
-|---------------------------------------------------------|------------|
+| ------------------------------------------------------- | ---------- |
 | Remise des dossards (20min, 2.5km, 5km, 10km)           | 7h à 10h30 |
 | **Départ** 20 minutes classiques La Fromagerie Victoria | 8h30       |
 | **Départ** 5km Le Subtil                                | 9h00       |
@@ -131,16 +139,17 @@ Vous pourrez y déposer vos effets personnels avant le départ et les récupére
 | Remise de médailles (2,5 km)                            | ~10h       |
 | **Départ** 10 km La Fomagerie Victoria                  | 10h30      |
 | Remise de médailles (10 km)                             | ~11h15     |
-| Remise des dossards (21.1km)                            | 14h à 20h  |
+| Remise des dossards (21.1km)                            | 14h à 18h  |
 
 **Date :** Dimanche 26 avril 2026
 
 | Activité                      | Heure    |
-|-------------------------------|----------|
+| ----------------------------- | -------- |
 | **Départ** 21.1km Maple3      | **5h45** |
 | Remise de médailles (21.1 km) | ~7h30    |
 
 > ⚠️ Le départ du Demi-Marathon est au levé du soleil donc très tôt! 
+
 #### Corrals/Vagues
 
 **Samedi 25 avril 2026 :**
@@ -152,7 +161,7 @@ Les départs se feront en une seule vague pour les 20 minutes classiques, 2.5 km
 Le départ du demi-marathon se fera en plusieurs vagues, voici les temps estimés pour chaque corral, vous êtes invités à vous placer dans le corral correspondant à votre temps estimé pour assurer une course fluide et sécuritaire pour tous les participants.
 
 | Couleur du corral | Temps estimé  |
-|-------------------|---------------|
+| ----------------- | ------------- |
 | Bleu              | Moins de 1h35 |
 | Vert              | 1h35 à 1h45   |
 | Orange            | 1h45 à 2h00   |
@@ -166,9 +175,9 @@ Le départ du demi-marathon se fera en plusieurs vagues, voici les temps estimé
 Voici les parcours détaillés pour chaque épreuve.
 
 | Éreuve                                                      | Lien                                    |
-|-------------------------------------------------------------|-----------------------------------------|
+| ----------------------------------------------------------- | --------------------------------------- |
 | 20 minutes classiques La Fomagerie Victoria (Tours de ~500m | https://ridewithgps.com/routes/53839817 |
-| 2.5 km La Fomagerie Victoria                                | https://ridewithgps.com/routes/53839813                                        |
+| 2.5 km La Fomagerie Victoria                                | https://ridewithgps.com/routes/53839813 |
 | 5 km Le Subtil                                              | https://ridewithgps.com/routes/53839814 |
 | 10 km La Fomagerie Victoria                                 | https://ridewithgps.com/routes/53839815 |
 | 21.1 km Maple3                                              | https://ridewithgps.com/routes/53839816 |
@@ -180,14 +189,14 @@ Aucun ravitaillement ne sera offert pour les 20 minutes classiques, le 2.5 km et
 **10 km :** 
 
 | Kilométrage | Ravitaillement |
-|-------------|----------------|
+| ----------- | -------------- |
 | 5 km        | Eau et Maple3  |
 | 8 km        | Eau et Maple3  |
 
 **21.1 km :**
 
 | Kilométrage | Ravitaillement           |
-|-------------|--------------------------|
+| ----------- | ------------------------ |
 | 3 km        | Eau et Maple3            |
 | 6 km        | Eau, Maple3 et Toilettes |
 | 10 km       | Eau, Maple3 et Toilettes |
@@ -198,6 +207,7 @@ Aucun ravitaillement ne sera offert pour les 20 minutes classiques, le 2.5 km et
 De l'eau et une collation après-course fournie par nos partenaires sera également disponibles à l'arrivée pour tous les participants.
 
 #### Faire attention à l'environnement
+
 L'organisation des Classiques Capitales applique une politique de zéro tolérance concernant les déchets sur le parcours. 
 
 > ⚠️ Un participant qui jette des déchets sur le parcours à l'extérieur des zones de ravitaillement s'expose à une disqualification immédiate.
@@ -213,24 +223,28 @@ Nos lapins de cadence seront présents sur le parcours le dimanche pour vous acc
 Repérez-les grâce à leurs déguisements et leurs affiches de temps pour vous aider à maintenir votre allure.
 
 Voici les temps visés par nos lapins de cadence pour le demi-marathon :
-- 1h30
-- 1h40
-- 1h50
-- 2h00
-- 2h10
-- 2h20
-- 2h30
+
+* 1h30
+* 1h40
+* 1h50
+* 2h00
+* 2h10
+* 2h20
+* 2h30
 
 ### Véhicules d'abandon
+
 Un véhicule d'abandon sera disponible pour les coureurs désirant abandonner ou incapable de terminer l'épreuve. Si vous devez vous retirer, veuillez en informer immédiatement le bénévole le plus proche afin qu'il puisse demander le passage du véhicule. Celui-ci vous ramènera à la Station de la Côte.
 
 Veuillez noter que ce service est destiné aux abandons logistiques seulement ; pour toute urgence de santé, nous priorisons l'accès rapide au service médical.
 
 ### Temps limite
+
 Le temps limite pour compléter les épreuves est fixé selon les distances :
-- Demi-marathon : 3h30
-- 10 km : 2h00
-- 5 km : 1h00
+
+* Demi-marathon : 3h30
+* 10 km : 2h00
+* 5 km : 1h00
 
 Passé ces délais, le parcours sera progressivement rouvert et la sécurité ne sera plus assurée.
 
