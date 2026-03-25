@@ -4,8 +4,6 @@ year: "2026"
 logo: /assets/champlainlogo.svg
 status: published
 ---
-{{< sized-image src="" alt="" >}}
-
 # Guide du coureur : Demi-Marathon Champlain 2026
 
 ## Avant la course
@@ -33,7 +31,7 @@ Les Classiques Capitale s'engage à promouvoir la course à pied dans une atmosp
 Pour éviter l'attente le jour de l'événement et prendre le départ l'esprit tranquille, nous vous recommandons fortement de récupérer votre dossard à l'avance chez notre partenaire Shop Santé. 
 
 | Dates                                      | Heures     | Lieu                              | Épreuves                                     | Addresse                                                                                       |
-| ------------------------------------------ | ---------- | --------------------------------- | -------------------------------------------- |------------------------------------------------------------------------------------------------|
+| ------------------------------------------ | ---------- | --------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | Mercredi 22, jeudi 23 et vendredi 24 avril | 16h à 20h  | Shop Santé Lebourgneuf            | Toutes                                       | [5580 Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9) |
 | Samedi 25 avril                            | 7h à 10h30 | Pavillon de la Station de la Côte | 20 minutes classiques, 2,5 km, 5 km et 10 km | [400 Bd Champlain, Québec, QC G1T](https://maps.app.goo.gl/oAhSHfF5Fxn8uXqU7)                  |
 | Samedi 25 avril                            | 14h à 18h  | Pavillon de la Station de la Côte | Demi-Marathon                                | [400 Bd Champlain, Québec, QC G1T](https://maps.app.goo.gl/oAhSHfF5Fxn8uXqU7)                  |
@@ -83,12 +81,12 @@ Le Demi-Marathon Champlain est sanctionné ARGENT par Athlétisme Québec.
 {{< sized-image src="/assets/stationnementsclc26samedi.jpg" alt="Stationnement Samedi CLC26" width="100%" >}}
 
 | Emplacement                                    | Addresse                               | Directions                                                       |
-|------------------------------------------------|----------------------------------------|------------------------------------------------------------------|
+| ---------------------------------------------- | -------------------------------------- | ---------------------------------------------------------------- |
 | P1                                             | Stationnement de la Station de la Côte | À proximité immédiate                                            |
 | P2                                             | Stationnement du Domaine Cataraqui     | Suivre les indications pour descendre vers la Station de la Côte |
 | P3                                             | Belvédère de la Côte de Sillery        | Descendre la côte de Sillery vers la Station de la Côte          |
 | P4                                             | Stationnement Chemin du Foulon         | Accès par la Promenade Champlain                                 |
-| Stationnements longeant le Boulevard Champlain | -                                      | Accès par la Promenade Champlain                                 |
+| Stationnements longeant le Boulevard Champlain | \-                                     | Accès par la Promenade Champlain                                 |
 
 Le stationnement de la Station de la Plage ne sera pas accessible.
 
@@ -99,14 +97,14 @@ Le stationnement de la Station de la Plage ne sera pas accessible.
 {{< sized-image src="/assets/stationnementsclc26dimanche.jpg" alt="Stationnement Dimanche CLC26" width="100%" >}}
 
 | Emplacement                                                          | Addresse                               | Directions                                                                    |
-|----------------------------------------------------------------------|----------------------------------------|-------------------------------------------------------------------------------|
+| -------------------------------------------------------------------- | -------------------------------------- | ----------------------------------------------------------------------------- |
 | P1                                                                   | Stationnement de la Station de la Côte | À proximité immédiate                                                         |
 | P2                                                                   | Stationnement du Domaine Cataraqui     | Suivre les indications pour descendre vers la Station de la Côte              |
 | P3                                                                   | Belvédère de la Côte de Sillery        | Descendre la côte de Sillery vers la Station de la Côte                       |
 | P4                                                                   | Stationnement Chemin du Foulon         | Accès par la Promenade Champlain                                              |
 | P5                                                                   | Stationnement au bas de la Côte Ross   | Proche du départ, voir section sur les navettes                               |
 | P6                                                                   | Stationnement du Quai des Cageux       | Proche du départ, voir section sur les navettes                               |
-| Stationnements longeant le Boulevard Champlain (Côté nord seulement) | -                                      | Accès par la Promenade Champlain, le coté sud (coté fleuve) sera inaccessible |
+| Stationnements longeant le Boulevard Champlain (Côté nord seulement) | \-                                     | Accès par la Promenade Champlain, le coté sud (coté fleuve) sera inaccessible |
 
 Le stationnement de la Station de la Plage ne sera pas accessible.
 
@@ -130,7 +128,7 @@ Vous pourrez y déposer vos effets personnels avant le départ et les récupére
 **Date :** Samedi 25 avril 2026
 
 | Activité                                                | Heure      |
-|---------------------------------------------------------|------------|
+| ------------------------------------------------------- | ---------- |
 | Remise des dossards (20min, 2.5km, 5km, 10km)           | 7h à 10h30 |
 | **Départ** 20 minutes classiques La Fromagerie Victoria | **8h30**   |
 | **Départ** 5km Le Subtil                                | **9h00**   |
@@ -161,7 +159,7 @@ Les départs se feront en une seule vague pour les 20 minutes classiques, 2.5 km
 Le départ du demi-marathon se fera en plusieurs vagues, voici les temps estimés pour chaque corral, vous êtes invités à vous placer dans le corral correspondant à votre temps estimé pour assurer une course fluide et sécuritaire pour tous les participants.
 
 | Couleur du corral | Temps estimé  |
-|-------------------| ------------- |
+| ----------------- | ------------- |
 | 🟦 Bleu           | Moins de 1h35 |
 | 🟩 Vert           | 1h35 à 1h45   |
 | 🟧 Orange         | 1h45 à 2h00   |
@@ -227,7 +225,7 @@ Repérez-les grâce leurs affiches de temps pour vous aider à maintenir votre a
 Voici les temps visés par nos lapins :
 
 | Temps visé |
-|------------|
+| ---------- |
 | 1h30       |
 | 1h40       |
 | 1h50       |
@@ -275,6 +273,8 @@ Pour une intervention rapide, contactez ce numéro ou adressez-vous immédiateme
 ## Après la course
 
 ### Plan de l'arrivée
+
+{{< sized-image src="/assets/planarrivéeclc26.jpg" alt="Plan de l'arrivée CLC26" width="100%" >}}
 
 ### Collation après course
 
