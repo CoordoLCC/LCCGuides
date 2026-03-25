@@ -35,10 +35,10 @@ Pour éviter l'attente le jour de l'événement et prendre le départ l'esprit t
 Des concours et de l'animation sont prévus sur place pour bien lancer votre week-end de course!
 
 | Dates                                      | Heures     | Lieu                              | Épreuves                                     | Addresse                                                        |
-|--------------------------------------------|------------|-----------------------------------|----------------------------------------------|-----------------------------------------------------------------|
-| Mercredi 22, jeudi 23 et vendredi 24 avril | 16h à 20h  | Shop Santé Lebourgneuf            | Toutes                                       | 5580, boulevard des Gradins, local 100, Québec (Québec) G2J 1R7 |
-| Samedi 25 avril                            | 7h à 10h30 | Pavillon de la Station de la Côte | 20 minutes classiques, 2,5 km, 5 km et 10 km | 400 Bd Champlain                                                |
-| Samedi 25 avril                            | 14h à 18h  | Pavillon de la Station de la Côte | Demi-Marathon                                | 400 Bd Champlain                                                |
+| ------------------------------------------ | ---------- | --------------------------------- | -------------------------------------------- | --------------------------------------------------------------- |
+| Mercredi 22, jeudi 23 et vendredi 24 avril | 16h à 20h  | Shop Santé Lebourgneuf            | Toutes                                       | [5580 Bd des Gradins Local 100, Québec City, Quebec G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9) |
+| Samedi 25 avril                            | 7h à 10h30 | Pavillon de la Station de la Côte | 20 minutes classiques, 2,5 km, 5 km et 10 km | [400 Bd Champlain, Québec, QC G1T](https://maps.app.goo.gl/oAhSHfF5Fxn8uXqU7)                               |
+| Samedi 25 avril                            | 14h à 18h  | Pavillon de la Station de la Côte | Demi-Marathon                                | [400 Bd Champlain, Québec, QC G1T](https://maps.app.goo.gl/oAhSHfF5Fxn8uXqU7)                                                |
 
 Notes importantes :
 
@@ -72,7 +72,6 @@ Le Demi-Marathon Champlain est sanctionné ARGENT par Athlétisme Québec!
 
 {{< sized-image src="/assets/plandépartsamediclc26.jpg" alt="Départ Demi-Marathon Champlain 2026 Samedi" width="100%" >}}
 
-
 **Dimanche 26 avril :**
 
 {{< sized-image src="/assets/plandépartdimancheclc26.jpg" alt="Départ Demi-Marathon Champlain 2026 Dimanche" width="100%" >}}
@@ -86,7 +85,7 @@ Le Demi-Marathon Champlain est sanctionné ARGENT par Athlétisme Québec!
 {{< sized-image src="/assets/stationnementsclc26samedi.jpg" alt="Stationnement Samedi CLC26" width="100%" >}}
 
 | Emplacement                    | Addresse                               | Notes                                                            |
-|--------------------------------|----------------------------------------|------------------------------------------------------------------|
+| ------------------------------ | -------------------------------------- | ---------------------------------------------------------------- |
 | P1                             | Stationnement de la Station de la Côte | À proximité immédiate                                            |
 | P2                             | Stationnement du Domaine Cataraqui     | Suivre les indications pour descendre vers la Station de la Côte |
 | P3                             | Belvédère de la Côte de Sillery        | À proximité, accès par la Promenade Champlain                    |
@@ -100,7 +99,7 @@ Attention, le stationnement de la Station de la Plage sera fermé!
 {{< sized-image src="/assets/stationnementsclc26dimanche.jpg" alt="Stationnement Dimanche CLC26" width="100%" >}}
 
 | Emplacement                                         | Addresse                               | Notes                                                            |
-|-----------------------------------------------------|----------------------------------------|------------------------------------------------------------------|
+| --------------------------------------------------- | -------------------------------------- | ---------------------------------------------------------------- |
 | P1                                                  | Stationnement de la Station de la Côte | À proximité immédiate                                            |
 | P2                                                  | Stationnement du Domaine Cataraqui     | Suivre les indications pour descendre vers la Station de la Côte |
 | P3                                                  | Belvédère de la Côte de Sillery        | À proximité, accès par la Promenade Champlain                    |
@@ -131,7 +130,7 @@ Vous pourrez y déposer vos effets personnels avant le départ et les récupére
 **Date :** Samedi 25 avril 2026
 
 | Activité                                                | Heure      |
-|---------------------------------------------------------|------------|
+| ------------------------------------------------------- | ---------- |
 | Remise des dossards (20min, 2.5km, 5km, 10km)           | 7h à 10h30 |
 | **Départ** 20 minutes classiques La Fromagerie Victoria | 8h30       |
 | **Départ** 5km Le Subtil                                | 9h00       |
@@ -145,7 +144,7 @@ Vous pourrez y déposer vos effets personnels avant le départ et les récupére
 **Date :** Dimanche 26 avril 2026
 
 | Activité                      | Heure    |
-|-------------------------------|----------|
+| ----------------------------- | -------- |
 | **Départ** 21.1km Maple3      | **5h45** |
 | Remise de médailles (21.1 km) | ~7h30    |
 
@@ -176,7 +175,7 @@ Le départ du demi-marathon se fera en plusieurs vagues, voici les temps estimé
 Voici les parcours détaillés pour chaque épreuve.
 
 | Éreuve                                                                                                   |
-|----------------------------------------------------------------------------------------------------------|
+| -------------------------------------------------------------------------------------------------------- |
 | [20 minutes classiques La Fomagerie Victoria (Boucle de ~500m)](https://ridewithgps.com/routes/53839817) |
 | [2.5 km La Fomagerie Victoria](https://ridewithgps.com/routes/53839813)                                  |
 | [5 km Le Subtil](https://ridewithgps.com/routes/53839814)                                                |
