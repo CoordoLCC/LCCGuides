@@ -92,6 +92,7 @@ Le Demi-Marathon Champlain est sanctionné ARGENT par Athlétisme Québec.
 
 Le stationnement de la Station de la Plage ne sera pas accessible.
 
+<br>
 
 **Dimanche 26 avril :**
 
@@ -129,14 +130,14 @@ Vous pourrez y déposer vos effets personnels avant le départ et les récupére
 **Date :** Samedi 25 avril 2026
 
 | Activité                                                | Heure      |
-| ------------------------------------------------------- | ---------- |
+|---------------------------------------------------------|------------|
 | Remise des dossards (20min, 2.5km, 5km, 10km)           | 7h à 10h30 |
-| **Départ** 20 minutes classiques La Fromagerie Victoria | 8h30       |
-| **Départ** 5km Le Subtil                                | 9h00       |
+| **Départ** 20 minutes classiques La Fromagerie Victoria | **8h30**   |
+| **Départ** 5km Le Subtil                                | **9h00**   |
 | Remise de médailles (5 km)                              | ~9h25      |
-| **Départ** 2,5 km La Fromagerie Victoria                | 9h45       |
+| **Départ** 2,5 km La Fromagerie Victoria                | **9h45**   |
 | Remise de médailles (2,5 km)                            | ~10h       |
-| **Départ** 10 km La Fomagerie Victoria                  | 10h30      |
+| **Départ** 10 km La Fomagerie Victoria                  | **10h30**  |
 | Remise de médailles (10 km)                             | ~11h15     |
 | Remise des dossards (21.1km)                            | 14h à 18h  |
 
@@ -147,7 +148,7 @@ Vous pourrez y déposer vos effets personnels avant le départ et les récupére
 | **Départ** 21.1km Maple3      | **5h45** |
 | Remise de médailles (21.1 km) | ~7h30    |
 
-> ⏰ Un réveil aux premières lueurs : Le départ aura lieu au lever du soleil. C’est un rendez-vous matinal! Assurez-vous de planifier votre transport en conséquence.
+> ⏰ Le départ aura lieu au lever du soleil. C’est un rendez-vous matinal! Assurez-vous de planifier votre transport en conséquence.
 
 #### Corrals/Vagues
 
@@ -223,7 +224,7 @@ Nos lapins de cadence seront présents sur le parcours le dimanche pour vous acc
 
 Repérez-les grâce leurs affiches de temps pour vous aider à maintenir votre allure.
 
-Voici les temps visés par nos lapins de cadence pour le demi-marathon :
+Voici les temps visés par nos lapins :
 
 | Temps visé |
 |------------|
@@ -292,7 +293,7 @@ Tous les résultats seront disponibles **en temps réel** :
 
 #### Médailles de participation
 
-Les médailles de participation seront remises à l'arrivée, **si vous avez pris l'option de la médaille**.
+Les médailles de participation seront remises à l'arrivée, **si vous avez pris l'option de la médaille lors de votre inscription**.
 
 #### Podium
 
