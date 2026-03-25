@@ -70,11 +70,11 @@ Le Demi-Marathon Champlain est sanctionné ARGENT par Athlétisme Québec!
 
 **Samedi 25 avril :**
 
-{{< sized-image src="/assets/stationnementsclc26samedi.jpg" alt="Stationnements Demi-Marathon Champlain 2026 Samedi" width="100%" >}}
+{{< sized-image src="/assets/plandépartsamediclc26.jpg" alt="Départ Demi-Marathon Champlain 2026 Samedi" width="100%" >}}
 
 **Dimanche 26 avril :**
 
-{{< sized-image src="/assets/stationnementsclc26dimanche.jpg" alt="Stationnements Demi-Marathon Champlain 2026 Dimanche" width="100%" >}}
+{{< sized-image src="/assets/plandépartdimancheclc26.jpg" alt="Départ Demi-Marathon Champlain 2026 Dimanche" width="100%" >}}
 
 ### Stationnement et accès
 
@@ -82,7 +82,7 @@ Le Demi-Marathon Champlain est sanctionné ARGENT par Athlétisme Québec!
 
 **Samedi 25 avril :**
 
-{{< sized-image src="" alt="" >}}
+{{< sized-image src="/assets/stationnementsclc26samedi.jpg" alt="Stationnement Samedi CLC26" width="100%" >}}
 
 | Emplacement                    | Addresse                               | Notes                                                            |
 | ------------------------------ | -------------------------------------- | ---------------------------------------------------------------- |
@@ -96,7 +96,7 @@ Attention, le stationnement de la Station de la Plage sera fermé!
 
 **Dimanche 26 avril :**
 
-STATIONNEMENT DIMANCHE TODO
+{{< sized-image src="/assets/stationnementsclc26dimanche.jpg" alt="Stationnement Dimanche CLC26" width="100%" >}}
 
 | Emplacement                                         | Addresse                               | Notes                                                            |
 | --------------------------------------------------- | -------------------------------------- | ---------------------------------------------------------------- |
@@ -174,13 +174,13 @@ Le départ du demi-marathon se fera en plusieurs vagues, voici les temps estimé
 
 Voici les parcours détaillés pour chaque épreuve.
 
-| Éreuve                                                      | Lien                                    |
-| ----------------------------------------------------------- | --------------------------------------- |
-| 20 minutes classiques La Fomagerie Victoria (Tours de ~500m | https://ridewithgps.com/routes/53839817 |
-| 2.5 km La Fomagerie Victoria                                | https://ridewithgps.com/routes/53839813 |
-| 5 km Le Subtil                                              | https://ridewithgps.com/routes/53839814 |
-| 10 km La Fomagerie Victoria                                 | https://ridewithgps.com/routes/53839815 |
-| 21.1 km Maple3                                              | https://ridewithgps.com/routes/53839816 |
+| Éreuve                                                                                                   |
+| -------------------------------------------------------------------------------------------------------- |
+| \[20 minutes classiques La Fomagerie Victoria (Tours de ~500m)](https://ridewithgps.com/routes/53839817) |
+| \[2.5 km La Fomagerie Victoria](https://ridewithgps.com/routes/53839813)                                 |
+| \[5 km Le Subtil](https://ridewithgps.com/routes/53839814)                                               |
+| \[10 km La Fomagerie Victoria](https://ridewithgps.com/routes/53839815)                                  |
+| \[21.1 km Maple3](https://ridewithgps.com/routes/53839816)                                               |
 
 ### Ravitaillements
 
