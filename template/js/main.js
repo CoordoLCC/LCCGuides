@@ -100,6 +100,99 @@ function setFavicon(svgUrl) {
     link.href = svgUrl;
 }
 
+let imageZoomInitialized = false;
+let lastFocusedElement = null;
+
+function getImageOverlayElements() {
+    let overlay = document.getElementById("guide-image-overlay");
+
+    if (!overlay) {
+        overlay = document.createElement("div");
+        overlay.id = "guide-image-overlay";
+        overlay.className = "guide-image-overlay";
+        overlay.setAttribute("role", "dialog");
+        overlay.setAttribute("aria-modal", "true");
+        overlay.setAttribute("aria-label", "Agrandissement de l'image");
+        overlay.tabIndex = -1;
+        overlay.hidden = true;
+
+        const image = document.createElement("img");
+        image.className = "guide-image-overlay-content";
+        image.alt = "";
+        overlay.appendChild(image);
+
+        document.body.appendChild(overlay);
+    }
+
+    return {
+        overlay,
+        image: overlay.querySelector(".guide-image-overlay-content"),
+    };
+}
+
+function closeImageOverlay() {
+    const { overlay, image } = getImageOverlayElements();
+    overlay.hidden = true;
+    image.src = "";
+    document.body.classList.remove("guide-image-zoom-open");
+
+    if (lastFocusedElement) {
+        lastFocusedElement.focus();
+        lastFocusedElement = null;
+    }
+}
+
+function openImageOverlay(sourceImage) {
+    const { overlay, image } = getImageOverlayElements();
+    const source = sourceImage.currentSrc || sourceImage.src;
+
+    if (!source) return;
+
+    lastFocusedElement = document.activeElement instanceof HTMLElement ? document.activeElement : null;
+
+    image.src = source;
+    image.alt = sourceImage.alt || "Image agrandie";
+    overlay.hidden = false;
+    document.body.classList.add("guide-image-zoom-open");
+    overlay.focus();
+}
+
+function makeImagesZoomable() {
+    const content = document.getElementById("content");
+    if (!content) return;
+
+    const images = content.querySelectorAll(".guide-content img");
+    images.forEach((image) => {
+        image.classList.add("guide-zoomable-image");
+        image.tabIndex = 0;
+    });
+}
+
+function setupImageZoom() {
+    if (imageZoomInitialized) return;
+
+    const content = document.getElementById("content");
+    if (!content) return;
+
+    content.addEventListener("click", (event) => {
+        const target = event.target;
+        if (!(target instanceof HTMLImageElement) || !target.classList.contains("guide-zoomable-image")) {
+            return;
+        }
+        openImageOverlay(target);
+    });
+
+    const { overlay } = getImageOverlayElements();
+
+    overlay.addEventListener("click", (event) => {
+        if (event.target === overlay || event.target.classList.contains("guide-image-overlay-content")) {
+            closeImageOverlay();
+        }
+    });
+
+    imageZoomInitialized = true;
+}
+
 async function loadGuideContent(paths, isLocal = false) {
     const title = document.getElementById("guide-title");
 
@@ -127,6 +220,8 @@ async function loadGuideContent(paths, isLocal = false) {
 
     renderNavigation(sections);
     renderContent(sections, paths.basePath);
+    setupImageZoom();
+    makeImagesZoomable();
 
     // After rendering, scroll to hash if present, but wait for images to load
     if (window.location.hash) {
