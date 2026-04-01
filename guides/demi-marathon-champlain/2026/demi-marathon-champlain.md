@@ -287,7 +287,7 @@ Le foodtruck [Fumoir & Café](https://www.facebook.com/people/Fumoir-caf%C3%A9-G
 Tous les résultats seront disponibles **en temps réel** :
 
 * Sur l'application mobile Paceasy
-* Sur le site web de Sport Chrono : <https://resultats.sportchrono.com/evenements>
+* Sur le site web de Sport Chrono : [https://resultats.sportchrono.com](https://resultats.sportchrono.com/evenements)
 
 ### Médailles et podium
 

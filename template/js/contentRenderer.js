@@ -32,6 +32,18 @@ function enhanceResponsiveTables(contentElement) {
             table.parentNode.insertBefore(wrapper, table);
             wrapper.appendChild(table);
         }
+
+        const headerCells = table.querySelectorAll("thead tr:first-child th, thead tr:first-child td");
+        const fallbackHeaderCells = table.querySelectorAll("tr:first-child th, tr:first-child td");
+        const cellsForHeaders = headerCells.length ? headerCells : fallbackHeaderCells;
+        const columnCount = cellsForHeaders.length;
+
+        table.classList.remove("guide-table-fit", "guide-table-wide");
+        if (columnCount >= 4) {
+            table.classList.add("guide-table-wide");
+        } else {
+            table.classList.add("guide-table-fit");
+        }
     });
 }
 

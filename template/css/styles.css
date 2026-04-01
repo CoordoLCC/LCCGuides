@@ -354,12 +354,27 @@ body::before {
 
 .guide-subsection-box table {
     width: 100%;
-    min-width: 420px;
+    min-width: 0;
     border-collapse: collapse;
     margin: 20px 0;
     border: 1px solid rgba(18, 139, 177, 0.2);
     border-radius: 6px;
     overflow: hidden;
+}
+
+.guide-subsection-box table.guide-table-fit {
+    table-layout: fixed;
+}
+
+.guide-subsection-box table.guide-table-fit th,
+.guide-subsection-box table.guide-table-fit td {
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: normal;
+}
+
+.guide-subsection-box table.guide-table-wide {
+    min-width: 640px;
 }
 
 .guide-subsection-box table th {
@@ -568,6 +583,16 @@ body::before {
         font-size: 0.92rem;
     }
 
+    .guide-subsection-box table.guide-table-fit {
+        font-size: 0.84rem;
+    }
+
+    .guide-subsection-box table.guide-table-fit th,
+    .guide-subsection-box table.guide-table-fit td {
+        padding: 7px;
+        line-height: 1.35;
+    }
+
     body::before {
         display: none;
     }
@@ -602,5 +627,14 @@ body::before {
     .guide-subsection-box table th,
     .guide-subsection-box table td {
         padding: 8px;
+    }
+
+    .guide-subsection-box table.guide-table-fit {
+        font-size: 0.8rem;
+    }
+
+    .guide-subsection-box table.guide-table-fit th,
+    .guide-subsection-box table.guide-table-fit td {
+        padding: 6px;
     }
 }
