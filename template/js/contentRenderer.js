@@ -22,6 +22,19 @@ function processSizedImageShortcode(content, basePath) {
     });
 }
 
+function enhanceResponsiveTables(contentElement) {
+    const tables = contentElement.querySelectorAll("table");
+
+    tables.forEach((table) => {
+        if (!table.parentElement || !table.parentElement.classList.contains("guide-table-container")) {
+            const wrapper = document.createElement("div");
+            wrapper.className = "guide-table-container";
+            table.parentNode.insertBefore(wrapper, table);
+            wrapper.appendChild(table);
+        }
+    });
+}
+
 export function renderContent(sections, basePath) {
     const container = document.getElementById("content");
     container.innerHTML = "";
@@ -51,6 +64,7 @@ export function renderContent(sections, basePath) {
             // Process custom image syntaxes before markdown parsing
             let processedContent = processSizedImageShortcode(subsection.content, basePath);
             contentElement.innerHTML = marked.parse(processedContent);
+            enhanceResponsiveTables(contentElement);
             subsectionElement.appendChild(contentElement);
 
             sectionElement.appendChild(subsectionElement);
