@@ -30,19 +30,18 @@ Les Classiques Capitale s'engage à promouvoir la course à pied dans une atmosp
 
 Pour éviter l'attente le jour de l'événement et prendre le départ l'esprit tranquille, nous vous recommandons fortement de récupérer votre dossard à l'avance chez notre partenaire Shop Santé.
 
-| Dates | Heures | Lieu | Épreuves | Addresse |
-| --- | --- | --- | --- | --- |
-| Samedi 20 juin | 13h à 19h | Shop Santé Lebourgneuf | Toutes | [5580 Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9) |
-| Dimanche 21 juin | À partir de 11h | Base de plein air de Sainte-Foy | Toutes | [3137 Rue Laberge, Québec, QC G1X 4B5](https://maps.app.goo.gl/SHGfny7tbZqH8JFB7) |
+| Dates            | Heures          | Lieu                            | Épreuves | Addresse                                                                                       |
+| ---------------- | --------------- | ------------------------------- | -------- | ---------------------------------------------------------------------------------------------- |
+| Samedi 20 juin   | 13h à 19h       | Shop Santé Lebourgneuf          | Toutes   | [5580 Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9) |
+| Dimanche 21 juin | À partir de 11h | Base de plein air de Sainte-Foy | Toutes   | [3137 Rue Laberge, Québec, QC G1X 4B5](https://maps.app.goo.gl/SHGfny7tbZqH8JFB7)              |
 
 > **Exclusivité Shop Sant**é : Un panier-cadeau d'une valeur de plus de 250 $ sera tiré au sort parmi tous les participants qui viendront récupérer leur dossard à la boutique le samedi.
 
 **Notes importantes :**
 
-- **Important :** Ayez en votre possession une **pièce d'identité physique avec photo** - elle vous sera demandée à votre arrivée.
-  
-- Ramassage pour un proche : Vous pouvez récupérer le dossard d’un autre participant, à condition de présenter :
-  
+* **Important :** Ayez en votre possession une **pièce d'identité physique avec photo** - elle vous sera demandée à votre arrivée.
+* Ramassage pour un proche : Vous pouvez récupérer le dossard d’un autre participant, à condition de présenter :
+
   1. Une copie (photo sur téléphone acceptée) de sa pièce d'identité avec photo.
   2. Sa confirmation d'inscription officielle.
 
@@ -62,13 +61,13 @@ La Classique Estivale est sanctionné ARGENT par Athlétisme Québec.
 
 ### Emplacement
 
-| Épreuve | Lieu | Addresse |
-| --- | --- | --- |
+| Épreuve                 | Lieu                            | Addresse                                                                          |
+| ----------------------- | ------------------------------- | --------------------------------------------------------------------------------- |
 | 20min, 2.5km, 5km, 10km | Base de plein air de Sainte-Foy | [3137 Rue Laberge, Québec, QC G1X 4B5](https://maps.app.goo.gl/SHGfny7tbZqH8JFB7) |
 
 TODO
 
-{{< sized-image src="/assets/plandépartsamediclc26.jpg" alt="Départ Demi-Marathon Champlain 2026 Samedi" width="100%" >}}
+{{< sized-image src="/assets/plan-de-site-public-.jpg" alt="Plan du site Classique Estivale 2026" width="100%" >}}
 
 ### Stationnement et accès
 
@@ -86,13 +85,13 @@ Veuillez noter qu'aucun vestiaire ne sera disponible sur place pour la Classique
 
 **Date :** Dimanche 21 juin 2026
 
-| Activité | Heure |
-| --- | --- |
-| Remise des dossards (20min, 2.5km, 5km, 10km) | À partir de 11h |
-| **Départ** 10 km La Fomagerie Victoria | **12h15** |
-| **Départ** 5km Le Subtil | **14h00** |
-| **Départ** 2,5 km La Fromagerie Victoria | **14h45** |
-| **Départ** 20 minutes classiques La Fromagerie Victoria | **15h25** |
+| Activité                                                | Heure           |
+| ------------------------------------------------------- | --------------- |
+| Remise des dossards (20min, 2.5km, 5km, 10km)           | À partir de 11h |
+| **Départ** 10 km La Fomagerie Victoria                  | **12h15**       |
+| **Départ** 5km Le Subtil                                | **14h00**       |
+| **Départ** 2,5 km La Fromagerie Victoria                | **14h45**       |
+| **Départ** 20 minutes classiques La Fromagerie Victoria | **15h25**       |
 
 #### Corrals/Vagues
 
@@ -104,12 +103,12 @@ Les départs se feront en une seule vague pour toutes les épreuves.
 
 Voici les parcours détaillés pour chaque épreuve.
 
-| Éreuve |
-| --- |
+| Éreuve                                                                                                   |
+| -------------------------------------------------------------------------------------------------------- |
 | [20 minutes classiques La Fomagerie Victoria (Boucle de ~500m)](https://ridewithgps.com/routes/55082166) |
-| [2.5 km La Fomagerie Victoria](https://ridewithgps.com/routes/50900933) |
-| [5 km Le Subtil](https://ridewithgps.com/routes/50900936) |
-| [10 km La Fomagerie Victoria](https://ridewithgps.com/routes/50900937) |
+| [2.5 km La Fomagerie Victoria](https://ridewithgps.com/routes/50900933)                                  |
+| [5 km Le Subtil](https://ridewithgps.com/routes/50900936)                                                |
+| [10 km La Fomagerie Victoria](https://ridewithgps.com/routes/50900937)                                   |
 
 ### Ravitaillements
 
@@ -160,20 +159,11 @@ En cas d'urgence, adressez-vous immédiatement au bénévole le plus proche sur 
 
 **Concept :** Inspiré du format "Backyard", l'objectif est de faire le **plus de boucles d'environ 500m possible en 20 minutes**
 
-- Animé par l'équipe du **Grand Club de Course**
-  
-- Course ou marche, en solo ou en famille
-  
-- L'important est de bouger dans le plaisir !
-  
+* Animé par l'équipe du **Grand Club de Course**
+* Course ou marche, en solo ou en famille
+* L'important est de bouger dans le plaisir !
 
 ## Après la course
-
-### Plan de l'arrivée
-
-TODO
-
-{{< sized-image src="/assets/planarrivéeclc26.jpg" alt="Plan de l'arrivée CLC26" width="100%" >}}
 
 ### Collation après course
 
@@ -189,10 +179,8 @@ Pour le plaisir de toute la famille, plusieurs activités seront offertes direct
 
 Tous les résultats seront disponibles **en temps réel** :
 
-- Sur l'application mobile Paceasy
-  
-- Sur le site web de Sport Chrono : [https://resultats.sportchrono.com](https://resultats.sportchrono.com/evenements)
-  
+* Sur l'application mobile Paceasy
+* Sur le site web de Sport Chrono : [https://resultats.sportchrono.com](https://resultats.sportchrono.com/evenements)
 
 ### Médailles et podium
 
@@ -206,10 +194,8 @@ Les podiums seront appelés au micro par l'animateur quelques minutes après cha
 
 **Récompenses :** Les trois premiers hommes et femmes de chaque distance (2.5 km, 5 km et 10 km) recevront :
 
-- Une médaille selon leur position
-  
-- Un prix de notre partenaire présentateur Shop Santé
-  
+* Une médaille selon leur position
+* Un prix de notre partenaire présentateur Shop Santé
 
 ### Photos
 
