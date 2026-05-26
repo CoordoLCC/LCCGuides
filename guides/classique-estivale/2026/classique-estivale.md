@@ -35,7 +35,7 @@ Pour éviter l'attente le jour de l'événement et prendre le départ l'esprit t
 | Samedi 20 juin   | 13h à 19h       | Shop Santé Lebourgneuf          | Toutes   | [5580 Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9) |
 | Dimanche 21 juin | À partir de 11h | Base de plein air de Sainte-Foy | Toutes   | [3137 Rue Laberge, Québec, QC G1X 4B5](https://maps.app.goo.gl/SHGfny7tbZqH8JFB7)              |
 
-> **Exclusivité Shop Sant**é : Un panier-cadeau d'une valeur de plus de 250 $ sera tiré au sort parmi tous les participants qui viendront récupérer leur dossard à la boutique le samedi.
+> **Exclusivité Shop Santé** : Un panier-cadeau d'une valeur de plus de 250 $ sera tiré au sort parmi tous les participants qui viendront récupérer leur dossard à la boutique le samedi.
 
 **Notes importantes :**
 
@@ -71,7 +71,7 @@ La Classique Estivale est sanctionné ARGENT par Athlétisme Québec.
 
 **Stationnement gratuit** disponible sur le site de la Base de Plein Air de Sainte-Foy :
 
-Des bénévoles sur place vous guideront vers le stationnement, peu importe votre entrée sur la base de plein air.
+Des bénévoles sur place vous guideront vers le stationnement, peu importe votre entrée sur la Base de plein air.
 
 ### Vestiaires
 
@@ -106,7 +106,7 @@ Voici les parcours détaillés pour chaque épreuve.
 | [20 minutes classiques La Fomagerie Victoria (Boucle de ~500m)](https://ridewithgps.com/routes/55082166) |
 | [2.5 km La Fomagerie Victoria](https://ridewithgps.com/routes/50900933)                                  |
 | [5 km Le Subtil](https://ridewithgps.com/routes/50900936)                                                |
-| [10 km La Fomagerie Victoria](https://ridewithgps.com/routes/50900937)                                   |
+| [10 km La Fomagerie Victoria (2 boucles de 5km)](https://ridewithgps.com/routes/50900937)                                   |
 
 ### Ravitaillements
 
