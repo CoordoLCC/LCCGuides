@@ -2,7 +2,7 @@
 title: Classique Estivale
 year: "2026"
 logo: /assets/classiqueestivale.svg
-status: draft
+status: published
 ---
 # Guide du coureur : Classique Estivale 2026
 
@@ -20,7 +20,7 @@ status: draft
 
 #### Mot du Président Directeur Général - Francis Bachand
 
-> Lancer la saison sur la Promenade Samuel-De Champlain, c'est offrir aux coureurs un décor de carte postale à chaque foulée. Courir au bord du fleuve, au moment précis où la lumière du matin transforme le paysage, insuffle une énergie unique qui pousse chacun à se dépasser, peu importe son niveau. C'est un immense privilège de voir une communauté aussi diversifiée s'approprier ce lieu emblématique pour relever un défi sain, tout en honorant la beauté de notre capitale par nos gestes durables.
+> Se rassembler à la Base de plein air de Sainte-Foy pour la Classique Estivale, c'est d'abord et avant tout célébrer la communauté autour d'une grande fête familiale, de l'animation et du plaisir de bouger ensemble. Courir ou marcher en pleine nature, au milieu des rires et des encouragements, insuffle une énergie unique qui rassemble toutes les générations, des plus petits aux plus grands. C'est un immense privilège de voir les familles s'approprier ce lieu magnifique pour s'amuser sainement, tout en honorant la beauté de notre capitale par nos gestes durables.
 
 #### Mission de Les Classiques Capitale
 
@@ -28,19 +28,23 @@ Les Classiques Capitale s'engage à promouvoir la course à pied dans une atmosp
 
 ### Remise des dossards
 
-Pour éviter l'attente le jour de l'événement et prendre le départ l'esprit tranquille, nous vous recommandons fortement de récupérer votre dossard à l'avance chez notre partenaire Shop Santé. 
+Pour éviter l'attente le jour de l'événement et prendre le départ l'esprit tranquille, nous vous recommandons fortement de récupérer votre dossard à l'avance chez notre partenaire Shop Santé.
 
-| Dates                                      | Heures     | Lieu                              | Épreuves                                     | Addresse                                                                                       |
-| ------------------------------------------ | ---------- | --------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| Mercredi 22, jeudi 23 et vendredi 24 avril | 16h à 20h  | Shop Santé Lebourgneuf            | Toutes                                       | [5580 Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9) |
-| Samedi 25 avril                            | 7h à 10h30 | Pavillon de la Station de la Côte | 20 minutes classiques, 2,5 km, 5 km et 10 km | [400 Bd Champlain, Québec, QC G1T](https://maps.app.goo.gl/oAhSHfF5Fxn8uXqU7)                  |
-| Samedi 25 avril                            | 14h à 18h  | Pavillon de la Station de la Côte | Demi-Marathon                                | [400 Bd Champlain, Québec, QC G1T](https://maps.app.goo.gl/oAhSHfF5Fxn8uXqU7)                  |
+| Dates | Heures | Lieu | Épreuves | Addresse |
+| --- | --- | --- | --- | --- |
+| Samedi 20 juin | 13h à 19h | Shop Santé Lebourgneuf | Toutes | [5580 Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9) |
+| Dimanche 21 juin | À partir de 11h | Base de plein air de Sainte-Foy | Toutes | [3137 Rue Laberge, Québec, QC G1X 4B5](https://maps.app.goo.gl/SHGfny7tbZqH8JFB7) |
+
+> **Exclusivité Shop Sant**é : Un panier-cadeau d'une valeur de plus de 250 $ sera tiré au sort parmi tous les participants qui viendront récupérer leur dossard à la boutique le samedi.
 
 **Notes importantes :**
 
-* Le samedi matin (7h à 10h30), seulement les coureurs inscrits au 20 minutes classiques, 2,5 km, 5 km et 10 km pourront récupérer leur dossard.
-* Aucune remise de dossard ne sera possible le dimanche matin pour le demi-marathon avant le départ.
-* **Important :** Ayez en votre possession une **pièce d'identité physique avec photo** - elle vous sera demandée à votre arrivée.
+- **Important :** Ayez en votre possession une **pièce d'identité physique avec photo** - elle vous sera demandée à votre arrivée.
+  
+- Ramassage pour un proche : Vous pouvez récupérer le dossard d’un autre participant, à condition de présenter :
+  
+  1. Une copie (photo sur téléphone acceptée) de sa pièce d'identité avec photo.
+  2. Sa confirmation d'inscription officielle.
 
 ### Transfert de dossards/Changement d'épreuve
 
@@ -58,113 +62,41 @@ La Classique Estivale est sanctionné ARGENT par Athlétisme Québec.
 
 ### Emplacement
 
-| Épreuve               | Lieu                                                  | Addresse                                                                           |
-| --------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| 20 minutes classiques | Site d'arrivée                                        | [Promenade Champlain](https://maps.app.goo.gl/58AzAC9hifPTjuZx6)                   |
-| 2.5km, 5km, 10km      | Promenade Champlain, en face de la Station de la Côte | [400 Bd Champlain, Québec, QC G1T](https://maps.app.goo.gl/GqNSSFHWcFmBLHgS7)      |
-| Demi-Marathon         | Boulevard Champlain, Quai des Cageux                  | [2795 Bd Champlain, Québec, QC G1W 2J3](https://maps.app.goo.gl/7SHZP17UoWfvHonb8) |
+| Épreuve | Lieu | Addresse |
+| --- | --- | --- |
+| 20min, 2.5km, 5km, 10km | Base de plein air de Sainte-Foy | [3137 Rue Laberge, Québec, QC G1X 4B5](https://maps.app.goo.gl/SHGfny7tbZqH8JFB7) |
 
-**Samedi 25 avril :**
+TODO
 
 {{< sized-image src="/assets/plandépartsamediclc26.jpg" alt="Départ Demi-Marathon Champlain 2026 Samedi" width="100%" >}}
 
-**Dimanche 26 avril :**
-
-{{< sized-image src="/assets/plandépartdimancheclc26.jpg" alt="Départ Demi-Marathon Champlain 2026 Dimanche" width="100%" >}}
-
 ### Stationnement et accès
 
-**Stationnement gratuit** disponible à plusieurs emplacements :
+**Stationnement gratuit** disponible sur le site de la Base de Plein Air de Sainte-Foy :
 
-**Samedi 25 avril :**
-
-{{< sized-image src="/assets/stationnementsclc26samedi.jpg" alt="Stationnement Samedi CLC26" width="100%" >}}
-
-| Emplacement                                    | Addresse                               | Directions                                                       |
-| ---------------------------------------------- | -------------------------------------- | ---------------------------------------------------------------- |
-| P1                                             | Stationnement de la Station de la Côte | À proximité immédiate                                            |
-| P2                                             | Stationnement du Domaine Cataraqui     | Suivre les indications pour descendre vers la Station de la Côte |
-| P3                                             | Belvédère de la Côte de Sillery        | Descendre la côte de Sillery vers la Station de la Côte          |
-| P4                                             | Stationnement Chemin du Foulon         | Accès par la Promenade Champlain                                 |
-| Stationnements longeant le Boulevard Champlain | \-                                     | Accès par la Promenade Champlain                                 |
-
-Le stationnement de la Station de la Plage ne sera pas accessible.
-
-<br>
-
-**Dimanche 26 avril :**
-
-{{< sized-image src="/assets/stationnementsclc26dimanche.jpg" alt="Stationnement Dimanche CLC26" width="100%" >}}
-
-| Emplacement                                                          | Addresse                               | Directions                                                                    |
-| -------------------------------------------------------------------- | -------------------------------------- | ----------------------------------------------------------------------------- |
-| P1                                                                   | Stationnement de la Station de la Côte | À proximité immédiate                                                         |
-| P2                                                                   | Stationnement du Domaine Cataraqui     | Suivre les indications pour descendre vers la Station de la Côte              |
-| P3                                                                   | Belvédère de la Côte de Sillery        | Descendre la côte de Sillery vers la Station de la Côte                       |
-| P4                                                                   | Stationnement Chemin du Foulon         | Accès par la Promenade Champlain                                              |
-| P5                                                                   | Stationnement au bas de la Côte Ross   | Proche du départ, voir section sur les navettes                               |
-| P6                                                                   | Stationnement du Quai des Cageux       | Proche du départ, voir section sur les navettes                               |
-| Stationnements longeant le Boulevard Champlain (Côté nord seulement) | \-                                     | Accès par la Promenade Champlain, le coté sud (coté fleuve) sera inaccessible |
-
-Le stationnement de la Station de la Plage ne sera pas accessible.
-
-### Navettes (Dimanche 26 avril)
-
-Le service de navettes est réservé exclusivement aux participants de la distance du demi-marathon. Les autobus circuleront en alternance entre la Station de la Côte (**P1**) et le Quai des Cageux (**P6**) de **4h45 à 9h45**. 
-
-Ce service est mis à votre disposition pour assurer la liaison entre les deux sites et faciliter l'accès à la ligne de départ ou le retour à votre véhicule, selon le stationnement que vous aurez choisi.
+Des bénévoles sur place vous guideront vers le stationnement, peu importe votre entrée sur la base de plein air.
 
 ### Vestiaires
 
-Un vestiaire sera disponible au pavillon de la Station de la Côte, le samedi et dimanche pour tous les participants.
-Vous pourrez y déposer vos effets personnels avant le départ et les récupérer au même endroit après votre épreuve.
-
-**Dimanche 26 avril :** Un véhicule de transport sera aussi situé proche du départ du demi-marathon pour récupérer vos effets personnels, ils seront ensuite disponibles au pavillon de la Station de la Côte à votre arrivée. 
+Veuillez noter qu'aucun vestiaire ne sera disponible sur place pour la Classique Estivale. Nous vous invitons à prendre vos dispositions et à laisser vos effets personnels en sécurité dans votre véhicule.
 
 > ⚠️ Les Classiques Capitale ne sont pas responsables des objets perdus. Tout article non récupéré dans les 48 heures suivant l’événement sera remis à des organismes de bienfaisance.
 
 ### Horaire
 
-**Date :** Samedi 25 avril 2026
+**Date :** Dimanche 21 juin 2026
 
-| Activité                                                | Heure      |
-| ------------------------------------------------------- | ---------- |
-| Remise des dossards (20min, 2.5km, 5km, 10km)           | 7h à 10h30 |
-| **Départ** 20 minutes classiques La Fromagerie Victoria | **8h30**   |
-| **Départ** 5km Le Subtil                                | **9h00**   |
-| Remise de médailles (5 km)                              | ~9h25      |
-| **Départ** 2,5 km La Fromagerie Victoria                | **9h45**   |
-| Remise de médailles (2,5 km)                            | ~10h       |
-| **Départ** 10 km La Fomagerie Victoria                  | **10h30**  |
-| Remise de médailles (10 km)                             | ~11h15     |
-| Remise des dossards (21.1km)                            | 14h à 18h  |
-
-**Date :** Dimanche 26 avril 2026
-
-| Activité                      | Heure    |
-| ----------------------------- | -------- |
-| **Départ** 21.1km Maple3      | **5h45** |
-| Remise de médailles (21.1 km) | ~7h30    |
-
-> ⏰ Le départ aura lieu au lever du soleil. C’est un rendez-vous matinal! Assurez-vous de planifier votre transport en conséquence.
+| Activité | Heure |
+| --- | --- |
+| Remise des dossards (20min, 2.5km, 5km, 10km) | À partir de 11h |
+| **Départ** 10 km La Fomagerie Victoria | **12h15** |
+| **Départ** 5km Le Subtil | **14h00** |
+| **Départ** 2,5 km La Fromagerie Victoria | **14h45** |
+| **Départ** 20 minutes classiques La Fromagerie Victoria | **15h25** |
 
 #### Corrals/Vagues
 
-**Samedi 25 avril :**
-
-Les départs se feront en une seule vague pour les 20 minutes classiques, 2.5 km, 5 km et 10 km.
-
-**Dimanche 26 avril :**
-
-Le départ du demi-marathon se fera en plusieurs vagues, voici les temps estimés pour chaque corral, vous êtes invités à vous placer dans le corral correspondant à votre temps estimé pour assurer une course fluide et sécuritaire pour tous les participants.
-
-| Couleur du corral | Temps estimé  |
-| ----------------- | ------------- |
-| 🟦 Bleu           | Moins de 1h35 |
-| 🟩 Vert           | 1h35 à 1h45   |
-| 🟧 Orange         | 1h45 à 2h00   |
-| 🟪 Mauve          | 2h00 à 2h15   |
-| 🟥 Rouge          | 2h15 et plus  |
+Les départs se feront en une seule vague pour toutes les épreuves.
 
 ## Durant la course
 
@@ -172,64 +104,47 @@ Le départ du demi-marathon se fera en plusieurs vagues, voici les temps estimé
 
 Voici les parcours détaillés pour chaque épreuve.
 
-| Éreuve                                                                                                   |
-| -------------------------------------------------------------------------------------------------------- |
-| [20 minutes classiques La Fomagerie Victoria (Boucle de ~500m)](https://ridewithgps.com/routes/53839817) |
-| [2.5 km La Fomagerie Victoria](https://ridewithgps.com/routes/53839813)                                  |
-| [5 km Le Subtil](https://ridewithgps.com/routes/53839814)                                                |
-| [10 km La Fomagerie Victoria](https://ridewithgps.com/routes/53839815)                                   |
-| [21.1 km Maple3](https://ridewithgps.com/routes/53839816)                                                |
+| Éreuve |
+| --- |
+| [20 minutes classiques La Fomagerie Victoria (Boucle de ~500m)](https://ridewithgps.com/routes/55082166) |
+| [2.5 km La Fomagerie Victoria](https://ridewithgps.com/routes/50900933) |
+| [5 km Le Subtil](https://ridewithgps.com/routes/50900936) |
+| [10 km La Fomagerie Victoria](https://ridewithgps.com/routes/50900937) |
 
 ### Ravitaillements
 
 Aucun ravitaillement ne sera offert pour les 20 minutes classiques, le 2.5 km et le 5km.
 
-Voici les ravitaillements pour le 10 km et 21.1 km :
-
-**10 km :** 
-
-| Kilométrage | Ravitaillement |
-| ----------- | -------------- |
-| 5 km        | Eau et Maple3  |
-| 8 km        | Eau et Maple3  |
-
-**21.1 km :**
-
-| Kilométrage | Ravitaillement          |
-| ----------- | ----------------------- |
-| 3 km        | Eau et Maple3           |
-| 6 km        | Eau, Maple3 et Toilette |
-| 10 km       | Eau, Maple3 et Toilette |
-| 13 km       | Eau et Maple3           |
-| 16 km       | Eau et Maple3           |
-| 19 km       | Eau et Maple3           |
+Pour le **10 km**, le ravitaillement se fera proche de l'arche de départ/arrivée, lors de votre passage pour entamer votre deuxième tour. De la boisson d'électrolytes **Maple 3** et de l'eau de **Eau-Mont-Bélair** seront disponibles au ravitaillement.
 
 De l'eau et une collation après-course fournie par nos partenaires sera également disponibles à l'arrivée pour tous les participants.
 
+#### ⚠️ Important : Événement vert et sans verre à usage unique
+
+Les Classiques Capitale s'engagent concrètement dans la protection de l'environnement en éliminant tous les verres jetables à usage unique de l'ensemble de leurs courses. Cette décision découle de notre volonté de réduire massivement la production de déchets plastiques et de papier, d'éviter que des verres ne se retrouvent dans la nature et de préserver la beauté des sites qui nous accueillent, comme la Base de plein air de Sainte-Foy.
+Pour que cette démarche écoresponsable soit un succès, **chaque participant doit être autonome en matière d'hydratation**.
+Comment ça fonctionne ? Vous devez obligatoirement courir avec votre propre contenant réutilisable, des bénévoles seront présents pour remplir vos contenants durant la course aux stations de remplissage :
+• Une verre réutilisable souple (speed cup), facile à plier et à ranger dans une poche ou une ceinture.
+• Une gourde, une bouteille ou une veste d'hydratation.
+Si vous n'avez pas de verre souple (speed cup), des modèles durables à l'effigie de Les Classiques Capitale seront disponibles à l'achat directement sur place, et sont aussi disponibles comme option dans votre inscription.
+
+Merci de faire équipe avec nous pour des courses plus vertes et plus propres !
+
 #### Faire attention à l'environnement
 
-L'organisation des Classiques Capitales applique une politique de zéro tolérance concernant les déchets sur le parcours. 
+L'organisation des Classiques Capitales applique une politique de zéro tolérance concernant les déchets sur le parcours.
 
-> ⚠️ Un participant qui jette des déchets sur le parcours à l'extérieur des zones de ravitaillement s'expose à une disqualification immédiate.
+> ⚠️ Un participant qui jette des déchets sur le parcours s'expose à une disqualification immédiate.
 
-Nous comptons sur votre civisme pour préserver l'environnement en utilisant les bacs mis à votre disposition sur les sites de l'événement. 
+Nous comptons sur votre civisme pour préserver l'environnement en utilisant les bacs mis à votre disposition sur les sites de l'événement.
 
 Merci de nous aider à garder les lieux propres et à minimiser notre empreinte écologique.
 
 ### Temps limite
 
-Le temps limite pour compléter les épreuves est fixé selon les distances :
+Le temps limite pour compléter le 10 km est de 1h45, il n'y a pas de temps limites pour les autres épreuves.
 
-* 10 km : 2h00
-* 5 km : 1h00
-
-Passé ces délais, le parcours sera progressivement rouvert et la sécurité ne sera plus assurée.
-
-### Véhicules d'abandon
-
-Un véhicule d'abandon sera disponible pour les coureurs désirant abandonner ou incapable de terminer l'épreuve. Si vous devez vous retirer, veuillez en informer immédiatement le bénévole le plus proche afin qu'il puisse demander le passage du véhicule. Celui-ci vous ramènera à la Station de la Côte.
-
-Veuillez noter que ce service est destiné aux abandons logistiques seulement ; pour toute urgence de santé, nous priorisons l'accès rapide au service médical.
+Passé ce délais, le parcours sera progressivement rouvert et la sécurité ne sera plus assurée.
 
 ### Services médicaux
 
@@ -239,21 +154,24 @@ L'équipe de **PCN Physiothérapie** sera présente à l'arrivée pour vous offr
 
 #### Quoi faire en cas d'urgence
 
-En cas d'urgence, veuillez vous référer au numéro de téléphone inscrit au dos de votre dossard. 
-
-Pour une intervention rapide, contactez ce numéro ou adressez-vous immédiatement au bénévole le plus proche sur le parcours.
+En cas d'urgence, adressez-vous immédiatement au bénévole le plus proche sur le parcours.
 
 ### Les 20 minutes classiques présentés par La Fromagerie Victoria
 
 **Concept :** Inspiré du format "Backyard", l'objectif est de faire le **plus de boucles d'environ 500m possible en 20 minutes**
 
-* Animé par l'équipe du **Grand Club de Course**
-* Course ou marche, en solo ou en famille
-* L'important est de bouger dans le plaisir !
+- Animé par l'équipe du **Grand Club de Course**
+  
+- Course ou marche, en solo ou en famille
+  
+- L'important est de bouger dans le plaisir !
+  
 
 ## Après la course
 
 ### Plan de l'arrivée
+
+TODO
 
 {{< sized-image src="/assets/planarrivéeclc26.jpg" alt="Plan de l'arrivée CLC26" width="100%" >}}
 
@@ -261,14 +179,20 @@ Pour une intervention rapide, contactez ce numéro ou adressez-vous immédiateme
 
 À votre arrivée, vous recevrez une **collation**, gracieuseté de nos partenaires.
 
-Le foodtruck [Fumoir & Café](https://www.facebook.com/people/Fumoir-caf%C3%A9-Gym-BBQ/61574335331817/) et notre partenaire [Le Subtil](https://lesubtil.com/) seront présents pour satisfaire votre appétit après l'effort.
+Le foodtruck [Fumoir & Café](https://www.facebook.com/people/Fumoir-caf%C3%A9-Gym-BBQ/61574335331817/) et notre partenaire [Le Subtil](https://lesubtil.com/) ainsi que le foodtruck de la Fromagerie Victoria seront présents pour satisfaire votre appétit après l'effort.
+
+### Animations et surprises
+
+Pour le plaisir de toute la famille, plusieurs activités seront offertes directement sur le site : une maquilleuse pour les plus jeunes, un mur d'escalade et d'autres belles surprises à découvrir !
 
 ### Résultats
 
 Tous les résultats seront disponibles **en temps réel** :
 
-* Sur l'application mobile Paceasy
-* Sur le site web de Sport Chrono : [https://resultats.sportchrono.com](https://resultats.sportchrono.com/evenements)
+- Sur l'application mobile Paceasy
+  
+- Sur le site web de Sport Chrono : [https://resultats.sportchrono.com](https://resultats.sportchrono.com/evenements)
+  
 
 ### Médailles et podium
 
@@ -280,10 +204,12 @@ Les médailles de participation seront remises à l'arrivée, **si vous avez pri
 
 Les podiums seront appelés au micro par l'animateur quelques minutes après chaque épreuve.
 
-**Récompenses :** Les trois premiers hommes et femmes de chaque distance (2.5 km, 5 km, 10 km et 21.1 km) recevront :
+**Récompenses :** Les trois premiers hommes et femmes de chaque distance (2.5 km, 5 km et 10 km) recevront :
 
-* Une médaille selon leur position
-* Un prix de notre partenaire présentateur Shop Santé
+- Une médaille selon leur position
+  
+- Un prix de notre partenaire présentateur Shop Santé
+  
 
 ### Photos
 
