@@ -65,8 +65,6 @@ La Classique Estivale est sanctionné ARGENT par Athlétisme Québec.
 | ----------------------- | ------------------------------- | --------------------------------------------------------------------------------- |
 | 20min, 2.5km, 5km, 10km | Base de plein air de Sainte-Foy | [3137 Rue Laberge, Québec, QC G1X 4B5](https://maps.app.goo.gl/SHGfny7tbZqH8JFB7) |
 
-TODO
-
 {{< sized-image src="/assets/plan-de-site-public-.jpg" alt="Plan du site Classique Estivale 2026" width="100%" >}}
 
 ### Stationnement et accès
