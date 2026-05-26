@@ -169,7 +169,7 @@ En cas d'urgence, adressez-vous immédiatement au bénévole le plus proche sur 
 
 À votre arrivée, vous recevrez une **collation**, gracieuseté de nos partenaires.
 
-Le foodtruck [Fumoir & Café](https://www.facebook.com/people/Fumoir-caf%C3%A9-Gym-BBQ/61574335331817/) et notre partenaire [Le Subtil](https://lesubtil.com/) ainsi que le foodtruck de la Fromagerie Victoria seront présents pour satisfaire votre appétit après l'effort.
+Le foodtruck [Fumoir & Café](https://www.facebook.com/people/Fumoir-caf%C3%A9-Gym-BBQ/61574335331817/), notre partenaire [Le Subtil](https://lesubtil.com/) ainsi que le foodtruck de la [Fromagerie Victoria](https://fromagerievictoria.com/) seront présents pour satisfaire votre appétit après l'effort.
 
 ### Animations et surprises
 
@@ -192,7 +192,7 @@ Les médailles de participation seront remises à l'arrivée, **si vous avez pri
 
 Les podiums seront appelés au micro par l'animateur quelques minutes après chaque épreuve.
 
-**Récompenses :** Les trois premiers hommes et femmes de chaque distance (2.5 km, 5 km et 10 km) recevront :
+**Récompenses :** Les trois premiers hommes et femmes de chaque distance (2.5 km, 5 km et 10 km) recevront:
 
 * Une médaille selon leur position
 * Un prix de notre partenaire présentateur Shop Santé
