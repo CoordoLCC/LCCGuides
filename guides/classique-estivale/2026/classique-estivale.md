@@ -106,7 +106,7 @@ Voici les parcours détaillés pour chaque épreuve.
 | [20 minutes classiques La Fomagerie Victoria (Boucle de ~500m)](https://ridewithgps.com/routes/55082166) |
 | [2.5 km La Fomagerie Victoria](https://ridewithgps.com/routes/50900933)                                  |
 | [5 km Le Subtil](https://ridewithgps.com/routes/50900936)                                                |
-| [10 km La Fomagerie Victoria (2 boucles de 5km)](https://ridewithgps.com/routes/50900937)                                   |
+| [10 km La Fomagerie Victoria (2 boucles de 5km)](https://ridewithgps.com/routes/50900937)                |
 
 ### Ravitaillements
 
@@ -123,9 +123,10 @@ Les Classiques Capitale s'engagent concrètement dans la protection de l'environ
 Pour que cette démarche écoresponsable soit un succès, **chaque participant doit être autonome en matière d'hydratation**.
 
 Comment ça fonctionne ? Vous devez obligatoirement courir avec votre propre contenant réutilisable, des bénévoles seront présents pour remplir vos contenants durant la course aux stations de remplissage :
-- Une verre réutilisable souple (speed cup), facile à plier et à ranger dans une poche ou une ceinture.
-- Une gourde, une bouteille ou une veste d'hydratation.
-Si vous n'avez pas de verre souple (speed cup), des modèles durables à l'effigie de Les Classiques Capitale seront disponibles à l'achat directement sur place, et sont aussi disponibles comme option dans votre inscription.
+
+* Une verre réutilisable souple (speed cup), facile à plier et à ranger dans une poche ou une ceinture.
+* Une gourde, une bouteille ou une veste d'hydratation.
+  Si vous n'avez pas de verre souple (speed cup), des modèles durables à l'effigie de Les Classiques Capitale seront disponibles à l'achat directement sur place, et sont aussi disponibles comme option dans votre inscription.
 
 Merci de faire équipe avec nous pour des courses plus vertes et plus propres !
 
@@ -215,7 +216,7 @@ Des **photographes seront sur place** pour capturer vos plus beaux sourires !
 
 ### Partenaires majeurs/publics et fournisseurs
 
-{{< sized-image src="/assets/partenairepubliquesclc2026.png" alt="Partenaires publiques CLC26" width="100%" >}}
+{{< sized-image src="/assets/partenairesfournisseurscle2026.png" alt="Partenaires publiques CLC26" width="100%" >}}
 
 ## Vous aimeriez plus de détails?
 
