@@ -116,7 +116,7 @@ Pour le **10 km**, le ravitaillement se fera proche de l'arche de départ/arriv�
 
 De l'eau et une collation après-course fournie par nos partenaires sera également disponibles à l'arrivée pour tous les participants.
 
-#### ⚠️ Important : Événement vert et sans verre à usage unique
+#### ⚠️ Important : Événement sans verre à usage unique
 
 Les Classiques Capitale s'engagent concrètement dans la protection de l'environnement en éliminant tous les verres jetables à usage unique de l'ensemble de leurs courses. Cette décision découle de notre volonté de réduire massivement la production de déchets plastiques et de papier, d'éviter que des verres ne se retrouvent dans la nature et de préserver la beauté des sites qui nous accueillent, comme la Base de plein air de Sainte-Foy.
 Pour que cette démarche écoresponsable soit un succès, **chaque participant doit être autonome en matière d'hydratation**.
