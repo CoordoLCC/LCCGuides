@@ -119,10 +119,12 @@ De l'eau et une collation après-course fournie par nos partenaires sera égalem
 #### ⚠️ Important : Événement sans verre à usage unique
 
 Les Classiques Capitale s'engagent concrètement dans la protection de l'environnement en éliminant tous les verres jetables à usage unique de l'ensemble de leurs courses. Cette décision découle de notre volonté de réduire massivement la production de déchets plastiques et de papier, d'éviter que des verres ne se retrouvent dans la nature et de préserver la beauté des sites qui nous accueillent, comme la Base de plein air de Sainte-Foy.
+
 Pour que cette démarche écoresponsable soit un succès, **chaque participant doit être autonome en matière d'hydratation**.
+
 Comment ça fonctionne ? Vous devez obligatoirement courir avec votre propre contenant réutilisable, des bénévoles seront présents pour remplir vos contenants durant la course aux stations de remplissage :
-• Une verre réutilisable souple (speed cup), facile à plier et à ranger dans une poche ou une ceinture.
-• Une gourde, une bouteille ou une veste d'hydratation.
+- Une verre réutilisable souple (speed cup), facile à plier et à ranger dans une poche ou une ceinture.
+- Une gourde, une bouteille ou une veste d'hydratation.
 Si vous n'avez pas de verre souple (speed cup), des modèles durables à l'effigie de Les Classiques Capitale seront disponibles à l'achat directement sur place, et sont aussi disponibles comme option dans votre inscription.
 
 Merci de faire équipe avec nous pour des courses plus vertes et plus propres !
