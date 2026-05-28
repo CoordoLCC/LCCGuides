@@ -46,6 +46,7 @@ Pour éviter l'attente le jour de l'événement et prendre le départ l'esprit t
   2. Sa confirmation d'inscription officielle.
 
 > ⚠️ Aucune inscription ne sera possible sur place!
+
 ### Transfert de dossards/Changement d'épreuve
 
 Le transfert de dossards ou le changement d’épreuve doivent se faire directement sur votre compte client Sport Chrono. Des frais s’appliquent selon la politique d’inscription en vigueur.
