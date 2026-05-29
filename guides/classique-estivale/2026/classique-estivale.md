@@ -18,9 +18,9 @@ status: published
 
 ### Introduction
 
-#### Mot du Président Directeur Général - Francis Bachand
+#### Mot du président directeur général, Francis Bachand
 
-> Se rassembler à la Base de plein air de Sainte-Foy pour la Classique Estivale, c'est d'abord et avant tout célébrer la communauté autour d'une grande fête familiale, de l'animation et du plaisir de bouger ensemble. Courir ou marcher en pleine nature, au milieu des rires et des encouragements, insuffle une énergie unique qui rassemble toutes les générations, des plus petits aux plus grands. C'est un immense privilège de voir les familles s'approprier ce lieu magnifique pour s'amuser sainement, tout en honorant la beauté de notre capitale par nos gestes durables.
+> Se rassembler à la Base de plein air de Sainte-Foy pour la Classique Estivale, c'est d'abord et avant tout célébrer la communauté autour d'une grande fête familiale et du plaisir de bouger ensemble. Courir ou marcher en pleine nature, au milieu des rires et des encouragements, insuffle une énergie unique qui rassemble toutes les générations, des plus petits aux plus grands. C'est un immense privilège de voir les familles s'approprier ce lieu magnifique pour s'amuser sainement, tout en honorant la beauté de notre capitale par nos gestes durables.
 
 #### Mission de Les Classiques Capitale
 
@@ -30,32 +30,31 @@ Les Classiques Capitale s'engage à promouvoir la course à pied dans une atmosp
 
 Pour éviter l'attente le jour de l'événement et prendre le départ l'esprit tranquille, nous vous recommandons fortement de récupérer votre dossard à l'avance chez notre partenaire Shop Santé.
 
-| Dates            | Heures          | Lieu                            | Épreuves | Addresse                                                                                       |
-| ---------------- | --------------- | ------------------------------- | -------- | ---------------------------------------------------------------------------------------------- |
-| Samedi 20 juin   | 13h à 19h       | Shop Santé Lebourgneuf          | Toutes   | [5580 Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9) |
-| Dimanche 21 juin | À partir de 11h | Base de plein air de Sainte-Foy | Toutes   | [3137 Rue Laberge, Québec, QC G1X 4B5](https://maps.app.goo.gl/SHGfny7tbZqH8JFB7)              |
+| Dates                 | Heures          | Lieu                            | Épreuves | Adresse                                                                                         |
+| --------------------- | --------------- | ------------------------------- | -------- | ----------------------------------------------------------------------------------------------- |
+| Samedi <br/>20 juin   | 13h à 19h       | Shop Santé Lebourgneuf          | Toutes   | [5580, Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9) |
+| Dimanche <br/>21 juin | À partir de 11h | Base de plein air de Sainte-Foy | Toutes   | [3137, Rue Laberge, Québec, QC G1X 4B5](https://maps.app.goo.gl/SHGfny7tbZqH8JFB7)              |
 
 > **Exclusivité Shop Santé** : Un panier-cadeau d'une valeur de plus de 250 $ sera tiré au sort parmi tous les participants qui viendront récupérer leur dossard à la boutique le samedi.
 
-**Notes importantes :**
+**Important :**
 
-* **Important :** Ayez en votre possession une **pièce d'identité physique avec photo** - elle vous sera demandée à votre arrivée.
+* Ayez en votre possession une **pièce d'identité physique avec photo** - elle vous sera demandée à votre arrivée.
 * Ramassage pour un proche : Vous pouvez récupérer le dossard d’un autre participant, à condition de présenter :
-
-  1. Une copie (photo sur téléphone acceptée) de sa pièce d'identité avec photo.
-  2. Sa confirmation d'inscription officielle.
+1. Une copie (photo sur téléphone acceptée) de sa pièce d'identité avec photo.
+2. Sa confirmation d'inscription officielle.
 
 > ⚠️ Aucune inscription ne sera possible sur place!
 
-### Transfert de dossards/Changement d'épreuve
+### Transfert de dossard, changement d'épreuve
 
-Le transfert de dossards ou le changement d’épreuve doivent se faire directement sur votre compte client Sport Chrono. Des frais s’appliquent selon la politique d’inscription en vigueur.
+Le transfert de dossard ou le changement d’épreuve doit se faire directement sur votre compte client Sport Chrono. Des frais s’appliquent selon la politique d’inscription en vigueur.
 
 La procédure pour effectuer un transfert ou un changement d’épreuve peut être consultée sur notre site : <https://lesclassiquescapitale.com/procedure-transfert-changement/>
 
 ### Certifications et sanctions
 
-La Classique Estivale est sanctionné ARGENT par Athlétisme Québec.
+La Classique Estivale est sanctionnée ARGENT par Athlétisme Québec.
 
 {{< sized-image src="/assets/aq_sanction-argent.png" alt="Sanction Argent Athlétisme Québec" width="30%" >}}
 
@@ -63,21 +62,21 @@ La Classique Estivale est sanctionné ARGENT par Athlétisme Québec.
 
 ### Emplacement
 
-| Épreuve                 | Lieu                            | Addresse                                                                          |
-| ----------------------- | ------------------------------- | --------------------------------------------------------------------------------- |
-| 20min, 2.5km, 5km, 10km | Base de plein air de Sainte-Foy | [3137 Rue Laberge, Québec, QC G1X 4B5](https://maps.app.goo.gl/SHGfny7tbZqH8JFB7) |
+| Épreuve                     | Lieu                            | Adresse                                                                            |
+| --------------------------- | ------------------------------- | ---------------------------------------------------------------------------------- |
+| 20 min, 2,5 km, 5 km, 10 km | Base de plein air de Sainte-Foy | [3137, Rue Laberge, Québec, QC G1X 4B5](https://maps.app.goo.gl/SHGfny7tbZqH8JFB7) |
 
 {{< sized-image src="/assets/plan-de-site-public-.jpg" alt="Plan du site Classique Estivale 2026" width="100%" >}}
 
 ### Stationnement et accès
 
-**Stationnement gratuit** disponible sur le site de la Base de Plein Air de Sainte-Foy :
+**Stationnement gratuit** disponible sur le site de la Base de plein air de Sainte-Foy.
 
-Des bénévoles sur place vous guideront vers le stationnement, peu importe votre entrée sur la Base de plein air.
+Des bénévoles vous guideront vers le stationnement, peu importe par quelle entrée vous accédez à la base de plein air.
 
-### Vestiaires
+### Vestiaire
 
-Veuillez noter qu'aucun vestiaire ne sera disponible sur place pour la Classique Estivale. Nous vous invitons à prendre vos dispositions et à laisser vos effets personnels en sécurité dans votre véhicule.
+Veuillez noter qu'aucun vestiaire ne sera disponible à la Classique Estivale. Nous vous invitons à prendre vos dispositions et à laisser vos effets personnels en sécurité dans votre véhicule.
 
 > ⚠️ Les Classiques Capitale ne sont pas responsables des objets perdus. Tout article non récupéré dans les 48 heures suivant l’événement sera remis à des organismes de bienfaisance.
 
@@ -87,13 +86,13 @@ Veuillez noter qu'aucun vestiaire ne sera disponible sur place pour la Classique
 
 | Activité                                                | Heure           |
 | ------------------------------------------------------- | --------------- |
-| Remise des dossards (20min, 2.5km, 5km, 10km)           | À partir de 11h |
+| Remise des dossards (20 min, 2,5 km, 5 km, 10 km)       | À partir de 11h |
 | **Départ** 10 km La Fomagerie Victoria                  | **12h15**       |
-| **Départ** 5km Le Subtil                                | **14h00**       |
+| **Départ** 5 km Le Subtil                               | **14h00**       |
 | **Départ** 2,5 km La Fromagerie Victoria                | **14h45**       |
 | **Départ** 20 minutes classiques La Fromagerie Victoria | **15h25**       |
 
-#### Corrals/Vagues
+#### Vagues (*Corrals*)
 
 Les départs se feront en une seule vague pour toutes les épreuves.
 
@@ -103,50 +102,51 @@ Les départs se feront en une seule vague pour toutes les épreuves.
 
 Voici les parcours détaillés pour chaque épreuve.
 
-| Éreuve                                                                                                   |
-| -------------------------------------------------------------------------------------------------------- |
-| [20 minutes classiques La Fomagerie Victoria (Boucle de ~500m)](https://ridewithgps.com/routes/55082166) |
-| [2.5 km La Fomagerie Victoria](https://ridewithgps.com/routes/50900933)                                  |
-| [5 km Le Subtil](https://ridewithgps.com/routes/50900936)                                                |
-| [10 km La Fomagerie Victoria (2 boucles de 5km)](https://ridewithgps.com/routes/50900937)                |
+| Éreuve                                                                                                    |
+| --------------------------------------------------------------------------------------------------------- |
+| [20 minutes classiques La Fomagerie Victoria (boucle de ~500 m)](https://ridewithgps.com/routes/55082166) |
+| [2,5 km La Fomagerie Victoria](https://ridewithgps.com/routes/50900933)                                   |
+| [5 km Le Subtil](https://ridewithgps.com/routes/50900936)                                                 |
+| [10 km La Fomagerie Victoria (2 boucles de 5 km)](https://ridewithgps.com/routes/50900937)                |
 
 ### Ravitaillements
 
-Aucun ravitaillement ne sera offert pour les 20 minutes classiques, le 2.5 km et le 5km.
+Aucun ravitaillement ne sera offert pour les 20 minutes classiques, le 2,5 km et le 5 km.
 
-Pour le **10 km**, le ravitaillement se fera proche de l'arche de départ/arrivée, lors de votre passage pour entamer votre deuxième tour. De la boisson d'électrolytes **Maple 3** et de l'eau de **Eau-Mont-Bélair** seront disponibles au ravitaillement.
+Pour le **10 km**, le ravitaillement se fera près de l'arche de départ/arrivée, lors de votre passage pour entamer votre deuxième tour. De la boisson d'électrolytes **Maple 3** et de l'eau de **Eau Mont Bel-Air** seront disponibles au ravitaillement.
 
-De l'eau et une collation après-course fournie par nos partenaires sera également disponibles à l'arrivée pour tous les participants.
+De l'eau et une collation d'après-course fournie par nos partenaires seront également disponibles à l'arrivée pour tous les participants.
 
-#### ⚠️ Important : Événement sans verre à usage unique
+#### ⚠️ Important : événement sans verre à usage unique
 
-Les Classiques Capitale s'engagent concrètement dans la protection de l'environnement en éliminant tous les verres jetables à usage unique de l'ensemble de leurs courses. Cette décision découle de notre volonté de réduire massivement la production de déchets plastiques et de papier, d'éviter que des verres ne se retrouvent dans la nature et de préserver la beauté des sites qui nous accueillent, comme la Base de plein air de Sainte-Foy.
+Les Classiques Capitale s'engage concrètement dans la protection de l'environnement en éliminant tous les verres jetables à usage unique de l'ensemble de ses courses. Cette décision découle de notre volonté de réduire massivement la production de déchets plastiques et de papier, d'éviter que des verres ne se retrouvent dans la nature et de préserver la beauté des sites qui nous accueillent, comme la Base de plein air de Sainte-Foy.
 
 Pour que cette démarche écoresponsable soit un succès, **chaque participant doit être autonome en matière d'hydratation**.
 
-Comment ça fonctionne ? Vous devez obligatoirement courir avec votre propre contenant réutilisable, des bénévoles seront présents pour remplir vos contenants durant la course aux stations de remplissage :
+Comment ça fonctionne? Vous devez obligatoirement courir avec votre propre contenant réutilisable. Durant la course, des bénévoles seront présents aux stations de remplissage pour le remplir. 
+**Ce contenant peut être :**
 
-* Une verre réutilisable souple (speed cup), facile à plier et à ranger dans une poche ou une ceinture.
-* Une gourde, une bouteille ou une veste d'hydratation.
-  Si vous n'avez pas de verre souple (speed cup), des modèles durables à l'effigie de Les Classiques Capitale seront disponibles à l'achat directement sur place, et sont aussi disponibles comme option dans votre inscription.
+* un verre réutilisable souple (*speed cup*), facile à plier et à ranger dans une poche ou une ceinture.
+* une gourde, une bouteille ou une veste d'hydratation;
+* Si vous n'avez pas de verre souple, des modèles durables à l'effigie de Les Classiques Capitale seront disponibles à l'achat directement sur place. Ils sont aussi disponibles en option lors de votre inscription.
 
-Merci de faire équipe avec nous pour des courses plus vertes et plus propres !
+Merci de faire équipe avec nous pour des courses plus vertes et plus propres!
 
 #### Faire attention à l'environnement
 
-L'organisation des Classiques Capitales applique une politique de zéro tolérance concernant les déchets sur le parcours.
+L'organisation des Classiques Capitale applique une politique de zéro tolérance concernant les déchets sur le parcours.
 
 > ⚠️ Un participant qui jette des déchets sur le parcours s'expose à une disqualification immédiate.
 
-Nous comptons sur votre civisme pour préserver l'environnement en utilisant les bacs mis à votre disposition sur les sites de l'événement.
+Nous comptons sur votre civisme pour préserver l'environnement en utilisant les bacs mis à votre disposition sur le site de l'événement.
 
 Merci de nous aider à garder les lieux propres et à minimiser notre empreinte écologique.
 
 ### Temps limite
 
-Le temps limite pour compléter le 10 km est de 1h45, il n'y a pas de temps limites pour les autres épreuves.
+Le temps limite pour compléter le 10 km est de 1h45. Il n'y a pas de temps limite pour les autres épreuves.
 
-Passé ce délais, le parcours sera progressivement rouvert et la sécurité ne sera plus assurée.
+Passé ce délai, le parcours sera progressivement rouvert et la sécurité ne sera plus assurée.
 
 ### Services médicaux
 
@@ -160,49 +160,49 @@ En cas d'urgence, adressez-vous immédiatement au bénévole le plus proche sur 
 
 ### Les 20 minutes classiques présentés par La Fromagerie Victoria
 
-**Concept :** Inspiré du format "Backyard", l'objectif est de faire le **plus de boucles d'environ 500m possible en 20 minutes**
+**Concept :** Inspiré du format "Backyard", l'objectif est de faire le **plus de boucles d'environ 500 m possible en 20 minutes.**
 
 * Animé par l'équipe du **Grand Club de Course**
 * Course ou marche, en solo ou en famille
-* L'important est de bouger dans le plaisir !
+* L'important est de bouger dans le plaisir!
 
 ## Après la course
 
-### Collation après course
+### Collation d'après-course
 
 À votre arrivée, vous recevrez une **collation**, gracieuseté de nos partenaires.
 
-Le foodtruck [Fumoir & Café](https://www.facebook.com/people/Fumoir-caf%C3%A9-Gym-BBQ/61574335331817/), notre partenaire [Le Subtil](https://lesubtil.com/) ainsi que le foodtruck de la [Fromagerie Victoria](https://fromagerievictoria.com/) seront présents pour satisfaire votre appétit après l'effort.
+Le *foodtruck* [Fumoir & Café](https://www.facebook.com/people/Fumoir-caf%C3%A9-Gym-BBQ/61574335331817/), notre partenaire [Le Subtil](https://lesubtil.com/) ainsi que le *foodtruck* de la [Fromagerie Victoria](https://fromagerievictoria.com/) seront présents pour satisfaire votre appétit après l'effort.
 
 ### Animations et surprises
 
-Pour le plaisir de toute la famille, plusieurs activités seront offertes directement sur le site : une maquilleuse pour les plus jeunes, un mur d'escalade et d'autres belles surprises à découvrir !
+Pour le plaisir de toute la famille, plusieurs activités seront offertes directement sur le site : une maquilleuse pour les plus jeunes de coeur, un mur d'escalade et d'autres belles surprises à découvrir !
 
 ### Résultats
 
 Tous les résultats seront disponibles **en temps réel** :
 
-* Sur l'application mobile Paceasy
-* Sur le site web de Sport Chrono : [https://resultats.sportchrono.com](https://resultats.sportchrono.com/evenements)
+* sur l'application mobile Paceasy
+* sur le site web de Sport Chrono : [https://resultats.sportchrono.com](https://resultats.sportchrono.com/evenements)
 
 ### Médailles et podium
 
 #### Médailles de participation
 
-Les médailles de participation seront remises à l'arrivée, **si vous avez pris l'option de la médaille lors de votre inscription**.
+Votre médaille de participation vous sera remise à l'arrivée, **si vous avez pris l'option de la médaille lors de votre inscription.**
 
 #### Podium
 
 Les podiums seront appelés au micro par l'animateur quelques minutes après chaque épreuve.
 
-**Récompenses :** Les trois premiers hommes et femmes de chaque distance (2.5 km, 5 km et 10 km) recevront:
+**Récompenses :** Les trois premiers hommes et femmes de chaque distance (2,5 km, 5 km et 10 km) recevront :
 
-* Une médaille selon leur position
-* Un prix de notre partenaire présentateur Shop Santé
+* une médaille selon leur position;
+* un prix de notre partenaire présentateur Shop Santé.
 
 ### Photos
 
-Des **photographes seront sur place** pour capturer vos plus beaux sourires !
+Des **photographes seront sur place** pour capturer vos plus beaux sourires!
 
 📸 Les photos seront disponibles sur nos réseaux sociaux quelques jours après la course.
 
@@ -216,7 +216,7 @@ Des **photographes seront sur place** pour capturer vos plus beaux sourires !
 
 {{< sized-image src="/assets/partenairesofficielsadlc2026.png" alt="Maple3, Formagerie Victoria, Le Subtil" width="100%" >}}
 
-### Partenaires majeurs/publics et fournisseurs
+### Partenaires majeurs, publics et fournisseurs
 
 {{< sized-image src="/assets/partenairesfournisseurscle2026.png" alt="Partenaires publiques CLC26" width="100%" >}}
 
@@ -224,6 +224,6 @@ Des **photographes seront sur place** pour capturer vos plus beaux sourires !
 
 ### Contactez-nous!
 
-Pour toute question ou information supplémentaire, n'hésitez pas à nous contacter à support@sportscapitale.com
+Pour toute question ou information supplémentaire, n'hésitez pas à nous contacter à support@sportscapitale.com.
 
-> **Bonne course à tous ! 🏃**
+> **Bonne course à tous! 🏃**
