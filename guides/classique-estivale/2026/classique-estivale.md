@@ -195,7 +195,7 @@ Votre médaille de participation vous sera remise à l'arrivée, **si vous avez 
 
 Les podiums seront appelés au micro par l'animateur quelques minutes après chaque épreuve.
 
-**Récompenses :** Les trois premiers hommes et femmes de chaque distance (2,5 km, 5 km et 10 km) recevront :
+**Récompenses :** Les trois premiers hommes et femmes des distances 2,5 km, 5 km et 10 km recevront :
 
 * une médaille selon leur position;
 * un prix de notre partenaire présentateur Shop Santé.
