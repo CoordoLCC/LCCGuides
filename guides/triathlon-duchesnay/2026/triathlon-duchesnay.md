@@ -144,7 +144,7 @@ Nous vous demandons de placer vos effets personnels dans un **sac identifé avec
 | **12h45** | Jeunesse 1 (4 à 7 ans)                      | Près de la mise à l’eau  | 12h30                |
 
 
-### Rencontre pré-course
+#### Rencontre pré-course
 
 Les rencontres d’avant-course se font sur les lieux de départ de votre épreuve 15 minutes avant le départ (de la première vague). Ces rencontres sont obligatoires pour tous les participants et permettront de vous informer sur les consignes de sécurité, le parcours et le départ.
 
@@ -204,7 +204,7 @@ Comment ça fonctionne? Vous devez obligatoirement courir avec votre propre cont
 
 Vous pouvez laisser votre contenant à votre zone de transition pour le récupérer lors de de votre départ à la course.
 
-#### Faire attention à l'environnement
+### Faire attention à l'environnement
 
 L'organisation des Classiques Capitales applique une politique de zéro tolérance concernant les déchets sur le parcours.
 
@@ -215,7 +215,7 @@ Nous comptons sur votre civisme pour préserver l'environnement en utilisant les
 Merci de nous aider à garder les lieux propres et à minimiser notre empreinte écologique.
 
 
-### Véhicules d'abandon
+### Véhicule d'abandon
 
 Sur les parcours de vélo et de course, un véhicule d'abandon est disponible pour les participants désirant abandonner ou incapable de terminer. Si vous devez vous retirer, veuillez en informer immédiatement le bénévole le plus proche afin qu'il puisse demander le passage du véhicule.
 
@@ -288,4 +288,4 @@ TODO IMAGE
 
 Pour toute question ou information supplémentaire, n'hésitez pas à nous contacter à support@sportscapitale.com
 
-> **Bon Triathlon à tous ! 🏊🚴🏃**
+> **Bon triathlon à tous ! 🏊🚴🏃**
