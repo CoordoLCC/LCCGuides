@@ -1,7 +1,7 @@
 ---
 title: Triathlon Duchesnay
 year: "2026"
-logo: /assets/logo_triathlon-duchesnay_notext_green.svg
+logo: /assets/logo_triathlon-duchesnay_notext_blue.svg
 status: published
 ---
 # Guide du coureur : Triathlon Duchesnay 2026
@@ -71,7 +71,24 @@ TODO : PLAN Stationnement
 ### Puces électroniques
 Les puces électroniques sont remises au pavillon Desjardins avec votre trousse d’athlète. En récupérant la puce électronique qui vous est prêtée, vous vous engagez à remettre la puce après la compétition, à défaut de quoi son remplacement vous sera facturé au coût de $45. Les puces ont des velcros solides et ne se détachent pas si elles sont bien installées. Si vous perdiez votre puce durant l’événement, vous devez en aviser un bénévole rapidement. Si vous devez abandonner l’épreuve, rapportez votre puce à la ligne d’arrivée ou à un responsable de la zone de transition
 
-### Marquage
+### Identification et Marquage
+
+Votre trousse d'athlète comprend :
+* Un casque de bain
+* Un dossard
+* Une puce électronique
+* Un collant pour votre vélo
+* Un collant pour votre casque de vélo
+
+La puce électronique doit être portée à la cheville gauche, avec le velcro fourni.
+
+Le casque de bain doit obligatoirement être porté lors de la natation. La couleur de celui-ci indique votre épreuve.
+
+Le collant pour le vélo doit être placé sur le tube de scelle de votre vélo et le collant pour le casque doit être placé sur le devant de votre casque.
+
+Le dossard doit être porté lors de la course à pied de façon visible.
+
+#### Marquage
 
 Le marquage permet aux participants, bénévoles et officiels une identification rapide des athlètes prenant part à une même épreuve.
 
@@ -80,7 +97,10 @@ TODO : IMAGE
 Afin d'accélérer le processus de départ, nous vous conseillons de vous marquer à l'avance, à la maison, avant de vous rendre sur le site de l'événement.
 Autrement, des bénévoles seront sur place pour vous aider à vous marquer proche de la zone de transition.
 
-### Location de Wetsuit
+### Wetsuit
+
+Le port de la combinaison isothermique est assujetti au RÈGLEMENT de Triathlon Québec. Pour plus d’information, veuillez consulter le lien suivant : [https:// www.triathlonquebec.org/lecons/natation-lecon-2-combinaison-isothermique/]()
+Nous vous rappelons que la décision officielle quant au port de la combinaison isothermique est prise par les officiels de Triathlon Québec **une heure** avant le premier départ de la journée. Il est donc inutile de nous demander à l’avance si la combinaison isothermique sera permise. Les informations vous seront communiquées par les annonceurs et les officiels le matin de l’événement.
 
 Il sera possible de faire la location de wetsuit sur place ou en réservant par courriel à info@laboutiquedulac.com
 
