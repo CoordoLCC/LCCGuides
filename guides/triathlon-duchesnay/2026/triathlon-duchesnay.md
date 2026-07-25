@@ -101,7 +101,7 @@ Autrement, des bénévoles seront sur place pour vous aider à vous marquer proc
 
 ### Wetsuit
 
-Le port de la combinaison isothermique est assujetti au RÈGLEMENT de Triathlon Québec. Pour plus d’information, veuillez consulter le lien suivant : <https:// www.triathlonquebec.org/lecons/natation-lecon-2-combinaison-isothermique/>
+Le port de la combinaison isothermique est assujetti au RÈGLEMENT de Triathlon Québec. Pour plus d’information, veuillez consulter le lien suivant : <https://www.triathlonquebec.org/lecons/natation-lecon-2-combinaison-isothermique/>
 Nous vous rappelons que la décision officielle quant au port de la combinaison isothermique est prise par les officiels de Triathlon Québec **une heure** avant le premier départ de la journée. Il est donc inutile de nous demander à l’avance si la combinaison isothermique sera permise. Les informations vous seront communiquées par les annonceurs et les officiels le matin de l’événement.
 
 Il sera possible de faire la location de wetsuit sur place ou en réservant par courriel à info@laboutiquedulac.com
@@ -125,14 +125,14 @@ La distance Sprint du Triathlon Duchesnay est une épreuve de la Coupe Québec d
 
 ### Emplacements
 
-| Épreuve                       | Lieu                           | Point GPS |
-| ----------------------------- | ------------------------------ | --------- |
-| Triathlon Sprint              | En arrière du Normandin        |           |
-| Triathlon Développement       | En arrière de l'école          |           |
-| Triathlon Initiation          | En arrière de l'école          |           |
-| Triathlon Jeunesses (J1 à J4) | À la mise à l'eau              |           |
-| Duathlon Sprint               | Au début du parcours de course |           |
-| Duathlon Initiation           | Au début du parcours de course |           |
+| Épreuve                       | Lieu                           | Point GPS                                                                                                                | Distance depuis la zone de transition  |
+| ----------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
+| Triathlon Sprint              | En arrière du Normandin        | [4756 Rte de Fossambault, Sainte-Catherine-de-la-Jacques-Cartier, QC G3N 2K9](https://maps.app.goo.gl/gRoC39DB3B5yMgJEA) | 650m (prévoir 10-15 minutes de marche) |
+| Triathlon Développement       | En arrière de l'école          | <https://maps.app.goo.gl/MXFVSfiZi38BHpT58>                                                                              | 400m (prévoir 5-10 minutes de marche)  |
+| Triathlon Initiation          | En arrière de l'école          | <https://maps.app.goo.gl/MXFVSfiZi38BHpT58>                                                                              | 400m (prévoir 5-10 minutes de marche)  |
+| Triathlon Jeunesses (J1 à J4) | À la mise à l'eau              | <https://maps.app.goo.gl/PzAYkCt9xGLDJ4Su9>                                                                              | 200m                                   |
+| Duathlon Sprint               | Au début du parcours de course | <https://maps.app.goo.gl/7zj4uY9bvsNwGE8R9>                                                                              | 100m                                   |
+| Duathlon Initiation           | Au début du parcours de course | <https://maps.app.goo.gl/7zj4uY9bvsNwGE8R9>                                                                              | 100m                                   |
 
 ### Service de vestiaire
 
@@ -197,7 +197,7 @@ Chez les femmes :
 
 Les participants devront suivre un couloir individuel balisé avec des bouées. Une équipe de sécurité nautique assurera la sécurité du plan d’eau. À la sortie de l’eau, un corridor dirigera les participants vers la zone de transition. Le temps limite pour les triathlons sprint et initiation est celui mentionné dans les règlements de Triathlon Québec, soit 30 minutes.
 
-Sprint : 
+Sprint :
 
 {{< sized-image src="/assets/td2025_swimsprint.jpg" alt="" >}}
 
@@ -213,7 +213,7 @@ Jeunesses :
 
 Bien que le parcours de vélo soit entièrement fermé aux automobilistes, les véhicules motorisés et les véhicules d’urgence ont priorité. Restez alertes. Vous devez rouler en tout temps dans la voie de droite. Vous devez dépasser par la gauche. Le temps limite pour les distances sprint (20km) est de 1h15 et celui pour les distances initiation (10km) est de 40 minutes. Le sillionnage (*drafting*) est n'est pas permis sur toutes les épreuves.
 
-Sprint, Initiation et Développement: 
+Sprint, Initiation et Développement:
 
 {{< sized-image src="/assets/td2025_bikesprintinitdev.jpg" alt="" >}}
 
@@ -225,7 +225,7 @@ Jeunesses :
 
 Le parcours de course à pied se fera pour sa part dans le sens **horaire**. Vous courez donc dans la voie de gauche (c'est le sens inverse à ce que vous avez l'habitude de faire). Le parcours de course emprunte la piste cyclable La Liseuse. Il s’agit d’une boucle de 2,5km. Cette boucle de 2,5 km sera utilisée pour toutes les distances de l’évènement sauf pour les épreuves jeunesses et le 1er tour du duathlon initiation. Il n’y a pas de temps limite. Si vous êtes coupés sur une autre discipline, vous pourrez tout de même faire votre épreuve de course.
 
-Sprint, Initiation et Développement : 
+Sprint, Initiation et Développement :
 
 {{< sized-image src="/assets/td2025_run.jpg" alt="" >}}
 
