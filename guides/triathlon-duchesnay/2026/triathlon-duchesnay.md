@@ -101,7 +101,7 @@ Autrement, des bénévoles seront sur place pour vous aider à vous marquer proc
 
 ### Wetsuit
 
-Le port de la combinaison isothermique est assujetti au RÈGLEMENT de Triathlon Québec. Pour plus d’information, veuillez consulter le lien suivant : [https:// www.triathlonquebec.org/lecons/natation-lecon-2-combinaison-isothermique/](<>)
+Le port de la combinaison isothermique est assujetti au RÈGLEMENT de Triathlon Québec. Pour plus d’information, veuillez consulter le lien suivant : <https:// www.triathlonquebec.org/lecons/natation-lecon-2-combinaison-isothermique/>
 Nous vous rappelons que la décision officielle quant au port de la combinaison isothermique est prise par les officiels de Triathlon Québec **une heure** avant le premier départ de la journée. Il est donc inutile de nous demander à l’avance si la combinaison isothermique sera permise. Les informations vous seront communiquées par les annonceurs et les officiels le matin de l’événement.
 
 Il sera possible de faire la location de wetsuit sur place ou en réservant par courriel à info@laboutiquedulac.com
