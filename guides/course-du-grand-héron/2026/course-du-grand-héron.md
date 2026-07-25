@@ -81,11 +81,14 @@ La Course du Grand-Héron est sanctionnée ARGENT par Athlétisme Québec.
 
 {{< sized-image src="/assets/td2025_site.jpg" alt="Plan du site Triathlon Duchesnay 2026" >}}
 
-### Emplacements
 
-| Épreuve                      | Lieu                          | Point GPS                                                                                                            |
-| ---------------------------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 5km, 10km, 20 min Classiques | Entrée du Parc du Grand-Héron | [4 Rue Louis Jolliet, Sainte-Catherine-de-la-Jacques-Cartier, QC G3N 2N6](https://maps.app.goo.gl/eRH8DUAqJGd1SDw37) |
+
+#### Emplacements
+
+| Épreuve           | Lieu                          | Point GPS                                                                                                            | Sur le plan                                                          |
+| ----------------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| 5km, 10km         | Entrée du Parc du Grand-Héron | [4 Rue Louis Jolliet, Sainte-Catherine-de-la-Jacques-Cartier, QC G3N 2N6](https://maps.app.goo.gl/eRH8DUAqJGd1SDw37) | Au point marqué "Embarquement/Débarquement" sur le plan ci-dessus.   |
+| 20 min Classiques | Proche de la piste cyclable   | [4 Rue Louis Jolliet, Sainte-Catherine-de-la-Jacques-Cartier, QC G3N 2N6](https://maps.app.goo.gl/eRH8DUAqJGd1SDw37) | Au point marqué "Départ Duathlons et courses" sur le plan ci-dessus. |
 
 
 ### Vestiaire
@@ -98,11 +101,11 @@ Aucun vestiaire n’est disponible sur le site. Nous vous demandons de laisser v
 
 **Date :** Samedi 1er août 2026
 
-| Heure     | Épreuve                                          | Lieu de la rencontre |
-| --------- | ------------------------------------------------ | -------------------- |
-| **13h30** | 5 km **Le Subtil**                               | Parc du Grand-Héron  |
-| **14h00** | 10 km **La Fromagerie Victoria**                 | Parc du Grand-Héron  |
-| **15h30** | 20 minutes Classiques **La Fromagerie Victoria** | Parc du Grand-Héron  |
+| Heure     | Épreuve                                          |
+| --------- | ------------------------------------------------ |
+| **13h30** | 5 km **Le Subtil**                               |
+| **14h00** | 10 km **La Fromagerie Victoria**                 |
+| **15h30** | 20 minutes Classiques **La Fromagerie Victoria** |
 
 ## Durant la course
 
