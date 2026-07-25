@@ -332,7 +332,7 @@ Des **photographes seront sur place** pour capturer vos plus beaux sourires !
 
 ### Partenaires majeurs/publics et fournisseurs
 
-TODO IMAGE
+{{< sized-image src="/assets/partenairesfournisseurstd2026.svg" alt="" >}}
 
 ## Vous aimeriez plus de détails?
 
