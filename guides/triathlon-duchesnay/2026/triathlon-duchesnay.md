@@ -1,7 +1,7 @@
 ---
 title: Triathlon Duchesnay
 year: "2026"
-logo: /assets/logo_triathlon-duchesnay_notext.svg
+logo: /assets/logo_triathlon-duchesnay_notext_green.svg
 status: published
 ---
 # Guide du coureur : Triathlon Duchesnay 2026
