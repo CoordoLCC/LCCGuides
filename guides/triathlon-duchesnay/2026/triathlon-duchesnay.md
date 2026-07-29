@@ -57,14 +57,16 @@ Veuillez vous référer à notre politique d'inscription.
 
 Par l’autoroute 40, vous devez prendre la sortie 295 et suivre la route de Fossambault en direction nord, vers Sainte-Catherine-de-la-Jacques-Cartier. Vous entrez dans Sainte-Catherine-de-la-Jacques-Cartier après environ 14 km.
 
-Soyez attentif, une affiche du Triathlon Duchesnay vous indiquera l’endroit où tourner à gauche afin de vous rendre aux différents stationnements.
+Soyez attentif, une affiche du Triathlon Duchesnay vous indiquera l’endroit où tourner afin de vous rendre aux différents stationnements.
 
 Voici le plan des stationnements, notez **le stationnement P4 ferme le matin de la course à 7h00 et celui-ci réouvrira seulement à la fin de l’événement, soit vers 13h00.** Si vous prévoyez avoir à quitter avant 13h00, vous devez utiliser les stationnements **P1 à P3**.
 
 Plusieurs stationnements sont disponibles et peuvent loger toutes les voitures.
 
-Ils se trouvent à moins de 300 mètres du site et sont clairement identifiés. Des bénévoles seront sur place pour vous guider. Soyez courtois et patients avec eux : ils sont là pour faciliter la coordination des véhicules et des athlètes.
+Ils se trouvent à moins de 300 mètres du site. Des bénévoles seront sur place pour vous guider. Soyez courtois et patients avec eux : ils sont là pour faciliter la coordination des véhicules et des athlètes.
 Vous pouvez aussi stationner dans les rues avoisinantes en respectant la signalisation.
+
+> ⚠️ Attention, afin de respecter le réglement municipal, il est interdit de dormir en camping-car dans le stationnement P4.
 
 {{< sized-image src="/assets/td2025_stationnement.jpg" alt="Stationnements Triathlon Duchesnay 2026" >}}
 
