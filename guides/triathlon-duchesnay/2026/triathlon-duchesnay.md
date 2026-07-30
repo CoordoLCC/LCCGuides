@@ -161,7 +161,7 @@ Nous vous demandons de placer vos effets personnels dans un **sac identifé avec
 | **9h00**  | Triathlon Sprint (Les Roses)                | Normandin                | 8h45                 |
 | **10h20** | Triathlon Développement                     | Derrière l’école         | 10h05                |
 | **10h20** | Duathlon Initiation                         | Ligne de départ duathlon | 10h05                |
-| **10h30** | Triathlon Initiation (Individuel et équipe) | Derrière l’école         | 10h15                |
+| **10h30** | Triathlon Initiation (Individuel et équipe) | Derrière l’école         | 10h20                |
 | **10h40** | Triathlon Initiation/Découverte (Les Roses) | Derrière l’école         | 10h30                |
 | **11h40** | Jeunesse 4 (10 à 13 ans)                    | Près de la mise à l’eau  | 11h25                |
 | **12h10** | Jeunesse 3 (8 à 11 ans)                     | Près de la mise à l’eau  | 11h55                |
@@ -170,7 +170,7 @@ Nous vous demandons de placer vos effets personnels dans un **sac identifé avec
 
 #### Rencontre pré-course
 
-Les rencontres d’avant-course se font sur les lieux de départ de votre épreuve 15 minutes avant le départ (de la première vague). Ces rencontres sont obligatoires pour tous les participants et permettront de vous informer sur les consignes de sécurité, le parcours et le départ.
+Les rencontres d’avant-course se font sur les lieux de départ de votre épreuve quelques minutes avant le départ (de la première vague), voir le tableau ci-dessus. Ces rencontres sont obligatoires pour tous les participants et permettront de vous informer sur les consignes de sécurité, le parcours et le départ.
 
 #### Vagues
 
