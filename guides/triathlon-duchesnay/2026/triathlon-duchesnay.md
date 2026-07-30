@@ -66,7 +66,7 @@ Plusieurs stationnements sont disponibles et peuvent loger toutes les voitures.
 Ils se trouvent à moins de 300 mètres du site. Des bénévoles seront sur place pour vous guider. Soyez courtois et patients avec eux : ils sont là pour faciliter la coordination des véhicules et des athlètes.
 Vous pouvez aussi stationner dans les rues avoisinantes en respectant la signalisation.
 
-> ⚠️ Attention, afin de respecter le réglement municipal, il est interdit de dormir en camping-car dans le stationnement P4.
+> ⚠️ Attention, afin de respecter le réglement municipal, il est interdit de dormir en camping-car dans les stationnements.
 
 {{< sized-image src="/assets/td2025_stationnement.jpg" alt="Stationnements Triathlon Duchesnay 2026" >}}
 
