@@ -88,41 +88,41 @@ Pour plus d’informations : <https://fnq.ca/series/circuit-en-eau-libre/>
 
 **DISTANCES 5-10 km**
 
-| HEURE       | DESCRIPTION                                                                                                                        | LIEU              |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| 7h - 8h     | Enregistrement des athlètes du 5-10 km\n- Marquage\n- Remise casque de bain\n- Dépôt de nutrition désirant aller sur la plateforme | Zone d’accueil    |
-| 7h30 à 8h10 | Période d’échauffement des nageurs 5-10km (facultatif)                                                                             | Plage             |
-| 8h15        | Réunion pré course circuit FNQ ET 5-10km                                                                                           | Plage             |
-| 8h30        | **Départ CIRCUIT FNQ (5 km et 10 km)**                                                                                             | Départ dans l’eau |
-| 8h45        | **Départ 10 km**                                                                                                                   | Départ dans l’eau |
-| 9h          | **Départ 5 km**                                                                                                                    | Départ dans l’eau |
-| ~12h30      | Remise des médailles                                                                                                               | Zone podium       |
+| HEURE       | DESCRIPTION                                                                                                                     | LIEU              |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| 7h - 8h     | Enregistrement des athlètes du 5-10 km - Marquage - Remise casque de bain - Dépôt de nutrition désirant aller sur la plateforme | Zone d’accueil    |
+| 7h30 à 8h10 | Période d’échauffement des nageurs 5-10km (facultatif)                                                                          | Plage             |
+| 8h15        | Réunion pré course circuit FNQ ET 5-10km                                                                                        | Plage             |
+| 8h30        | **Départ CIRCUIT FNQ (5 km et 10 km)**                                                                                          | Départ dans l’eau |
+| 8h45        | **Départ 10 km**                                                                                                                | Départ dans l’eau |
+| 9h          | **Départ 5 km**                                                                                                                 | Départ dans l’eau |
+| ~12h30      | Remise des médailles                                                                                                            | Zone podium       |
 
 **DISTANCE 1-2 km**
 
 *Pas de période d’échauffement dans l’eau possible*
 
-| HEURE    | DESCRIPTION                                                                | LIEU              |
-| -------- | -------------------------------------------------------------------------- | ----------------- |
-| 8h à 10h | Enregistrement des athlètes du 1-2 km\n- Marquage\n- Remise casque de bain | Zone d’accueil    |
-| 10h      | Réunion pré course 1 km & 2 km                                             | Plage             |
-| 10h30    | **Départ 1 km**                                                            | Départ dans l'eau |
-| 10h45    | **Départ 2 km**                                                            | Départ dans l'eau |
-| ~12h30   | Remise des médailles                                                       | Zone podium       |
+| HEURE    | DESCRIPTION                                                              | LIEU              |
+| -------- | ------------------------------------------------------------------------ | ----------------- |
+| 8h à 10h | Enregistrement des athlètes du 1-2 km - Marquage - Remise casque de bain | Zone d’accueil    |
+| 10h      | Réunion pré course 1 km & 2 km                                           | Plage             |
+| 10h30    | **Départ 1 km**                                                          | Départ dans l'eau |
+| 10h45    | **Départ 2 km**                                                          | Départ dans l'eau |
+| ~12h30   | Remise des médailles                                                     | Zone podium       |
 
 **DISTANCE 50-100-200-500 m & relais 4x500 m**
 
 *Pas de période d’échauffement dans l’eau possible*
 
-| HEURE     | DESCRIPTION                                                                                           | LIEU              |
-| --------- | ----------------------------------------------------------------------------------------------------- | ----------------- |
-| 10h à 11h | Enregistrement des athlètes du 50-100-200-500 m + relais 4x500 m\n- Marquage\n- Remise casque de bain | Zone d’accueil    |
-| 11h       | Réunion pré course 50-100-200-500 m & relais 4x500 m                                                  | Plage             |
-| 11h05     | **Départ 50 m**                                                                                       | Départ dans l'eau |
-| 11h10     | **Départ 100 m**                                                                                      | Départ dans l'eau |
-| 11h15     | **Départ 200 m**                                                                                      | Départ dans l'eau |
-| 11h20     | **Départ 500 m + relais 4x500 m**                                                                     | Départ dans l'eau |
-| ~12h30    | Remise des médailles                                                                                  | Zone podium       |
+| HEURE     | DESCRIPTION                                                                                       | LIEU              |
+| --------- | ------------------------------------------------------------------------------------------------- | ----------------- |
+| 10h à 11h | Enregistrement des athlètes du 50-100-200-500m + relais 4x500m - Marquage - Remise casque de bain | Zone d’accueil    |
+| 11h       | Réunion pré course 50-100-200-500 m & relais 4x500 m                                              | Plage             |
+| 11h05     | **Départ 50 m**                                                                                   | Départ dans l'eau |
+| 11h10     | **Départ 100 m**                                                                                  | Départ dans l'eau |
+| 11h15     | **Départ 200 m**                                                                                  | Départ dans l'eau |
+| 11h20     | **Départ 500 m + relais 4x500 m**                                                                 | Départ dans l'eau |
+| ~12h30    | Remise des médailles                                                                              | Zone podium       |
 
 ### Vagues
 
