@@ -46,7 +46,9 @@ Des bénévoles seront présents pour vous aider à vous stationner. Plusieurs e
 
 ### Remise des casques de bain et numéros de marquage
 
-La remise des casques de bain se fera directement au Pavillon Gentilhommière le matin même, à proximité de la zone de départ. Des bénévoles seront présents pour vous remettre votre casque de bain et votre numéro de marquage. Une pièce d’identité avec photo sera demandée afin de confirmer votre identité et de vous remettre le matériel nécessaire pour participer à l'événement.
+La remise des casques de bain se fera directement au Pavillon Gentilhommière le matin même, à proximité de la zone de départ. Des bénévoles seront présents pour vous remettre votre casque de bain et votre numéro de marquage.
+
+> Une pièce d’identité avec photo sera demandée afin de confirmer votre identité et de vous remettre le matériel nécessaire pour participer à l'événement.
 
 ### Marquage
 
@@ -65,7 +67,7 @@ Avant le départ, vous devez obligatoirement vous présenter à la zone de marqu
 
 ### Ravitaillement
 
-Des boîtes seront laissées proche de la tente de marquage pour déposer vos effets qui seront ensuite transférés sur la plateforme de ravitaillement (voir sur le plan du parcours). Le ravitaillement est admissible seulement pour les distances 5 km et 10 km.
+Des boîtes seront laissées proche de la tente de marquage pour déposer vos effets qui seront ensuite transférés sur la plateforme de ravitaillement (voir sur le plan du parcours). Le ravitaillement est disponible seulement pour les distances 5 km et 10 km.
 
 ### Transfert / Changement d’épreuve
 
@@ -75,7 +77,7 @@ Veuillez vous référer à notre politique d'inscription.
 
 ### Certifications et sanctions
 
-Le Défi d’eau libre du Lac Simon est sanctionné par la Fédération de natation du Québec (FNQ) et fait partie du Circuit québécois d’eau libre.
+Le Défi d’eau libre du Lac Simon est sanctionné par la Fédération de natation du Québec (FNQ) et fait partie du circuit en eau libre.
 
 Pour plus d’informations : <https://fnq.ca/series/circuit-en-eau-libre/>
 
@@ -84,11 +86,11 @@ Pour plus d’informations : <https://fnq.ca/series/circuit-en-eau-libre/>
 
 ### Plan du site
 
-(Plan du site — à insérer)
+TODO : (Plan du site — à insérer)
 
 ### Horaire
 
-MÊME HORAIRE QUE L’AN DERNIER (confirmer et remplacer si nécessaire)
+TODO : MÊME HORAIRE QUE L’AN DERNIER (confirmer et remplacer si nécessaire)
 
 ### Vagues
 
@@ -98,7 +100,9 @@ Les départs se feront dans l’eau pour l’ensemble des distances. Les nageurs
 
 ### Vestiaires
 
-Vous pourrez laisser vos effets personnels à proximité de la tente de marquage. Identifiez clairement votre sac.
+Vous pourrez laisser vos effets personnels à proximité de la tente de marquage.
+
+Veuillez identifier clairement votre sac avec votre numéro ou nom.
 
 > ⚠️ Les Classiques Capitale ne sont pas responsables des objets perdus, volés ou endommagés. Tout article non récupéré dans les 48 heures sera remis à un organisme de bienfaisance.
 
@@ -106,9 +110,7 @@ Vous pourrez laisser vos effets personnels à proximité de la tente de marquage
 
 ### Parcours
 
-Parcours similaire à l’an dernier (à valider).
-
-Les distances proposées : 1 km, 2 km, 5 km et 10 km.
+TODO : Parcours similaire à l’an dernier (à valider).
 
 | Épreuve                     | Nombre de tours       |
 | --------------------------- | --------------------- |
@@ -118,9 +120,9 @@ Les distances proposées : 1 km, 2 km, 5 km et 10 km.
 | 2 km (2 tours de 1 km)      | 2 tours de 1 km       |
 | 1 km (1 tour de 1 km)       | 1 tour de 1 km        |
 
-Aucune embarcation externe accompagnant ou suivant un nageur ne sera tolérée sur le parcours pour des raisons de sécurité.
+Aucune embarcation externe accompagnant ou suivant un nageur ne sera acceptée sur le parcours.
 
-### Ravitos — Plateforme
+### Plateforme ravito
 
 Une plateforme de ravitaillement sera installée à la fin de la grande boucle pour les nageurs du 5 km et du 10 km (disponible tous les 2.5 km). Les entraîneurs ne seront pas permis sur la plateforme.
 
@@ -203,6 +205,16 @@ Des **photographes seront sur place** pour capturer vos plus beaux sourires !
 
 ## Partenaires
 
+### Partenaire présentateur
+
+{{< sized-image src="/assets/logo_ss_complet_noir-2.0-1-.png" alt="Shop Santé" width="100%" >}}
+
+### Partenaires officiels
+
+{{< sized-image src="/assets/partenairesofficielsadlc2026.png" alt="Maple3, Formagerie Victoria, Le Subtil" width="100%" >}}
+
+### Partenaires majeurs/publics et fournisseurs
+TODO: 
 {{< sized-image src="/assets/partenairesfournisseurstd2026.svg" alt="Partenaires" >}}
 
 ## Vous aimeriez plus de détails?
