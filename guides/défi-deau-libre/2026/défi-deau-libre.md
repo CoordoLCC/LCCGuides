@@ -98,7 +98,7 @@ Pour plus d’informations : <https://fnq.ca/series/circuit-en-eau-libre/>
 | 9h          | **Départ 5 km**                                                                                                                 | Départ dans l’eau |
 | ~12h30      | Remise des médailles                                                                                                            | Zone podium       |
 
-**DISTANCE 1-2 km**
+**DISTANCES 1-2 km**
 
 *Pas de période d’échauffement dans l’eau possible*
 
@@ -110,7 +110,7 @@ Pour plus d’informations : <https://fnq.ca/series/circuit-en-eau-libre/>
 | 10h45    | **Départ 2 km**                                                          | Départ dans l'eau |
 | ~12h30   | Remise des médailles                                                     | Zone podium       |
 
-**DISTANCE 50-100-200-500 m & relais 4x500 m**
+**DISTANCES 50-100-200-500 m & relais 4x500 m**
 
 *Pas de période d’échauffement dans l’eau possible*
 
@@ -125,11 +125,6 @@ Pour plus d’informations : <https://fnq.ca/series/circuit-en-eau-libre/>
 | ~12h30    | Remise des médailles                                                                              | Zone podium       |
 
 ### Vagues
-
-Les départs se feront dans l’eau pour l’ensemble des distances. Les nageurs seront alignés et un départ de masse par distance sera donné par un signal sonore.
-
-> Les nageurs inscrits au circuit FNQ pourront être combinés pour un seul départ — voir la section horaire.
-
 
 Les départs se feront dans l’eau pour l’ensemble des distances. Les nageurs seront alignés et un départ de masse par distance sera donné par un signal sonore.
 
