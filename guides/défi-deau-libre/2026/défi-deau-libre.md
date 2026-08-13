@@ -86,7 +86,7 @@ Pour plus d’informations : <https://fnq.ca/series/circuit-en-eau-libre/>
 
 ### Horaire
 
-#### DISTANCES 5-10 km
+**DISTANCES 5-10 km**
 
 | HEURE       | DESCRIPTION                                                                                                                        | LIEU              |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
@@ -98,9 +98,9 @@ Pour plus d’informations : <https://fnq.ca/series/circuit-en-eau-libre/>
 | 9h          | **Départ 5 km**                                                                                                                    | Départ dans l’eau |
 | ~12h30      | Remise des médailles                                                                                                               | Zone podium       |
 
-#### DISTANCE 1-2 km
+**DISTANCE 1-2 km**
 
-***Pas de période d’échauffement dans l’eau possible***
+*Pas de période d’échauffement dans l’eau possible*
 
 | HEURE    | DESCRIPTION                                                                | LIEU              |
 | -------- | -------------------------------------------------------------------------- | ----------------- |
@@ -110,9 +110,9 @@ Pour plus d’informations : <https://fnq.ca/series/circuit-en-eau-libre/>
 | 10h45    | **Départ 2 km**                                                            | Départ dans l'eau |
 | ~12h30   | Remise des médailles                                                       | Zone podium       |
 
-#### DISTANCE 50-100-200-500 m & relais 4x500 m
+**DISTANCE 50-100-200-500 m & relais 4x500 m**
 
-***Pas de période d’échauffement dans l’eau possible***
+*Pas de période d’échauffement dans l’eau possible*
 
 | HEURE     | DESCRIPTION                                                                                           | LIEU              |
 | --------- | ----------------------------------------------------------------------------------------------------- | ----------------- |
