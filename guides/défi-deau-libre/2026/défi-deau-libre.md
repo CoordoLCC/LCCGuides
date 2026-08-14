@@ -94,8 +94,8 @@ Pour plus d’informations : <https://fnq.ca/series/circuit-en-eau-libre/>
 | 7h30 à 8h10 | Période d’échauffement des nageurs 5-10km (facultatif)                                                                          | Plage             |
 | 8h15        | Réunion pré course circuit FNQ ET 5-10km                                                                                        | Plage             |
 | 8h30        | **Départ CIRCUIT FNQ (5 km et 10 km)**                                                                                          | Départ dans l’eau |
-| 8h45        | **Départ 10 km**                                                                                                                | Départ dans l’eau |
-| 9h          | **Départ 5 km**                                                                                                                 | Départ dans l’eau |
+| 8h45        | **Départ 10 km Régulier**                                                                                                                | Départ dans l’eau |
+| 9h          | **Départ 5 km Régulier**                                                                                                                 | Départ dans l’eau |
 | ~12h30      | Remise des médailles                                                                                                            | Zone podium       |
 
 **DISTANCES 1-2 km**
@@ -167,7 +167,7 @@ Une plateforme de ravitaillement sera installée à la fin de la grande boucle p
 | Épreuve                     | Temps maximum alloué |
 | --------------------------- | -------------------- |
 | Circuit FNQ (5 km et 10 km) | N.A.                 |
-| 10 km (4 tours de 2.5 km)   | 5 h 30               |
+| 10 km (4 tours de 2.5 km)   | 4 h 30               |
 | 5 km (2 tours de 2.5 km)    | 2 h 30               |
 | 2 km (2 tours de 1 km)      | 1 h 30               |
 | 1 km (1 tour de 1 km)       | 1 h                  |
