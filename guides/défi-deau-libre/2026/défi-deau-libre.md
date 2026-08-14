@@ -138,7 +138,7 @@ Veuillez identifier clairement votre sac avec votre numéro ou nom.
 
 > ⚠️ Les Classiques Capitale ne sont pas responsables des objets perdus, volés ou endommagés. Tout article non récupéré dans les 48 heures sera remis à un organisme de bienfaisance.
 
-# Durant la course
+## Durant la course
 
 ### Parcours
 
