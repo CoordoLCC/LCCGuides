@@ -33,7 +33,6 @@ L'événement se passe au [Centre Vacances du Lac Simon](https://maps.app.goo.gl
 **Adresse :** 60 Chem. du Lac Simon, Saint-Léonard-de-Portneuf, QC G0A 4A0
 
 **Directions (depuis Québec) :**
-
 1. Prendre l’autoroute 40 Ouest en direction de Montréal.
 2. Prendre la sortie en direction de Saint-Raymond / route 365.
 3. Suivre la route 365 Nord en direction de Saint-Raymond.
@@ -61,10 +60,10 @@ Pour connaître les règlements applicables : <https://www.swimming.ca/wp-conten
 
 Avant le départ, vous devez obligatoirement vous présenter à la zone de marquage pour :
 
-* Vous marquer avec votre numéro selon le modèle fourni ;
-* Faire vérifier la longueur de vos ongles ;
-* Enlever tous vos bijoux ;
-* Faire approuver votre  maillot ou votre combinaison isothermique (épreuves compétitives).
+- Vous marquer avec votre numéro selon le modèle fourni ;
+- Faire vérifier la longueur de vos ongles ;
+- Enlever tous vos bijoux ;
+- Faire approuver votre  maillot ou votre combinaison isothermique (épreuves compétitives).
 
 ### Ravitaillement
 
@@ -81,6 +80,7 @@ Veuillez vous référer à notre politique d'inscription.
 Le Défi d’eau libre du Lac Simon est sanctionné par la Fédération de natation du Québec (FNQ) et fait partie du circuit en eau libre.
 
 Pour plus d’informations : <https://fnq.ca/series/circuit-en-eau-libre/>
+
 
 ## Départ
 
@@ -172,6 +172,7 @@ Une plateforme de ravitaillement sera installée à la fin de la grande boucle p
 | 2 km (2 tours de 1 km)      | 1 h 30               |
 | 1 km (1 tour de 1 km)       | 1 h                  |
 
+
 ### Services médicaux
 
 Les services médicaux seront assurés par Dessercom. Plusieurs sauveteurs seront présents sur l’eau et sur la rive.
@@ -186,28 +187,26 @@ L’organisation applique une politique de zéro tolérance concernant les déch
 
 ### Informations supplémentaires
 
-* Si vous désirez quitter la course avant la fin de votre épreuve, veuillez vous rapporter immédiatement à un sauveteur.
-* N'oubliez pas d'apporter des vêtements chauds et une couverture pour vous réchauffer après votre épreuve.
+- Si vous désirez quitter la course avant la fin de votre épreuve, veuillez vous rapporter immédiatement à un sauveteur.
+- N'oubliez pas d'apporter des vêtements chauds et une couverture pour vous réchauffer après votre épreuve.
 
 ### Règlements
 
 Les règlements de Natation Canada et ceux de la FNQ s’appliquent, incluant le règlement de sécurité de la natation en eau libre.
 
 Utilisation des combinaisons isothermiques :
-
-* Obligatoire si la température de l’eau est inférieure à 18.0°C.
-* Peut être déclarée obligatoire jusqu’à 20.0°C par le juge-arbitre en chef sur recommandation du responsable de la sécurité et du responsable médical.
-* Les combinaisons doivent couvrir torse, dos et cuisses, et respecter les caractéristiques d’épaisseur (min 3mm, max 5mm) selon la réglementation.
-* La décision finale sur l’utilisation des combinaisons isothermiques sera prise par le juge-arbitre en chef, en consultation avec le responsable de la sécurité et le responsable médical, et sera communiquée aux participants avant le départ.
+- Obligatoire si la température de l’eau est inférieure à 18.0°C.
+- Peut être déclarée obligatoire jusqu’à 20.0°C par le juge-arbitre en chef sur recommandation du responsable de la sécurité et du responsable médical.
+- Les combinaisons doivent couvrir torse, dos et cuisses, et respecter les caractéristiques d’épaisseur (min 3mm, max 5mm) selon la réglementation.
+- La décision finale sur l’utilisation des combinaisons isothermiques sera prise par le juge-arbitre en chef, en consultation avec le responsable de la sécurité et le responsable médical, et sera communiquée aux participants avant le départ.
 
 Admissibilité :
+- Âge minimum : 11 ans (pour 1.5 km et moins), 12–13 ans (pour 1.5 km à 3 km), 14 ans pour 3 km et plus.
+- Athlètes hors Québec : inscription compétitive auprès de leur fédération nationale nécessaire.
+- Les paranageurs sont invités à participer! (maximum de 5 km, délai maximum de 2 h) — veuillez informer l’organisation à l’avance.
+- Les athlètes non affiliés devront prendre une affiliation d’un jour lors de l’inscription.
 
-* Âge minimum : 11 ans (pour 1.5 km et moins), 12–13 ans (pour 1.5 km à 3 km), 14 ans pour 3 km et plus.
-* Athlètes hors Québec : inscription compétitive auprès de leur fédération nationale nécessaire.
-* Les paranageurs sont invités à participer! (maximum de 5 km, délai maximum de 2 h) — veuillez informer l’organisation à l’avance.
-* Les athlètes non affiliés devront prendre une affiliation d’un jour lors de l’inscription.
-
-# Après la course
+## Après la course
 
 ### Collation après la course
 
@@ -216,9 +215,8 @@ Admissibilité :
 ### Résultats
 
 Tous les résultats seront disponibles en temps réel :
-
-* Sur l'application mobile Paceasy
-* Sur le site web de Sport Chrono : https://resultats.sportchrono.com
+- Sur l'application mobile Paceasy
+- Sur le site web de Sport Chrono : https://resultats.sportchrono.com
 
 ### Médailles et podium
 
@@ -229,8 +227,7 @@ Une médaille de participation vous sera remise à la fin de votre épreuve.
 #### Podium
 
 Les podiums seront appelés au micro quelques minutes après chaque épreuve. Récompenses :
-
-* Les trois premiers hommes et femmes de chaque épreuve recevront une médaille et un prix de notre partenaire présentateur Shop Santé.
+- Les trois premiers hommes et femmes de chaque épreuve recevront une médaille et un prix de notre partenaire présentateur Shop Santé.
 
 ### Photos
 
