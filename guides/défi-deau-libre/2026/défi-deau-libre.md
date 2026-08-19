@@ -4,7 +4,7 @@ year: "2026"
 logo: /assets/del_logo.svg
 status: published
 ---
-# Guide du coureur : Défi d'eau libre — Lac Simon 2026
+# Guide du nageur : Défi d'eau libre — Lac Simon 2026
 
 ## Avant la course
 
