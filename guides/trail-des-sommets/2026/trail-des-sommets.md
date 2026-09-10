@@ -57,8 +57,6 @@ La procédure pour effectuer un transfert ou un changement d’épreuve peut êt
 
 Le Trail des Sommets est sanctionnée TRAIL par Athlétisme Québec.
 
-TODO - Logo
-
 {{< sized-image src="/assets/trail-fqa.png" alt="Sanction Argent Athlétisme Québec" width="30%" >}}
 
 ## Départ
