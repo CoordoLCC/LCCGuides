@@ -39,8 +39,8 @@ Pour éviter l'attente le jour de l'événement et prendre le départ l'esprit t
 
 **Important :**
 
-- Ayez en votre possession une **pièce d'identité physique avec photo** - elle vous sera demandée à votre arrivée.
-- Ramassage pour un proche : Vous pouvez récupérer le dossard d’un autre participant, à condition de présenter :
+* Ayez en votre possession une **pièce d'identité physique avec photo** - elle vous sera demandée à votre arrivée.
+* Ramassage pour un proche : Vous pouvez récupérer le dossard d’un autre participant, à condition de présenter :
 
 1. Une copie (photo sur téléphone acceptée) de sa pièce d'identité avec photo.
 2. Sa confirmation d'inscription officielle.
@@ -59,7 +59,7 @@ Le Trail des Sommets est sanctionnée TRAIL par Athlétisme Québec.
 
 TODO - Logo
 
-{{< sized-image src="/assets/aq_sanction-argent.png" alt="Sanction Argent Athlétisme Québec" width="30%" >}}
+{{< sized-image src="/assets/trail-fqa.png" alt="Sanction Argent Athlétisme Québec" width="30%" >}}
 
 ## Départ
 
@@ -90,7 +90,7 @@ La terrasse du chalet principal sera toutefois accessible aux participants et ac
 | Activité                                                                | Heure          |
 | ----------------------------------------------------------------------- | -------------- |
 | Remise des dossards                                                     | À partir de 7h |
-| **Départ** Viking 6h _(aucun nouveau départ de boucle à partir de 15h)_ | **9h**         |
+| **Départ** Viking 6h *(aucun nouveau départ de boucle à partir de 15h)* | **9h**         |
 | **Départ** 30 km                                                        | **9h30**       |
 | **Départ** 20 km                                                        | **10h00**      |
 | **Départ** 10 km                                                        | **10h30**      |
@@ -99,7 +99,7 @@ La terrasse du chalet principal sera toutefois accessible aux participants et ac
 
 > Nous vous demanderons de vous rendre à la ligne de départ 10 minutes avant votre départ.
 
-#### Vagues (_Corrals_)
+#### Vagues (*Corrals*)
 
 Les départs se feront en une seule vague pour toutes les épreuves.
 
@@ -122,15 +122,15 @@ Voici les parcours détaillés pour chaque épreuve.
 
 #### Pour toutes les distances
 
-- Un contenant réutilisable pour l’hydratation (gourde, bouteille, verre souple ou veste d’hydratation);
-- Votre dossard, porté de façon visible pendant toute l’épreuve.
-- Des chaussures adaptées aux sentiers;
-- Des vêtements adaptés aux conditions météorologiques;
+* Un contenant réutilisable pour l’hydratation (gourde, bouteille, verre souple ou veste d’hydratation);
+* Votre dossard, porté de façon visible pendant toute l’épreuve.
+* Des chaussures adaptées aux sentiers;
+* Des vêtements adaptés aux conditions météorologiques;
 
 #### Pour le 20, 30km et le Viking 6h
 
-- Un cellulaire chargé;
-- Une réserve personnelle de nourriture ou de glucides.
+* Un cellulaire chargé;
+* Une réserve personnelle de nourriture ou de glucides.
 
 ### Ravitaillements
 
@@ -178,9 +178,9 @@ Pour que cette démarche écoresponsable soit un succès, **chaque participant d
 Comment ça fonctionne? Vous devez obligatoirement courir avec votre propre contenant réutilisable. Durant la course, des bénévoles seront présents aux stations de remplissage pour le remplir.
 **Ce contenant peut être :**
 
-- une gourde, une bouteille ou une veste d'hydratation;
-- un verre réutilisable souple (_speed cup_), facile à plier et à ranger dans une poche ou une ceinture;
-- Si vous n'avez pas de verre souple, des modèles durables à l'effigie de Les Classiques Capitale seront disponibles à l'achat directement sur place. Ils sont aussi disponibles en option lors de votre inscription.
+* une gourde, une bouteille ou une veste d'hydratation;
+* un verre réutilisable souple (*speed cup*), facile à plier et à ranger dans une poche ou une ceinture;
+* Si vous n'avez pas de verre souple, des modèles durables à l'effigie de Les Classiques Capitale seront disponibles à l'achat directement sur place. Ils sont aussi disponibles en option lors de votre inscription.
 
 Merci de faire équipe avec nous pour des courses plus vertes et plus propres!
 
@@ -198,9 +198,9 @@ Merci de nous aider à garder les lieux propres et à minimiser notre empreinte 
 
 Afin d’assurer le bon déroulement et la sécurité de l’événement, un temps limite est établi pour chacune des épreuves :
 
-- 10 km : 2h30
-- 20 km : 4h30
-- 30 km : 6h30
+* 10 km : 2h30
+* 20 km : 4h30
+* 30 km : 6h30
 
 Nous vous demandons d'être en mesure de compléter votre épreuve à l’intérieur du temps prévu.
 
@@ -222,9 +222,9 @@ Soyons tous responsables les uns des autres afin de faire du Trail des Sommets u
 
 **Concept :** Inspiré du format "Backyard", l'objectif est de faire le **plus de boucles d'environ 500 m possible en 20 minutes.**
 
-- Animé par l'équipe du **Grand Club de Course**
-- Course ou marche, en solo ou en famille
-- L'important est de bouger dans le plaisir!
+* Animé par l'équipe du **Grand Club de Course**
+* Course ou marche, en solo ou en famille
+* L'important est de bouger dans le plaisir!
 
 ## Après la course
 
@@ -240,15 +240,15 @@ D’autres surprises vous attendent également!
 
 Le Trail des Sommets, c’est bien plus qu’une course! Une programmation animée vous attend sur le site de la station de Stoneham, pour les participants comme pour les accompagnateurs.
 
-Les familles pourront profiter de plusieurs activités extérieures, dont le parcours d’obstacles de Gars d’en dehors, inspiré des courses de type Spartan et spécialement adapté aux enfants, ainsi que du mur d’escalade [**PopBloc**](https://www.popbloc.ca/).
+Les familles pourront profiter de plusieurs activités extérieures, dont le parcours d’obstacles de Gars d’en dehors, inspiré des courses de type Spartan et spécialement adapté aux enfants, ainsi que du mur d’escalade **[PopBloc](https://www.popbloc.ca/)**.
 
 Plusieurs exposants et partenaires seront également sur place :
 
-- Grand Club de Course : venez rencontrer l’équipe et découvrir leur communauté de course.
-- Bloovs : découvrez leurs lunettes et leur univers axé sur le plein air.
-- Valsfärd : découvrez l’expérience du sauna nordique.
-- Shop Santé : profitez de conseils et découvrez leurs produits pour l’entraînement et la récupération.
-- Les Quatre-Foyers : profitez d’un BBQ offert gracieusement ainsi que d’un menu spécialement adapté à l’événement.
+* Grand Club de Course : venez rencontrer l’équipe et découvrir leur communauté de course.
+* Bloovs : découvrez leurs lunettes et leur univers axé sur le plein air.
+* Valsfärd : découvrez l’expérience du sauna nordique.
+* Shop Santé : profitez de conseils et découvrez leurs produits pour l’entraînement et la récupération.
+* Les Quatre-Foyers : profitez d’un BBQ offert gracieusement ainsi que d’un menu spécialement adapté à l’événement.
 
 Pour compléter l’ambiance, **[DJ Clouts](https://www.instagram.com/djclouts/)** sera sur place tout au long de la journée.
 
@@ -260,8 +260,8 @@ Après votre course, profitez du bar, de la musique, des activités et de l’am
 
 Tous les résultats seront disponibles **en temps réel** :
 
-- sur l'application mobile Paceasy
-- sur le site web de Sport Chrono : [https://resultats.sportchrono.com](https://resultats.sportchrono.com/evenements)
+* sur l'application mobile Paceasy
+* sur le site web de Sport Chrono : [https://resultats.sportchrono.com](https://resultats.sportchrono.com/evenements)
 
 ### Médailles et podium
 
@@ -275,8 +275,8 @@ Les podiums seront appelés au micro par l'animateur quelques minutes après cha
 
 **Récompenses :** Les trois premiers hommes et femmes des distances 2.5km, 10km, 20km et 30km recevront :
 
-- une médaille selon leur position;
-- un prix de notre partenaire présentateur Shop Santé.
+* une médaille selon leur position;
+* un prix de notre partenaire présentateur Shop Santé.
 
 ### Photos
 
@@ -292,7 +292,7 @@ Code promotionnel : **SOMMETS2026**
 
 Profitez-en pour prolonger votre séjour à Stoneham et profiter pleinement de la région avant ou après votre course!
 
-_Promotion selon les disponibilités et les conditions applicables._
+*Promotion selon les disponibilités et les conditions applicables.*
 
 ## Partenaires
 
