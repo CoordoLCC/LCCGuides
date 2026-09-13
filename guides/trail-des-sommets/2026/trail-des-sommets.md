@@ -304,9 +304,7 @@ Profitez-en pour prolonger votre séjour à Stoneham et profiter pleinement de l
 
 ### Partenaires majeurs, publics et fournisseurs
 
-TODO
-
-{{< sized-image src="/assets/partenairesfournisseurscle2026.png" alt="Partenaires publiques CLC26" width="100%" >}}
+{{< sized-image src="/assets/partenairesfournisseurstds2026.png" alt="Partenaires publiques/fournisseurs TDS26" width="100%" >}}
 
 ## Vous aimeriez plus de détails?
 
