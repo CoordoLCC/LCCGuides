@@ -87,7 +87,7 @@ La terrasse du chalet principal sera toutefois accessible aux participants et ac
 
 | Activité                                                                | Heure          |
 | ----------------------------------------------------------------------- | -------------- |
-| Remise des dossards                                                     | 16h à 19h (**Au Shop Santé Lebourgneuf**) |
+| Remise des dossards (**Au Shop Santé Lebourgneuf**)                                                     | 16h à 19h |
 
 **Date :** Samedi 19 septembre 2026
 
