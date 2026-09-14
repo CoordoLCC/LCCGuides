@@ -35,7 +35,7 @@ Pour éviter l'attente le jour de l'événement et prendre le départ l'esprit t
 | Vendredi <br/>18 septembre | 16h à 19h      | Shop Santé Lebourgneuf       | Toutes   | [5580, Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9)     |
 | Samedi <br/>19 septembre   | À partir de 7h | Station Touristique Stoneham | Toutes   | [600 Chem. du Hibou, Stoneham-et-Tewkesbury, QC G3C 1T3](https://maps.app.goo.gl/fKK1UszDqv7kdNdP8) |
 
-> **Exclusivité Shop Santé** : Un panier-cadeau d'une valeur de plus de 250 $ sera tiré au sort parmi tous les participants qui viendront récupérer leur dossard à la boutique le samedi.
+> **Exclusivité Shop Santé** : Un panier-cadeau d'une valeur de plus de 250 $ sera tiré au sort parmi tous les participants qui viendront récupérer leur dossard à la boutique le vendredi.
 
 **Important :**
 
@@ -82,6 +82,12 @@ Veuillez noter qu’aucune douche ni aucun accès aux espaces intérieurs du cha
 La terrasse du chalet principal sera toutefois accessible aux participants et accompagnateurs afin de profiter d’un espace de détente après la course.
 
 ### Horaire
+
+**Date :** Vendredi 18 septembre 2026
+
+| Activité                                                                | Heure          |
+| ----------------------------------------------------------------------- | -------------- |
+| Remise des dossards                                                     | 16h à 19h (**Au Shop Santé Lebourgneuf**) |
 
 **Date :** Samedi 19 septembre 2026
 
