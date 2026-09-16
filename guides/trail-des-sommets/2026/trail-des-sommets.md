@@ -81,13 +81,17 @@ Un vestiaire sera disponible sur place, à proximité de la remise des dossards,
 Veuillez noter qu’aucune douche ni aucun accès aux espaces intérieurs du chalet ne seront disponibles.
 La terrasse du chalet principal sera toutefois accessible aux participants et accompagnateurs afin de profiter d’un espace de détente après la course.
 
+### Plan du site
+
+{{< sized-image src="/assets/plandusitetds2026.png" alt="Plan du site TDS 2026" width="100%" >}}
+
 ### Horaire
 
 **Date :** Vendredi 18 septembre 2026
 
-| Activité                                                                | Heure          |
-| ----------------------------------------------------------------------- | -------------- |
-| Remise des dossards (**Au Shop Santé Lebourgneuf**)                                                     | 16h à 19h |
+| Activité                                            | Heure     |
+| --------------------------------------------------- | --------- |
+| Remise des dossards (**Au Shop Santé Lebourgneuf**) | 16h à 19h |
 
 **Date :** Samedi 19 septembre 2026
 
