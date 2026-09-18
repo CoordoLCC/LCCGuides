@@ -151,7 +151,7 @@ Voici les ravitaillements pour les autres distances :
 | Kilométrage | Ravitaillement      |
 | ----------- | ------------------- |
 | 2,5 km      | Eau et électrolytes |
-| 6 km        | Eau et électrolytes |
+| 6 km        | Eau, électrolytes, patates, pretzels, jujubes, Coke, bananes, biscuits Maxifruit |
 
 > Pour le **Viking 6h**, une table sera aussi disponible à la base de la montagne (départ/arrivée) pour vos effets personnels et votre matériel de ravitaillement.
 
@@ -159,19 +159,19 @@ Voici les ravitaillements pour les autres distances :
 
 | Kilométrage | Ravitaillement      |
 | ----------- | ------------------- |
-| 4 km        | Eau et électrolytes |
+| 4 km        | Eau, électrolytes, patates, pretzels, jujubes, Coke, bananes, melons, biscuits Maxifruit |
 | 9 km        | Eau et électrolytes |
-| 13 km       | Eau et électrolytes |
+| 13 km       | Eau, électrolytes, patates, pretzels, jujubes, Coke, bananes, biscuits Maxifruit |
 
 **30 km :**
 
 | Kilométrage | Ravitaillement      |
 | ----------- | ------------------- |
-| 4 km        | Eau et électrolytes |
+| 4 km        | Eau, électrolytes, patates, pretzels, jujubes, Coke, bananes, melons, biscuits Maxifruit|
 | 9 km        | Eau et électrolytes |
-| 17 km       | Eau et électrolytes |
+| 17 km       | Eau, électrolytes, patates, pretzels, jujubes, Coke, bananes, melons, biscuits Maxifruit |
 | 22 km       | Eau et électrolytes |
-| 27 km       | Eau et électrolytes |
+| 27 km       | Eau, électrolytes, patates, pretzels, jujubes, Coke, bananes, biscuits Maxifruit |
 
 > Nous vous recommandons de profiter des différents points de ravitaillement pour vous hydrater régulièrement tout au long de votre épreuve.
 
