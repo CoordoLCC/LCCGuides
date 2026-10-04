@@ -109,7 +109,7 @@ Cette reconnaissance s’inscrit dans notre volonté d’offrir aux participants
 
 Cette sanction témoigne de notre engagement à offrir une expérience de course de qualité, tant pour les coureurs récréatifs que pour ceux qui souhaitent atteindre des objectifs de performance ou de qualification.
 
-{{< sized-image src="/assets/or-transparent-1.png" alt="Sanction OR" width="30" >}}
+{{< sized-image src="/assets/or-transparent-1.png" alt="Sanction OR" width="30%" >}}
 
 ## Départ
 
@@ -117,10 +117,10 @@ Cette sanction témoigne de notre engagement à offrir une expérience de course
 
 #### Samedi (10 km, 5 km, 2.5 km, 20 minutes classiques)
 
-| Épreuve | Lieu | Adresse |
-|---------|------|---------|
-| 10 km et 5 km | RDDC - Centre de recherche de Valcartier | [2459 Rte de la Bravoure, Québec, QC G3J 1X5](https://maps.app.goo.gl/CCd3HB5e8Dt8VSQcA) |
-| 2.5km et 20 minutes classiques | Site d'arrivée (Centre des sports PSP) | [Base Valcartier, Édifice 516, C.P. 1000, Succ. Forces, Courcelette, QC G1J 3H6](https://maps.app.goo.gl/GNEgR2aU3HAzHkwD7)
+| Épreuve                        | Lieu                                     | Adresse                                                                                                                     |
+| ------------------------------ | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 10 km et 5 km                  | RDDC - Centre de recherche de Valcartier | [2459 Rte de la Bravoure, Québec, QC G3J 1X5](https://maps.app.goo.gl/CCd3HB5e8Dt8VSQcA)                                    |
+| 2.5km et 20 minutes classiques | Site d'arrivée (Centre des sports PSP)   | [Base Valcartier, Édifice 516, C.P. 1000, Succ. Forces, Courcelette, QC G1J 3H6](https://maps.app.goo.gl/GNEgR2aU3HAzHkwD7) |
 
 #### Dimanche (21.1 km et 42.2 km)
 
