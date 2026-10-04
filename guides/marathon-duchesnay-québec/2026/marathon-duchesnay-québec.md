@@ -32,6 +32,8 @@ Les Classiques Capitale s'engage à promouvoir la course à pied dans une atmosp
 
 ### Remise des dossards
 
+> ⚠️ Aucune remise le dimanche matin pour le 21.1 et 42.2 km!
+
 | Dates                    | Heures    | Lieu                   | Épreuves           | Adresse                                                                                         |
 | ------------------------ | --------- | ---------------------- | ------------------ | ----------------------------------------------------------------------------------------------- |
 | Vendredi <br/>23 octobre | 12h à 21h | Shop Santé Lebourgneuf | Toutes             | [5580, Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9) |
@@ -41,7 +43,7 @@ L'horaire est sujet à confirmation.
 
 > **Exclusivité Shop Santé** : Un panier-cadeau d'une valeur de plus de 250 $ sera tiré au sort parmi tous les participants qui viendront récupérer leur dossard à la boutique le vendredi.
 
-**Important :**
+Important :
 
 * Ayez en votre possession une **pièce d'identité physique avec photo** - elle vous sera demandée à votre arrivée.
 * Ramassage pour un proche : Vous pouvez récupérer le dossard d’un autre participant, à condition de présenter :
@@ -60,15 +62,7 @@ La récupération des dossards le jour de la course est offerte uniquement le sa
 * 2,5 km
 * 20 min Classiques
 
-> Aucune récupération de dossard ne sera possible le dimanche 25 octobre pour les participants du demi-marathon et du marathon. Les participants au demi-marathon et au marathon doivent donc récupérer leur dossard à l’avance, selon l’horaire prévu au Shop Santé.
-
-#### Shake-out Run
-
-Lors de la remise des dossards au Shop Santé pour le demi-marathon et marathon, le **samedi 24 octobre en après-midi**, participez au Shake-out Run, une courte sortie de course pour se mettre en jambes avant la course!
-
-Cette activité est organisée en partenariat avec Shop Santé et Le Subtil. Plusieurs cadeaux et surprises de nos partenaires seront également offerts sur place.
-
-L’équipe de Tout-Court sera aussi présente pour animer un podcast avec différents invités. Plus de détails suivront prochainement!
+> ⚠️ Aucune récupération de dossard ne sera possible le dimanche 25 octobre pour les participants du demi-marathon et du marathon. Les participants au demi-marathon et au marathon doivent donc récupérer leur dossard à l’avance, selon l’horaire prévu au Shop Santé.
 
 #### Je cours, je donne
 
@@ -91,6 +85,14 @@ En participant à « Je cours, je donne », vous contribuez à une cause importa
 
 Merci de courir avec nous… et de donner avec nous!
 
+### Shake-out Run
+
+Lors de la remise des dossards au Shop Santé pour le demi-marathon et marathon, le **samedi 24 octobre en après-midi**, participez au Shake-out Run, une courte sortie de course pour se mettre en jambes avant la course!
+
+Cette activité est organisée en partenariat avec Shop Santé et Le Subtil. Plusieurs cadeaux et surprises de nos partenaires seront également offerts sur place.
+
+L’équipe de Tout-Court sera aussi présente pour animer un podcast avec différents invités. Plus de détails suivront prochainement!
+
 ### Transfert de dossard, changement d'épreuve
 
 Le transfert de dossard ou le changement d’épreuve doit se faire directement sur votre compte client Sport Chrono. Des frais s’appliquent selon la politique d’inscription en vigueur.
@@ -104,7 +106,7 @@ Les épreuves du marathon (42,2 km) et du demi-marathon (21,1 km) sont égalemen
 Cette reconnaissance s’inscrit dans notre volonté d’offrir aux participants des parcours précis, rapides et répondant à des standards élevés. Les deux distances sont notamment qualificatives pour le Marathon de Boston.
 Cette sanction témoigne de notre engagement à offrir une expérience de course de qualité, tant pour les coureurs récréatifs que pour ceux qui souhaitent atteindre des objectifs de performance ou de qualification.
 
-{{< sized-image src="/assets/or-transparent-1.png" alt="Sanction OR" >}}
+{{< sized-image src="/assets/or-transparent-1.png" alt="Sanction OR" width="30" >}}
 
 ## Départ
 
