@@ -153,11 +153,11 @@ Un service de navettes sera offert afin de faciliter les déplacements entre les
 
 Aucune réservation n’est nécessaire. Présentez-vous simplement à la zone d’embarquement avec votre **dossard**. Les navettes partiront dès qu’elles seront pleines afin d’assurer une rotation efficace.
 
-### Samedi – Retour après les épreuves
+#### Samedi – Retour après les épreuves
 
 Le samedi, les navettes seront disponibles uniquement après votre épreuve afin de vous reconduire de la zone d’arrivée vers le stationnement du Centre de recherche.
 
-### Dimanche – Vers le départ du Marathon et demi-marathon
+#### Dimanche – Vers le départ du Marathon et demi-marathon
 
 Le dimanche, vous pourrez utiliser les navettes pour vous rendre à la zone de départ (la station Duchesnay)
 
@@ -166,6 +166,20 @@ PLus de détails à venir. (horaire et plans)
 À votre arrivée à la Station Duchesnay, vous aurez accès à une salle intérieure ainsi qu’à des toilettes afin de vous réchauffer et de vous préparer avant votre départ.
 
 Nous vous demandons de ne pas demeurer dans l’autobus après votre arrivée, afin de permettre aux autres participants de prendre place et d’assurer une bonne rotation des navettes.
+
+### Vestiaire
+
+Un service de vestiaire sera offert au site de départ du marathon, du demi-marathon, du 10 km et du 5 km.
+
+Des camions identifiés seront stationnés au départ afin de recueillir les sacs des participants. Des bénévoles seront présents pour vous accueillir, récupérer votre sac et assurer son transport jusqu’à la zone d’arrivée.
+
+Un sac fermé de façon sécuritaire est obligatoire pour utiliser le service de vestiaire. Aucun sac n’est fourni par l’organisation; vous devez apporter le vôtre.
+
+L’onglet détachable au bas de votre dossard servira d’étiquette d’identification pour votre sac. Assurez-vous de bien le fixer avant de remettre votre sac aux bénévoles.
+
+Votre sac sera ensuite transporté vers la zone d’arrivée, où vous pourrez le récupérer après votre course.
+
+> ⚠️ Les Classiques Capitale ne sont pas responsables des objets perdus, volés ou endommagés. Tout article non récupéré dans les 48 heures suivant l’événement sera remis à des organismes de bienfaisance. Nous vous invitons à laisser vos objets de valeur dans votre véhicule.
 
 ### Spectateurs
 
@@ -182,24 +196,6 @@ Seuls les participants des épreuves du 2,5 km et des 20 minutes Classiques, ain
 Nous vous invitons à suivre attentivement les indications des bénévoles et la signalisation afin d’assurer une circulation fluide et sécuritaire sur le site.
 
 Plan à venir.
-
-### Vestiaire
-
-Un service de vestiaire sera offert au site de départ du marathon, du demi-marathon, du 10 km et du 5 km.
-
-Des camions identifiés seront stationnés au départ afin de recueillir les sacs des participants. Des bénévoles seront présents pour vous accueillir, récupérer votre sac et assurer son transport jusqu’à la zone d’arrivée.
-
-Un sac fermé de façon sécuritaire est obligatoire pour utiliser le service de vestiaire. Aucun sac n’est fourni par l’organisation; vous devez apporter le vôtre.
-
-L’onglet détachable au bas de votre dossard servira d’étiquette d’identification pour votre sac. Assurez-vous de bien le fixer avant de remettre votre sac aux bénévoles.
-
-Votre sac sera ensuite transporté vers la zone d’arrivée, où vous pourrez le récupérer après votre course.
-
-> ⚠️ Les Classiques Capitale ne sont pas responsables des objets perdus, volés ou endommagés. Tout article non récupéré dans les 48 heures suivant l’événement sera remis à des organismes de bienfaisance. Nous vous invitons à laisser vos objets de valeur dans votre véhicule.
-
-### Plan du site
-
-À venir!
 
 ### Horaire
 
@@ -254,7 +250,7 @@ Votre sac sera ensuite transporté vers la zone d’arrivée, où vous pourrez l
 
 ### Parcours
 
-Voici les parcours détaillés pour chaque épreuve. TODO
+Voici les parcours détaillés pour chaque épreuve. (vous pouvez cliquer sur les liens pour obtenir les parcours détaillés)
 
 | Éreuve                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -265,31 +261,19 @@ Voici les parcours détaillés pour chaque épreuve. TODO
 | [21.1 km](https://ridewithgps.com/routes/52855384?via=egNIJUUApjdoTCBv7W1uMA)                                                                      |
 | [42.2 km](https://ridewithgps.com/routes/52855164?via=P2CnIAinlxzn2T1PxOoX3Q)                                                                      |
 
-### Zones spectateurs
-
-Les spectateurs sont les bienvenus sur le site du Marathon Duchesnay–Québec afin d’encourager les participants et de profiter de l’ambiance de l’événement!
-
-Pour le site d'arrivée, l’accès à la Base de Valcartier se fera obligatoirement par la porte principale, via la route de la Bravoure. Aucun autre accès ne sera autorisé pour l’événement.
-
-Le stationnement sur la base militaire est accessible aux spectateurs. Veuillez suivre les indications des bénévoles et respecter la signalisation afin de faciliter la circulation et d’assurer la sécurité de tous.
-
-Venez encourager les coureurs, profiter de l’ambiance et vivre l’événement avec nous!
-
 ### Ravitaillements
 
 Aucun ravitaillement ne sera offert pour les 20 minutes classiques et le 2.5 km.
 
-Les ravitaillements sont soigneusement répartis tout au long des parcours afin de soutenir les participants pendant leur épreuve.
-
-De l’eau Eau-Mont-Bélair et de la boisson sportive aux électrolytes Maple 3 seront disponibles aux différents points de ravitaillement. 
-
-Le nombre de ravitaillements varie selon la distance :
-- Marathon (42,2 km) : 14 ravitaillements
-- Demi-marathon (21,1 km) : 8 ravitaillements
+Pour les autres distances, le nombre de ravitaillements varie selon la distance :
+- Marathon : 14 ravitaillements
+- Demi-marathon : 8 ravitaillements
 - 10 km : 2 ravitaillements.
 - 5 km : 2 ravitaillements
 
 Veuillez-vous référer aux cartes des parcours afin de connaître l’emplacement exact des différents points de ravitaillement pour votre épreuve.
+
+De l’eau Eau-Mont-Bélair et de la boisson sportive aux électrolytes Maple 3 seront disponibles aux différents points de ravitaillement. 
 
 #### Offre alimentaire
 
@@ -423,12 +407,6 @@ Des **photographes seront sur place** pour capturer vos plus beaux sourires!
 ### Partenaires officiels
 
 {{< sized-image src="/assets/partenairesofficielsadlc2026.png" alt="Maple3, Formagerie Victoria, Le Subtil" width="100%" >}}
-
-### Partenaires majeurs, publics et fournisseurs
-
-TODO
-
-{{< sized-image src="/assets/partenairesfournisseurstds2026.png" alt="Partenaires publiques/fournisseurs TDS26" width="100%" >}}
 
 ## Vous aimeriez plus de détails?
 
