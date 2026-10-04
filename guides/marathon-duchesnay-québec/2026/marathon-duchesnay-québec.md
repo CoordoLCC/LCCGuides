@@ -102,8 +102,11 @@ La procédure pour effectuer un transfert ou un changement d’épreuve peut êt
 ### Certifications et sanctions
 
 Le Marathon Duchesnay-Québec est sanctionné OR par la Fédération québécoise d’athlétisme.
+
 Les épreuves du marathon (42,2 km) et du demi-marathon (21,1 km) sont également reconnues par World Athletics et figurent à leur calendrier mondial des événements.
-Cette reconnaissance s’inscrit dans notre volonté d’offrir aux participants des parcours précis, rapides et répondant à des standards élevés. Les deux distances sont notamment qualificatives pour le Marathon de Boston.
+
+Cette reconnaissance s’inscrit dans notre volonté d’offrir aux participants des parcours précis, rapides et répondant à des standards élevés. Les deux distances sont notamment **qualificatives pour le Marathon de Boston**.
+
 Cette sanction témoigne de notre engagement à offrir une expérience de course de qualité, tant pour les coureurs récréatifs que pour ceux qui souhaitent atteindre des objectifs de performance ou de qualification.
 
 {{< sized-image src="/assets/or-transparent-1.png" alt="Sanction OR" width="30" >}}
