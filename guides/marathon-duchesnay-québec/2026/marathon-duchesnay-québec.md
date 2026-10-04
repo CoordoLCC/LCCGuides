@@ -117,10 +117,10 @@ Cette sanction témoigne de notre engagement à offrir une expérience de course
 
 #### Samedi (10 km, 5 km, 2.5 km, 20 minutes classiques)
 
-| Épreuve                        | Lieu                                     | Adresse                                                                                                                     |
-| ------------------------------ | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 10 km et 5 km                  | RDDC - Centre de recherche de Valcartier | [2459 Rte de la Bravoure, Québec, QC G3J 1X5](https://maps.app.goo.gl/CCd3HB5e8Dt8VSQcA)                                    |
-| 2.5km et 20 minutes classiques | Site d'arrivée (Centre des sports PSP)   | [Base Valcartier, Édifice 516, C.P. 1000, Succ. Forces, Courcelette, QC G1J 3H6](https://maps.app.goo.gl/GNEgR2aU3HAzHkwD7) |
+| Épreuve                         | Lieu                                     | Adresse                                                                                                                     |
+| ------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 10 km et 5 km                   | RDDC - Centre de recherche de Valcartier | [2459 Rte de la Bravoure, Québec, QC G3J 1X5](https://maps.app.goo.gl/CCd3HB5e8Dt8VSQcA)                                    |
+| 2.5 km et 20 minutes classiques | Site d'arrivée (Centre des sports PSP)   | [Base Valcartier, Édifice 516, C.P. 1000, Succ. Forces, Courcelette, QC G1J 3H6](https://maps.app.goo.gl/GNEgR2aU3HAzHkwD7) |
 
 #### Dimanche (21.1 km et 42.2 km)
 
@@ -135,50 +135,41 @@ Adresse : [140 Montée de L'Auberge, Ste-Catherine-de-la-Jacques-Cartier QC G3N 
 L’accès au stationnement se fera à l’intersection du stationnement principal et de la route de la bravoure.
 Des bénévoles seront présent pour vous montrer l’accès au stationnement.
 
-PLAN TODO
+Plan à venir.
 
 #### Dimanche (21.1 km et 42.2 km)
 
-Le service de navette est disponible à partir du centre de recherche.
+Un service de navette est disponible à partir du centre de recherche (voir détails plus bas).
 
-Pour ceux qui ont un lift pour se rendre directement au départ, vous devez obligatoirement utiliser le stationnement de l’École de foresterie, situé du côté gauche de la route en provenance de Québec.
+Pour ceux qui se font conduire directement au départ, vous devez obligatoirement utiliser le stationnement de l’École de foresterie, situé du côté gauche de la route en provenance de Québec.
 
-Veuillez-vous référer au plan ci-dessous pour localiser l’aire de stationnement.
+> ⚠️ Aucune navette ne retourne vers le site de départ depuis l'arrivée après votre course. Veuillez utiliser les navettes dans ce cas.
 
-Une section sera également réservée aux débarcadères afin de faciliter la circulation et la dépose des participants.
-
-> Aucune navette ne retourne vers le site de départ depuis l'arrivée après votre course.
-
-PLAN TODO
+Plan à venir.
 
 ### Navettes
 
 Un service de navettes sera offert afin de faciliter les déplacements entre les stationnements, la Station Duchesnay et les zones de départ et d’arrivée.
 
-Aucune réservation n’est nécessaire. Présentez-vous simplement à la zone d’embarquement avec votre dossard. Les navettes partiront dès qu’elles seront pleines afin d’assurer une rotation efficace.
+Aucune réservation n’est nécessaire. Présentez-vous simplement à la zone d’embarquement avec votre **dossard**. Les navettes partiront dès qu’elles seront pleines afin d’assurer une rotation efficace.
 
 ### Samedi – Retour après les épreuves
 
-Le samedi, les navettes seront disponibles uniquement après votre épreuve afin de vous reconduire de la zone d’arrivée vers le stationnement principal.
+Le samedi, les navettes seront disponibles uniquement après votre épreuve afin de vous reconduire de la zone d’arrivée vers le stationnement du Centre de recherche.
 
-### Dimanche – Marathon et demi-marathon
+### Dimanche – Vers le départ du Marathon et demi-marathon
 
-Le dimanche, les participants du demi-marathon (21,1 km) et du marathon (42,2 km) pourront utiliser les navettes pour se rendre du stationnement principal vers la Station Duchesnay, où se trouve leur zone de départ.
-Horaire :
-Première navette
-Dernière navette
-Après votre épreuve, des navettes seront également disponibles pour vous reconduire de la zone d’arrivée vers le stationnement principal.
-Zone d’embarquement : voir le plan
-Zone de débarquement : voir le plan
+Le dimanche, vous pourrez utiliser les navettes pour vous rendre à la zone de départ (la station Duchesnay)
+
+PLus de détails à venir. (horaire et plans)
+
 À votre arrivée à la Station Duchesnay, vous aurez accès à une salle intérieure ainsi qu’à des toilettes afin de vous réchauffer et de vous préparer avant votre départ.
-Nous vous demandons de ne pas demeurer dans l’autobus après votre arrivée, afin de permettre aux autres participants de prendre place et d’assurer une bonne rotation des navettes.
-Nous vous invitons à suivre les indications sur place pour connaître la zone d’embarquement.
 
-TODO
+Nous vous demandons de ne pas demeurer dans l’autobus après votre arrivée, afin de permettre aux autres participants de prendre place et d’assurer une bonne rotation des navettes.
 
 ### Spectateurs
 
-L’accès au site de l’événement se fera obligatoirement par la porte principale de la Base de Valcartier, via la route de la Bravoure. Aucun autre accès ne sera autorisé pour l’événement.
+L’accès au site de l’événement se fera obligatoirement par la porte principale de la Base de Valcartier, via la route de la Bravoure. Aucun autre accès à la base ne sera autorisé pour l’événement.
 
 Une pièce d’identité pourrait vous être demandée à l’entrée de la base militaire. Afin de faciliter et d’accélérer la circulation, nous vous recommandons d’avoir une pièce d’identité à portée de main lors de votre arrivée.
 
@@ -190,15 +181,15 @@ Seuls les participants des épreuves du 2,5 km et des 20 minutes Classiques, ain
 
 Nous vous invitons à suivre attentivement les indications des bénévoles et la signalisation afin d’assurer une circulation fluide et sécuritaire sur le site.
 
-PLAN TODO
+Plan à venir.
 
 ### Vestiaire
 
-Un service de vestiaire sera offert au site de départ pour les participants du marathon (42,2 km), du demi-marathon (21,1 km), du 10 km et du 5 km.
+Un service de vestiaire sera offert au site de départ du marathon, du demi-marathon, du 10 km et du 5 km.
 
 Des camions identifiés seront stationnés au départ afin de recueillir les sacs des participants. Des bénévoles seront présents pour vous accueillir, récupérer votre sac et assurer son transport jusqu’à la zone d’arrivée.
 
-Un sac est obligatoire pour utiliser le service de vestiaire. Chaque participant peut déposer un seul sac, qui doit être fermé de façon sécuritaire. Aucun sac n’est fourni par l’organisation; vous devez apporter le vôtre.
+Un sac fermé de façon sécuritaire est obligatoire pour utiliser le service de vestiaire. Aucun sac n’est fourni par l’organisation; vous devez apporter le vôtre.
 
 L’onglet détachable au bas de votre dossard servira d’étiquette d’identification pour votre sac. Assurez-vous de bien le fixer avant de remettre votre sac aux bénévoles.
 
@@ -208,38 +199,56 @@ Votre sac sera ensuite transporté vers la zone d’arrivée, où vous pourrez l
 
 ### Plan du site
 
-TODO
+À venir!
 
 ### Horaire
 
-**Date :** Vendredi 22 octobre 2026
+**Date :** Vendredi 23 octobre 2026
 
-| Activité                                            | Heure     |
-| --------------------------------------------------- | --------- |
-| Remise des dossards (**Au Shop Santé Lebourgneuf**) | 16h à 19h |
+| Activité                                            | Heure     | Emplacement |
+| --------------------------------------------------- | --------- | --------- |
+| Remise des dossards | 16h à 19h | Shop Santé Lebourgneuf |
 
-**Date :** Samedi 23 octobre 2026
+**Date :** Samedi 24 octobre 2026
 
-| Activité                        | Heure          |
-| ------------------------------- | -------------- |
-| Remise des dossards             | À partir de 7h |
-| **Départ** 10 km                | **9h30**       |
-| **Départ** 5 km                 | **10h00**      |
-| **Départ** 2.5 km               | **10h00**      |
-| **Départ** 20 minutes classique | **10h00**      |
+| Activité                        | Heure          | Emplacement |
+| ------------------------------- | -------------- | --------- |
+| Remise des dossards             | À partir de 7h | Shop Santé Lebourgneuf |
+| **Départ** 10 km                | **8h00**       | Devant le Centre de recherche |
+| **Départ** 5 km                 | **10h00**      | Devant le Centre de recherche |
+| **Départ** 2.5 km               | **11h00**      | Devant le Centre des sports PSP |
+| **Départ** 20 minutes classique | **11h45**      | Devant le Centre des sports PSP |
 
-**Date :** Dimanche 24 octobre 2026
+**Date :** Dimanche 25 octobre 2026
 
-| Activité           | Heure     |
-| ------------------ | --------- |
-| **Départ** 42.2 km | **9h30**  |
-| **Départ** 21.1 km | **10h00** |
+| Activité           | Heure     | Emplacement |
+| ------------------ | --------- | --------- |
+| **Départ** 42.2 km | **8h00**  | Station touristique Duchesnay |
+| **Départ** 21.1 km | **9h30** | Station touristique Duchesnay |
 
 > Nous vous demanderons de vous rendre à la ligne de départ 10 minutes avant votre départ.
 
 #### Vagues (*Corrals*)
 
-TODO
+**21.1 km** :
+
+| Couleur du corral | Temps estimé |
+| ------------------ | --------- |
+| Bleu | Moins de 1h35  |
+| Vert | 1h36 à 1h45 |
+| Orange | 1h46 à 2h00 |
+| Mauve | 2h01 à 2h15 |
+| Rouge | 2h16 et plus |
+
+**42.2 km** :
+
+| Couleur du corral | Temps estimé |
+| ------------------ | --------- |
+| Bleu | Moins de 3h15  |
+| Vert | 3h16 à 3h45 |
+| Orange | 3h46 à 4h15 |
+| Mauve | 4h16 à 4h45 |
+| Rouge | 4h46 et plus |
 
 ## Durant la course
 
@@ -249,12 +258,12 @@ Voici les parcours détaillés pour chaque épreuve. TODO
 
 | Éreuve                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [20 minutes classiques La Fomagerie Victoria (boucle de ~500 m)](https://www.alltrails.com/fr/explore/custom-routes/20-min-classiques-trail-des-sommets-bd4733a?sh=true) |
-| [2,5 km](https://www.alltrails.com/fr/explore/custom-routes/2-5-km-trail-des-sommets-645e7d3?u=m&sh=vuzczx)                                                              |
-| [10 km](https://www.alltrails.com/fr/explore/custom-routes/itineraire-ajoute-0a5eb4a?u=m&sh=vuzczx)                                                                      |
-| [20 km](https://www.alltrails.com/fr/explore/custom-routes/itineraire-ajoute-c460b7d?u=m&sh=vuzczx)                                                                      |
-| [30 km](https://www.alltrails.com/fr/explore/custom-routes/itineraire-ajoute-37c870a?u=m&sh=vuzczx)                                                                      |
-| [Viking 6h (boucles de 10km)](https://www.alltrails.com/fr/explore/custom-routes/itineraire-ajoute-0a5eb4a?u=m&sh=vuzczx)                                                |
+| [20 minutes classiques (boucle de ~500 m)](https://ridewithgps.com/routes/55603722?via=57QAvzywuI5p-wjfDhBuHw) |
+| [2,5 km](https://ridewithgps.com/routes/55603598?via=58FZNxXXkne-ucRV59bIhA)                                                              |
+| [5 km](https://ridewithgps.com/routes/55075571?via=stZyTZslo70rhIEV1-sJUw)                                                                      |
+| [10 km](https://ridewithgps.com/routes/55075531?via=mxxpVEGPURFfzzCxSOrmdQ)                                                                      |
+| [21.1 km](https://ridewithgps.com/routes/52855384?via=egNIJUUApjdoTCBv7W1uMA)                                                                      |
+| [42.2 km](https://ridewithgps.com/routes/52855164?via=P2CnIAinlxzn2T1PxOoX3Q)                                                                      |
 
 ### Zones spectateurs
 
@@ -266,20 +275,20 @@ Le stationnement sur la base militaire est accessible aux spectateurs. Veuillez 
 
 Venez encourager les coureurs, profiter de l’ambiance et vivre l’événement avec nous!
 
-AJOUT + ZONE SUR LE PARCOURS (COMME L’AN DERNIER)
-
-### Ravitaillements - TODO
+### Ravitaillements
 
 Aucun ravitaillement ne sera offert pour les 20 minutes classiques et le 2.5 km.
 
 Les ravitaillements sont soigneusement répartis tout au long des parcours afin de soutenir les participants pendant leur épreuve.
+
 De l’eau Eau-Mont-Bélair et de la boisson sportive aux électrolytes Maple 3 seront disponibles aux différents points de ravitaillement. 
-AJOUT TOILETTES COMME L’AN PASSÉE même ravito
+
 Le nombre de ravitaillements varie selon la distance :
-•	Marathon (42,2 km) : 14 ravitaillements
-•	Demi-marathon (21,1 km) : 8 ravitaillements
-•	10 km : 2 ravitaillements.  (BILLY!?!)
-•	5 km : 2 ravitaillements
+- Marathon (42,2 km) : 14 ravitaillements
+- Demi-marathon (21,1 km) : 8 ravitaillements
+- 10 km : 2 ravitaillements.
+- 5 km : 2 ravitaillements
+
 Veuillez-vous référer aux cartes des parcours afin de connaître l’emplacement exact des différents points de ravitaillement pour votre épreuve.
 
 #### Offre alimentaire
@@ -355,7 +364,9 @@ Les enfants pourront choisir de franchir les obstacles ou simplement poursuivre 
 
 ## Après la course
 
-### Plan d'arrivée - TODO
+### Plan d'arrivée
+
+À venir.
 
 ### Collation d'après-course
 
