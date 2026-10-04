@@ -43,8 +43,8 @@ L'horaire est sujet à confirmation.
 
 **Important :**
 
-- Ayez en votre possession une **pièce d'identité physique avec photo** - elle vous sera demandée à votre arrivée.
-- Ramassage pour un proche : Vous pouvez récupérer le dossard d’un autre participant, à condition de présenter :
+* Ayez en votre possession une **pièce d'identité physique avec photo** - elle vous sera demandée à votre arrivée.
+* Ramassage pour un proche : Vous pouvez récupérer le dossard d’un autre participant, à condition de présenter :
 
 1. Une copie (photo sur téléphone acceptée) de sa pièce d'identité avec photo.
 2. Sa confirmation d'inscription officielle.
@@ -55,10 +55,10 @@ L'horaire est sujet à confirmation.
 
 La récupération des dossards le jour de la course est offerte uniquement le samedi 24 octobre pour les épreuves suivantes :
 
-- 10 km
-- 5 km
-- 2,5 km
-- 20 min Classiques
+* 10 km
+* 5 km
+* 2,5 km
+* 20 min Classiques
 
 > Aucune récupération de dossard ne sera possible le dimanche 25 octobre pour les participants du demi-marathon et du marathon. Les participants au demi-marathon et au marathon doivent donc récupérer leur dossard à l’avance, selon l’horaire prévu au Shop Santé.
 
@@ -78,12 +78,12 @@ Le principe est simple : lors de la récupération de votre dossard, nous vous i
 
 Vous pouvez notamment apporter :
 
-- des céréales;
-- des pâtes et des légumineuses;
-- des conserves de fruits ou de légumes;
-- des sauces;
-- du beurre d’arachide;
-- ou tout autre aliment non périssable.
+* des céréales;
+* des pâtes et des légumineuses;
+* des conserves de fruits ou de légumes;
+* des sauces;
+* du beurre d’arachide;
+* ou tout autre aliment non périssable.
 
 Chaque don, petit ou grand, peut faire une différence.
 
@@ -104,7 +104,7 @@ Les épreuves du marathon (42,2 km) et du demi-marathon (21,1 km) sont égalemen
 Cette reconnaissance s’inscrit dans notre volonté d’offrir aux participants des parcours précis, rapides et répondant à des standards élevés. Les deux distances sont notamment qualificatives pour le Marathon de Boston.
 Cette sanction témoigne de notre engagement à offrir une expérience de course de qualité, tant pour les coureurs récréatifs que pour ceux qui souhaitent atteindre des objectifs de performance ou de qualification.
 
-TODO
+{{< sized-image src="/assets/or-transparent-1.png" alt="Sanction OR" >}}
 
 ## Départ
 
@@ -114,7 +114,7 @@ TODO
 
 Lieu des départs : RDDC - Centre de recherche de Valcartier
 
-Adresse : [2459 Rte de la Bravoure, Québec, QC G3J 1X5] (TODO)
+Adresse : [2459 Rte de la Bravoure, Québec, QC G3J 1X5](TODO)
 
 Des bénévoles et une signalisation sur place vous guideront vers le site principal. Vous pourrez utiliser l’un des espaces disponibles dans le stationnement principal.
 Dans une démarche écoresponsable, Les Classiques Capitale vous encouragent fortement à privilégier le covoiturage ou tout autre moyen de transport alternatif.
@@ -123,7 +123,7 @@ Dans une démarche écoresponsable, Les Classiques Capitale vous encouragent for
 
 Lieu des départs : Station Touristique Duchesnay
 
-Adresse : [140 Montée de L'Auberge, Ste-Catherine-de-la-Jacques-Cartier QC G3N 2Y6, Canada] (TODO)
+Adresse : [140 Montée de L'Auberge, Ste-Catherine-de-la-Jacques-Cartier QC G3N 2Y6, Canada](TODO)
 
 ### Stationnement et accès
 
@@ -227,14 +227,14 @@ TODO
 
 **Date :** Dimanche 24 octobre 2026
 
-| Activité                                                                | Heure          |
-| ----------------------------------------------------------------------- | -------------- |
-| **Départ** 42.2 km                                                        | **9h30**       |
-| **Départ** 21.1 km                                                        | **10h00**      |
+| Activité           | Heure     |
+| ------------------ | --------- |
+| **Départ** 42.2 km | **9h30**  |
+| **Départ** 21.1 km | **10h00** |
 
 > Nous vous demanderons de vous rendre à la ligne de départ 10 minutes avant votre départ.
 
-#### Vagues (_Corrals_)
+#### Vagues (*Corrals*)
 
 TODO
 
@@ -279,8 +279,8 @@ Le nombre de ravitaillements varie selon la distance :
 •	5 km : 2 ravitaillements
 Veuillez-vous référer aux cartes des parcours afin de connaître l’emplacement exact des différents points de ravitaillement pour votre épreuve.
 
-
 #### Offre alimentaire
+
 Une offre alimentaire sera disponible à certains points de ravitaillement afin de vous soutenir tout au long de votre épreuve.
 
 Les détails concernant les produits offerts, les emplacements et les ravitaillements concernés seront communiqués prochainement.
@@ -296,9 +296,9 @@ Pour que cette démarche écoresponsable soit un succès, **chaque participant d
 Comment ça fonctionne? Vous devez obligatoirement courir avec votre propre contenant réutilisable. Durant la course, des bénévoles seront présents aux stations de remplissage pour le remplir.
 **Ce contenant peut être :**
 
-- une gourde, une bouteille ou une veste d'hydratation;
-- un verre réutilisable souple (_speed cup_), facile à plier et à ranger dans une poche ou une ceinture;
-- Si vous n'avez pas de verre souple, des modèles durables à l'effigie de Les Classiques Capitale seront disponibles à l'achat directement sur place. Ils sont aussi disponibles en option lors de votre inscription.
+* une gourde, une bouteille ou une veste d'hydratation;
+* un verre réutilisable souple (*speed cup*), facile à plier et à ranger dans une poche ou une ceinture;
+* Si vous n'avez pas de verre souple, des modèles durables à l'effigie de Les Classiques Capitale seront disponibles à l'achat directement sur place. Ils sont aussi disponibles en option lors de votre inscription.
 
 Merci de faire équipe avec nous pour des courses plus vertes et plus propres!
 
@@ -316,12 +316,11 @@ Merci de nous aider à garder les lieux propres et à minimiser notre empreinte 
 
 Afin d’assurer le bon déroulement et la sécurité de l’événement, un temps limite est établi pour chacune des épreuves suivantes :
 
-- 5 km : à la discrétion de l’organisation
-- 10 km : passage obligatoire au km ___ avant ___
-- 21,1 km : passage obligatoire au km ___ avant ___
-- 42,2 km : passage obligatoire au km ___ avant ___
-- 
-Les participants doivent être en mesure de compléter leur épreuve à l’intérieur des délais prévus.
+* 5 km : à la discrétion de l’organisation
+* 10 km : passage obligatoire au km  ***avant*** 
+* 21,1 km : passage obligatoire au km  ***avant*** 
+* 42,2 km : passage obligatoire au km  ***avant*** 
+* Les participants doivent être en mesure de compléter leur épreuve à l’intérieur des délais prévus.
 
 Une fois ces délais dépassés, le parcours sera progressivement rouvert à la circulation et la sécurité ne pourra plus être assurée sur le parcours. 
 
@@ -341,9 +340,9 @@ Soyons tous responsables les uns des autres afin de faire du Marathon Duchesnay-
 
 **Concept :** Inspiré du format "Backyard", l'objectif est de faire le **plus de boucles d'environ 500 m possible en 20 minutes.**
 
-- Animé par l'équipe du **Grand Club de Course**
-- Course ou marche, en solo ou en famille
-- L'important est de bouger dans le plaisir!
+* Animé par l'équipe du **Grand Club de Course**
+* Course ou marche, en solo ou en famille
+* L'important est de bouger dans le plaisir!
 
 #### Gars d'en dehors - Nouveauté 2026
 
@@ -367,8 +366,8 @@ D’autres surprises vous attendent également!
 
 Tous les résultats seront disponibles **en temps réel** :
 
-- sur l'application mobile Paceasy
-- sur le site web de Sport Chrono : [https://resultats.sportchrono.com](https://resultats.sportchrono.com/evenements)
+* sur l'application mobile Paceasy
+* sur le site web de Sport Chrono : [https://resultats.sportchrono.com](https://resultats.sportchrono.com/evenements)
 
 #### Nouveauté 2026 - Suivi en direct
 
@@ -390,8 +389,8 @@ Les podiums seront appelés au micro par l'animateur quelques minutes après cha
 
 **Récompenses :** Les trois premiers hommes et femmes des distances 2.5 km, 5 km, 10 km, 21.1 km et 42.2 km recevront :
 
-- une médaille selon leur position;
-- un prix de notre partenaire présentateur Shop Santé.
+* une médaille selon leur position;
+* un prix de notre partenaire présentateur Shop Santé.
 
 Aucun podium par groupe d’âge ne sera effectué.
 
