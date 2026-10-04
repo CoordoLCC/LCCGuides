@@ -117,18 +117,16 @@ Cette sanction témoigne de notre engagement à offrir une expérience de course
 
 #### Samedi (10 km, 5 km, 2.5 km, 20 minutes classiques)
 
-Lieu des départs : RDDC - Centre de recherche de Valcartier
-
-Adresse : [2459 Rte de la Bravoure, Québec, QC G3J 1X5](TODO)
-
-Des bénévoles et une signalisation sur place vous guideront vers le site principal. Vous pourrez utiliser l’un des espaces disponibles dans le stationnement principal.
-Dans une démarche écoresponsable, Les Classiques Capitale vous encouragent fortement à privilégier le covoiturage ou tout autre moyen de transport alternatif.
+| Épreuve | Lieu | Adresse |
+|---------|------|---------|
+| 10 km et 5 km | RDDC - Centre de recherche de Valcartier | [2459 Rte de la Bravoure, Québec, QC G3J 1X5](https://maps.app.goo.gl/CCd3HB5e8Dt8VSQcA) |
+| 2.5km et 20 minutes classiques | Site d'arrivée (Centre des sports PSP) | [Base Valcartier, Édifice 516, C.P. 1000, Succ. Forces, Courcelette, QC G1J 3H6](https://maps.app.goo.gl/GNEgR2aU3HAzHkwD7)
 
 #### Dimanche (21.1 km et 42.2 km)
 
-Lieu des départs : Station Touristique Duchesnay
+Lieu : Station Touristique Duchesnay
 
-Adresse : [140 Montée de L'Auberge, Ste-Catherine-de-la-Jacques-Cartier QC G3N 2Y6, Canada](TODO)
+Adresse : [140 Montée de L'Auberge, Ste-Catherine-de-la-Jacques-Cartier QC G3N 2Y6, Canada](https://maps.app.goo.gl/AiVsVf4outZbYCjH6)
 
 ### Stationnement et accès
 
