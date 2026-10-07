@@ -37,7 +37,11 @@ Les Classiques Capitale s'engage à promouvoir la course à pied dans une atmosp
 | Dates                    | Heures    | Lieu                   | Épreuves           | Adresse                                                                                         |
 | ------------------------ | --------- | ---------------------- | ------------------ | ----------------------------------------------------------------------------------------------- |
 | Vendredi <br/>23 octobre | 12h à 21h | Shop Santé Lebourgneuf | Toutes             | [5580, Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9) |
-| Samedi <br/>24 octobre   | 12h à 17h | Shop Santé Lebourgneuf | 21.1 km et 42.2 km | [5580, Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9) |
+| Samedi <br/>24 octobre   | 6h30h à 10h | À côté du départ | 10 km et 5 km | [2459 Rte de la Bravoure, Québec, QC G3J 1X5](https://maps.app.goo.gl/2EFG4RQsJCkSx4gG7) |
+| Samedi <br/>24 octobre   | 6h30h à 10h | Centre des sports PSP | 2.5 km et 20 minutes | [Base Valcartier, Édifice 516, C.P. 1000, Succ. Forces, Courcelette, QC G1J 3H6](https://maps.app.goo.gl/VneEy95eipQGQXxy9) |
+| Samedi <br/>24 octobre   | 13h30 à 18h | Shop Santé Lebourgneuf | 21.1 km et 42.2 km | [5580, Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9) |
+
+> ⚠️ Aucune récupération de dossard ne sera possible le dimanche 25 octobre pour les participants du demi-marathon et du marathon. Vous devez absolument récupérer votre dossard à l’avance, selon l’horaire prévu au Shop Santé (vendredi ou samedi).
 
 L'horaire est sujet à confirmation.
 
@@ -52,17 +56,6 @@ Important :
 2. Sa confirmation d'inscription officielle.
 
 > ⚠️ Aucune inscription ne sera possible sur place!
-
-#### Récupération le jour de la course
-
-La récupération des dossards le jour de la course est offerte uniquement le samedi 24 octobre pour les épreuves suivantes :
-
-* 10 km
-* 5 km
-* 2,5 km
-* 20 min Classiques
-
-> ⚠️ Aucune récupération de dossard ne sera possible le dimanche 25 octobre pour les participants du demi-marathon et du marathon. Les participants au demi-marathon et au marathon doivent donc récupérer leur dossard à l’avance, selon l’horaire prévu au Shop Santé.
 
 #### Je cours, je donne
 
@@ -139,27 +132,27 @@ Plan à venir.
 
 #### Dimanche (21.1 km et 42.2 km)
 
-Un service de navette est disponible à partir du centre de recherche (voir détails plus bas).
+Un service de navette est disponible à partir du stationnement principal en face du centre de recherche (voir détails plus bas).
 
-Pour ceux qui se font conduire directement au départ, vous devez obligatoirement utiliser le stationnement de l’École de foresterie, situé du côté gauche de la route en provenance de Québec.
+Pour ceux qui se font reconduire directement au départ, vous devez obligatoirement utiliser le stationnement de l’École de foresterie, situé du côté gauche de la route en provenance de Québec.
 
-> ⚠️ Aucune navette ne retourne vers le site de départ depuis l'arrivée après votre course. Veuillez utiliser les navettes dans ce cas.
+> ⚠️ Pour le départ,
 
 Plan à venir.
 
 ### Navettes
 
-Un service de navettes sera offert afin de faciliter les déplacements entre les stationnements, la Station Duchesnay et les zones de départ et d’arrivée.
+Le service de navettes sera offert afin de faciliter les déplacements entre les stationnements, la Station Duchesnay et les zones de départ et d’arrivée.
 
 Aucune réservation n’est nécessaire. Présentez-vous simplement à la zone d’embarquement avec votre **dossard**. Les navettes partiront dès qu’elles seront pleines afin d’assurer une rotation efficace.
 
 #### Samedi – Retour après les épreuves
 
-Le samedi, les navettes seront disponibles uniquement après votre épreuve afin de vous reconduire de la zone d’arrivée vers le stationnement du Centre de recherche.
+Le samedi, les navettes seront disponibles **uniquement** après votre épreuve afin de vous reconduire de la zone d’arrivée vers le stationnement du Centre de recherche.
 
 #### Dimanche – Vers le départ du Marathon et demi-marathon
 
-Le dimanche, vous pourrez utiliser les navettes pour vous rendre à la zone de départ (la station Duchesnay)
+Le dimanche, vous devez utiliser les navettes pour vous rendre à la zone de départ (la station Duchesnay)
 
 PLus de détails à venir. (horaire et plans)
 
@@ -169,7 +162,7 @@ Nous vous demandons de ne pas demeurer dans l’autobus après votre arrivée, a
 
 ### Vestiaire
 
-Un service de vestiaire sera offert au site de départ du marathon, du demi-marathon, du 10 km et du 5 km.
+Un service de vestiaire sera offert aux site de départ pour chaque course.
 
 Des camions identifiés seront stationnés au départ afin de recueillir les sacs des participants. Des bénévoles seront présents pour vous accueillir, récupérer votre sac et assurer son transport jusqu’à la zone d’arrivée.
 
@@ -203,17 +196,19 @@ Plan à venir.
 
 | Activité                                            | Heure     | Emplacement |
 | --------------------------------------------------- | --------- | --------- |
-| Remise des dossards | 16h à 19h | Shop Santé Lebourgneuf |
+| Remise des dossards toutes épreuves | 12h à 21h | Shop Santé Lebourgneuf |
 
 **Date :** Samedi 24 octobre 2026
 
 | Activité                        | Heure          | Emplacement |
 | ------------------------------- | -------------- | --------- |
-| Remise des dossards             | À partir de 7h | Shop Santé Lebourgneuf |
+| Remise des dossards **10 km et 5km** | 6h30 à 11h | Devant le Centre de recherche |
 | **Départ** 10 km                | **8h00**       | Devant le Centre de recherche |
 | **Départ** 5 km                 | **10h00**      | Devant le Centre de recherche |
+| Remise des dossards **2.5km et 20 minutes** | 10h à 11h45 | Centre des sports PSP |
 | **Départ** 2.5 km               | **11h00**      | Devant le Centre des sports PSP |
 | **Départ** 20 minutes classique | **11h45**      | Devant le Centre des sports PSP |
+| Remise des dossards **21.1 km et 42.2 km**| 13h30 à 18h | Shop Santé Lebourgneuf |
 
 **Date :** Dimanche 25 octobre 2026
 
@@ -257,7 +252,7 @@ Voici les parcours détaillés pour chaque épreuve. (vous pouvez cliquer sur le
 | [20 minutes classiques (boucle de ~500 m)](https://ridewithgps.com/routes/55603722?via=57QAvzywuI5p-wjfDhBuHw) |
 | [2,5 km](https://ridewithgps.com/routes/55603598?via=58FZNxXXkne-ucRV59bIhA)                                                              |
 | [5 km](https://ridewithgps.com/routes/55075571?via=stZyTZslo70rhIEV1-sJUw)                                                                      |
-| [10 km](https://ridewithgps.com/routes/55075531?via=mxxpVEGPURFfzzCxSOrmdQ)                                                                      |
+| [10 km](https://ridewithgps.com/routes/56643287?via=vZ90-nydBdFB7hS7FQHB6w)                                                                      |
 | [21.1 km](https://ridewithgps.com/routes/52855384?via=egNIJUUApjdoTCBv7W1uMA)                                                                      |
 | [42.2 km](https://ridewithgps.com/routes/52855164?via=P2CnIAinlxzn2T1PxOoX3Q)                                                                      |
 
@@ -268,10 +263,9 @@ Aucun ravitaillement ne sera offert pour les 20 minutes classiques et le 2.5 km.
 Pour les autres distances, le nombre de ravitaillements varie selon la distance :
 - Marathon : 14 ravitaillements
 - Demi-marathon : 8 ravitaillements
-- 10 km : 2 ravitaillements.
+- 10 km : 3 ravitaillements.
 - 5 km : 2 ravitaillements
 
-Veuillez-vous référer aux cartes des parcours afin de connaître l’emplacement exact des différents points de ravitaillement pour votre épreuve.
 
 De l’eau Eau-Mont-Bélair et de la boisson sportive aux électrolytes Maple 3 seront disponibles aux différents points de ravitaillement. 
 
