@@ -34,12 +34,12 @@ Les Classiques Capitale s'engage à promouvoir la course à pied dans une atmosp
 
 > ⚠️ Aucune remise le dimanche matin pour le 21.1 et 42.2 km!
 
-| Dates                    | Heures    | Lieu                   | Épreuves           | Adresse                                                                                         |
-| ------------------------ | --------- | ---------------------- | ------------------ | ----------------------------------------------------------------------------------------------- |
-| Vendredi <br/>23 octobre | 12h à 21h | Shop Santé Lebourgneuf | Toutes             | [5580, Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9) |
-| Samedi <br/>24 octobre   | 6h30h à 10h | À côté du départ | 10 km et 5 km | [2459 Rte de la Bravoure, Québec, QC G3J 1X5](https://maps.app.goo.gl/2EFG4RQsJCkSx4gG7) |
-| Samedi <br/>24 octobre   | 6h30h à 10h | Centre des sports PSP | 2.5 km et 20 minutes | [Base Valcartier, Édifice 516, C.P. 1000, Succ. Forces, Courcelette, QC G1J 3H6](https://maps.app.goo.gl/VneEy95eipQGQXxy9) |
-| Samedi <br/>24 octobre   | 13h30 à 18h | Shop Santé Lebourgneuf | 21.1 km et 42.2 km | [5580, Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9) |
+| Dates                    | Heures      | Lieu                   | Épreuves             | Adresse                                                                                                                     |
+| ------------------------ | ----------- | ---------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Vendredi <br/>23 octobre | 12h à 21h   | Shop Santé Lebourgneuf | Toutes               | [5580, Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9)                             |
+| Samedi <br/>24 octobre   | 6h30h à 10h | À côté du départ       | 10 km et 5 km        | [2459 Rte de la Bravoure, Québec, QC G3J 1X5](https://maps.app.goo.gl/2EFG4RQsJCkSx4gG7)                                    |
+| Samedi <br/>24 octobre   | 6h30h à 10h | Centre des sports PSP  | 2.5 km et 20 minutes | [Base Valcartier, Édifice 516, C.P. 1000, Succ. Forces, Courcelette, QC G1J 3H6](https://maps.app.goo.gl/VneEy95eipQGQXxy9) |
+| Samedi <br/>24 octobre   | 13h30 à 18h | Shop Santé Lebourgneuf | 21.1 km et 42.2 km   | [5580, Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9)                             |
 
 > ⚠️ Aucune récupération de dossard ne sera possible le dimanche 25 octobre pour les participants du demi-marathon et du marathon. Vous devez absolument récupérer votre dossard à l’avance, selon l’horaire prévu au Shop Santé (vendredi ou samedi).
 
@@ -128,7 +128,7 @@ Adresse : [140 Montée de L'Auberge, Ste-Catherine-de-la-Jacques-Cartier QC G3N 
 L’accès au stationnement se fera à l’intersection du stationnement principal et de la route de la bravoure.
 Des bénévoles seront présent pour vous montrer l’accès au stationnement.
 
-Plan à venir.
+{{< sized-image src="/assets/stationnementsamedimdq26.png" alt="Stationnements participants samedi MDQ 2026" >}}
 
 #### Dimanche (21.1 km et 42.2 km)
 
@@ -140,7 +140,7 @@ Pour ceux qui se font reconduire ou qui désirent aller se stationner au départ
 
 Le seul stationnement autorisé au départ est celui de l'école de foresterie.
 
-Plan à venir.
+{{< sized-image src="/assets/stationnementdimanchemdq26.png" alt="Stationnements participants dimanche MDQ 2026" >}}
 
 ### Navettes
 
@@ -152,15 +152,19 @@ Aucune réservation n’est nécessaire. Présentez-vous simplement à la zone d
 
 Le samedi, les navettes seront disponibles **uniquement** après votre épreuve afin de vous reconduire de la zone d’arrivée vers le stationnement du Centre de recherche.
 
+{{< sized-image src="/assets/navettessamedimdq26.png" alt="Navettes samedi MDQ 2026" >}}
+
 #### Dimanche – Vers le départ du marathon et demi-marathon
 
 Le dimanche, vous devez utiliser les navettes pour vous rendre à la zone de départ (la station Duchesnay)
 
-PLus de détails à venir. (horaire et plans)
+**Horaire à venir.**
 
 À votre arrivée à la Station Duchesnay, vous aurez accès à une salle intérieure ainsi qu’à des toilettes afin de vous réchauffer et de vous préparer avant votre départ.
 
 Nous vous demandons de ne pas demeurer dans l’autobus après votre arrivée, afin de permettre aux autres participants de prendre place et d’assurer une bonne rotation des navettes.
+
+{{< sized-image src="/assets/navettesdimanchemdq26.png" alt="Navettes dimanche MDQ 2026" >}}
 
 ### Vestiaire
 
@@ -190,33 +194,33 @@ Seuls les participants des épreuves du 2,5 km et des 20 minutes Classiques, ain
 
 Nous vous invitons à suivre attentivement les indications des bénévoles et la signalisation afin d’assurer une circulation fluide et sécuritaire sur le site.
 
-Plan à venir.
+{{< sized-image src="/assets/stationnementspectateursmdq26.png" alt="Stationnements spectateurs MDQ 2026" >}}
 
 ### Horaire
 
 **Date :** Vendredi 23 octobre 2026
 
-| Activité                                            | Heure     | Emplacement |
-| --------------------------------------------------- | --------- | --------- |
+| Activité                            | Heure     | Emplacement            |
+| ----------------------------------- | --------- | ---------------------- |
 | Remise des dossards toutes épreuves | 12h à 21h | Shop Santé Lebourgneuf |
 
 **Date :** Samedi 24 octobre 2026
 
-| Activité                        | Heure          | Emplacement |
-| ------------------------------- | -------------- | --------- |
-| Remise des dossards **10 km et 5km** | 6h30 à 11h | Devant le Centre de recherche |
-| **Départ** 10 km                | **8h00**       | Devant le Centre de recherche |
-| **Départ** 5 km                 | **10h00**      | Devant le Centre de recherche |
-| Remise des dossards **2.5km et 20 minutes** | 10h à 11h45 | Centre des sports PSP |
-| **Départ** 2.5 km               | **11h00**      | Devant le Centre des sports PSP |
-| **Départ** 20 minutes classique | **11h45**      | Devant le Centre des sports PSP |
-| Remise des dossards **21.1 km et 42.2 km**| 13h30 à 18h | Shop Santé Lebourgneuf |
+| Activité                                    | Heure       | Emplacement                     |
+| ------------------------------------------- | ----------- | ------------------------------- |
+| Remise des dossards **10 km et 5km**        | 6h30 à 11h  | Devant le Centre de recherche   |
+| **Départ** 10 km                            | **8h00**    | Devant le Centre de recherche   |
+| **Départ** 5 km                             | **10h00**   | Devant le Centre de recherche   |
+| Remise des dossards **2.5km et 20 minutes** | 10h à 11h45 | Centre des sports PSP           |
+| **Départ** 2.5 km                           | **11h00**   | Devant le Centre des sports PSP |
+| **Départ** 20 minutes classique             | **11h45**   | Devant le Centre des sports PSP |
+| Remise des dossards **21.1 km et 42.2 km**  | 13h30 à 18h | Shop Santé Lebourgneuf          |
 
 **Date :** Dimanche 25 octobre 2026
 
-| Activité           | Heure     | Emplacement |
-| ------------------ | --------- | --------- |
-| **Départ** 42.2 km | **8h00**  | Station touristique Duchesnay |
+| Activité           | Heure    | Emplacement                   |
+| ------------------ | -------- | ----------------------------- |
+| **Départ** 42.2 km | **8h00** | Station touristique Duchesnay |
 | **Départ** 21.1 km | **9h30** | Station touristique Duchesnay |
 
 > Nous vous demanderons de vous rendre à la ligne de départ 10 minutes avant votre départ.
@@ -225,23 +229,27 @@ Plan à venir.
 
 **21.1 km** :
 
-| Couleur du corral | Temps estimé |
-| ------------------ | --------- |
-| Bleu | Moins de 1h35  |
-| Vert | 1h36 à 1h45 |
-| Orange | 1h46 à 2h00 |
-| Mauve | 2h01 à 2h15 |
-| Rouge | 2h16 et plus |
+| Couleur du corral | Temps estimé  |
+| ----------------- | ------------- |
+| Bleu              | Moins de 1h35 |
+| Vert              | 1h36 à 1h45   |
+| Orange            | 1h46 à 2h00   |
+| Mauve             | 2h01 à 2h15   |
+| Rouge             | 2h16 et plus  |
 
 **42.2 km** :
 
-| Couleur du corral | Temps estimé |
-| ------------------ | --------- |
-| Bleu | Moins de 3h15  |
-| Vert | 3h16 à 3h45 |
-| Orange | 3h46 à 4h15 |
-| Mauve | 4h16 à 4h45 |
-| Rouge | 4h46 et plus |
+| Couleur du corral | Temps estimé  |
+| ----------------- | ------------- |
+| Bleu              | Moins de 3h15 |
+| Vert              | 3h16 à 3h45   |
+| Orange            | 3h46 à 4h15   |
+| Mauve             | 4h16 à 4h45   |
+| Rouge             | 4h46 et plus  |
+
+### Plan du site de départ (42.2 km et 21.1 km)
+
+{{< sized-image src="/assets/départdimanchemdq26.png" alt="Plan du site de départ Dimanche MDQ 2026" >}}
 
 ## Durant la course
 
@@ -249,14 +257,14 @@ Plan à venir.
 
 Voici les parcours détaillés pour chaque épreuve. (vous pouvez cliquer sur les liens pour obtenir les parcours détaillés)
 
-| Éreuve                                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Éreuve                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------- |
 | [20 minutes classiques (boucle de ~500 m)](https://ridewithgps.com/routes/55603722?via=57QAvzywuI5p-wjfDhBuHw) |
-| [2,5 km](https://ridewithgps.com/routes/55603598?via=58FZNxXXkne-ucRV59bIhA)                                                              |
-| [5 km](https://ridewithgps.com/routes/55075571?via=stZyTZslo70rhIEV1-sJUw)                                                                      |
-| [10 km](https://ridewithgps.com/routes/56643287?via=vZ90-nydBdFB7hS7FQHB6w)                                                                      |
-| [21.1 km](https://ridewithgps.com/routes/52855384?via=egNIJUUApjdoTCBv7W1uMA)                                                                      |
-| [42.2 km](https://ridewithgps.com/routes/52855164?via=P2CnIAinlxzn2T1PxOoX3Q)                                                                      |
+| [2,5 km](https://ridewithgps.com/routes/55603598?via=58FZNxXXkne-ucRV59bIhA)                                   |
+| [5 km](https://ridewithgps.com/routes/55075571?via=stZyTZslo70rhIEV1-sJUw)                                     |
+| [10 km](https://ridewithgps.com/routes/56643287?via=vZ90-nydBdFB7hS7FQHB6w)                                    |
+| [21.1 km](https://ridewithgps.com/routes/52855384?via=egNIJUUApjdoTCBv7W1uMA)                                  |
+| [42.2 km](https://ridewithgps.com/routes/52855164?via=P2CnIAinlxzn2T1PxOoX3Q)                                  |
 
 ### Ravitaillements
 
@@ -312,7 +320,6 @@ Voici les ravitaillements pour les distances du 5 km, 10 km, 21.1 km, 42.2 km :
 | 27.8 km     | Eau, électrolytes et toilette |
 | 40 km       | Eau, électrolytes et toilette |
 | 41.2 km     | Eau, électrolytes et toilette |
-
 
 De l’eau Eau-Mont-Bélair et de la boisson sportive aux électrolytes Maple 3 seront disponibles aux différents points de ravitaillement. 
 
@@ -391,7 +398,7 @@ Les enfants pourront choisir de franchir les obstacles ou simplement poursuivre 
 
 ### Plan d'arrivée
 
-À venir.
+{{< sized-image src="/assets/arrivemdq26.png" alt="Plan du site d'arrivée MDQ 2026" >}}
 
 ### Collation d'après-course
 
