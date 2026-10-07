@@ -260,11 +260,56 @@ Voici les parcours détaillés pour chaque épreuve. (vous pouvez cliquer sur le
 
 Aucun ravitaillement ne sera offert pour les 20 minutes classiques et le 2.5 km.
 
-Pour les autres distances, le nombre de ravitaillements varie selon la distance :
-- Marathon : 14 ravitaillements
-- Demi-marathon : 8 ravitaillements
-- 10 km : 3 ravitaillements.
-- 5 km : 2 ravitaillements
+> ⚠️ Il n'y a pas de verre à usage unique disponiblent aux ravitaillements, vous devez absolument avoir votre propre gourde ou verre avec vous.
+
+Voici les ravitaillements pour les distances du 5 km, 10 km, 21.1 km, 42.2 km :
+
+**5 km :**
+
+| Kilométrage | Ravitaillement                |
+| ----------- | ----------------------------- |
+| 2.5 km      | Eau, électrolytes et toilette |
+| 4 km        | Eau, électrolytes et toilette |
+
+**10 km :**
+
+| Kilométrage | Ravitaillement                |
+| ----------- | ----------------------------- |
+| 2.5 km      | Eau, électrolytes et toilette |
+| 7.5 km      | Eau, électrolytes et toilette |
+| 9 km        | Eau, électrolytes et toilette |
+
+**21.1 km :**
+
+| Kilométrage | Ravitaillement                |
+| ----------- | ----------------------------- |
+| 1 km        | Eau, électrolytes et toilette |
+| 3.5 km      | Eau, électrolytes et toilette |
+| 8.5 km      | Eau, électrolytes et toilette |
+| 11 km       | Eau, électrolytes et toilette |
+| 13 km       | Eau, électrolytes et toilette |
+| 16.5 km     | Eau, électrolytes et toilette |
+| 18.5 km     | Eau, électrolytes et toilette |
+| 20 km       | Eau, électrolytes et toilette |
+
+**42.2 km :**
+
+| Kilométrage | Ravitaillement                |
+| ----------- | ----------------------------- |
+| 3.7 km      | Eau, électrolytes et toilette |
+| 6.2 km      | Eau, électrolytes et toilette |
+| 8.5 km      | Eau, électrolytes et toilette |
+| 13 km       | Eau, électrolytes et toilette |
+| 15.3 km     | Eau, électrolytes et toilette |
+| 17.8 km     | Eau, électrolytes et toilette |
+| 22.4 km     | Eau, électrolytes et toilette |
+| 24.7 km     | Eau, électrolytes et toilette |
+| 30 km       | Eau, électrolytes et toilette |
+| 32 km       | Eau, électrolytes et toilette |
+| 34 km       | Eau, électrolytes et toilette |
+| 27.8 km     | Eau, électrolytes et toilette |
+| 40 km       | Eau, électrolytes et toilette |
+| 41.2 km     | Eau, électrolytes et toilette |
 
 
 De l’eau Eau-Mont-Bélair et de la boisson sportive aux électrolytes Maple 3 seront disponibles aux différents points de ravitaillement. 
@@ -306,7 +351,7 @@ Merci de nous aider à garder les lieux propres et à minimiser notre empreinte 
 
 Afin d’assurer le bon déroulement et la sécurité de l’événement, un temps limite est établi pour chacune des épreuves suivantes :
 
-* 5 km : à la discrétion de l’organisation
+* 5 km : passage obligatoire au km  ***avant*** 
 * 10 km : passage obligatoire au km  ***avant*** 
 * 21,1 km : passage obligatoire au km  ***avant*** 
 * 42,2 km : passage obligatoire au km  ***avant*** 
