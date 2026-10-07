@@ -456,6 +456,10 @@ Des **photographes seront sur place** pour capturer vos plus beaux sourires!
 
 {{< sized-image src="/assets/partenairesofficielsadlc2026.png" alt="Maple3, Formagerie Victoria, Le Subtil" width="100%" >}}
 
+### Partenaires publiques et fournisseurs
+
+{{< sized-image src="/assets/partenairesfournisseursmdq026.png" alt="Partenaires fournisseurs et publiques MDQ2026" >}}
+
 ## Vous aimeriez plus de détails?
 
 ### Contactez-nous!
