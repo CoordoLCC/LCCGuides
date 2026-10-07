@@ -134,9 +134,11 @@ Plan à venir.
 
 Un service de navette est disponible à partir du stationnement principal en face du centre de recherche (voir détails plus bas).
 
-Pour ceux qui se font reconduire directement au départ, vous devez obligatoirement utiliser le stationnement de l’École de foresterie, situé du côté gauche de la route en provenance de Québec.
+> ⚠️ Nous vous recommandons fortement d'utiliser le service de navette pour vous rendre au départ, celles-ci ont priorité pour se rendre au départ.
 
-> ⚠️ Pour le départ,
+Pour ceux qui se font reconduire ou qui désirent aller se stationner au départ, veuillez noter qu'aucun autobus ne retourne vers le site de départ après la course, vous devez être autonome.
+
+Le seul stationnement autorisé au départ est celui de l'école de foresterie.
 
 Plan à venir.
 
@@ -150,7 +152,7 @@ Aucune réservation n’est nécessaire. Présentez-vous simplement à la zone d
 
 Le samedi, les navettes seront disponibles **uniquement** après votre épreuve afin de vous reconduire de la zone d’arrivée vers le stationnement du Centre de recherche.
 
-#### Dimanche – Vers le départ du Marathon et demi-marathon
+#### Dimanche – Vers le départ du marathon et demi-marathon
 
 Le dimanche, vous devez utiliser les navettes pour vous rendre à la zone de départ (la station Duchesnay)
 
