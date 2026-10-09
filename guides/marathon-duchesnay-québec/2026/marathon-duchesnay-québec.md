@@ -379,7 +379,7 @@ Les services médicaux seront assurés par **Dessercom** et **PCN Physiothérapi
 
 #### Quoi faire en cas d'urgence
 
-Si vous êtes témoin d’une situation nécessitant une intervention, n’hésitez surtout pas à porter assistance à un autre participant et à aviser un bénévole ou un membre de l’équipe médicale.
+Si vous êtes témoin d’une situation nécessitant une intervention, n’hésitez surtout pas à porter assistance à un autre participant et à aviser un bénévole ou un membre de l’équipe médicale dès que possible.
 
 Soyons tous responsables les uns des autres afin de faire du Marathon Duchesnay-Québec une expérience sécuritaire et agréable pour tous.
 
