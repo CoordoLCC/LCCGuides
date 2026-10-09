@@ -102,9 +102,7 @@ Cette reconnaissance s’inscrit dans notre volonté d’offrir aux participants
 
 Cette sanction témoigne de notre engagement à offrir une expérience de course de qualité, tant pour les coureurs récréatifs que pour ceux qui souhaitent atteindre des objectifs de performance ou de qualification.
 
-{{< sized-image src="/assets/or-transparent-1.png" alt="Sanction OR" width="30%" >}}
-
-{{< sized-image src="/assets/worldathleticsroadracelabel.png" alt="Certification World Athletics" width="30%" >}}
+{{< sized-image src="/assets/orandworldathletics.png" alt="Sanction OR Athlétisme Québec et Certification World Athletics" width="50%" >}}
 
 ## Départ
 
