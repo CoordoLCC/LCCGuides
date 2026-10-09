@@ -34,16 +34,16 @@ Les Classiques Capitale s'engage à promouvoir la course à pied dans une atmosp
 
 > ⚠️ Aucune remise le dimanche matin pour le 21.1 et 42.2 km!
 
-| Dates                    | Heures      | Lieu                   | Épreuves             | Adresse                                                                                                                     |
-| ------------------------ | ----------- | ---------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Vendredi <br/>23 octobre | 12h à 21h   | Shop Santé Lebourgneuf | Toutes               | [5580, Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9)                             |
-| Samedi <br/>24 octobre   | 6h30h à 10h | À côté du départ       | 10 km et 5 km        | [2459 Rte de la Bravoure, Québec, QC G3J 1X5](https://maps.app.goo.gl/2EFG4RQsJCkSx4gG7)                                    |
-| Samedi <br/>24 octobre   | 6h30h à 10h | Centre des sports PSP  | 2.5 km et 20 minutes | [Base Valcartier, Édifice 516, C.P. 1000, Succ. Forces, Courcelette, QC G1J 3H6](https://maps.app.goo.gl/VneEy95eipQGQXxy9) |
-| Samedi <br/>24 octobre   | 13h30 à 18h | Shop Santé Lebourgneuf | 21.1 km et 42.2 km   | [5580, Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9)                             |
+| Dates                    | Heures        | Lieu                                          | Épreuves             | Adresse                                                                                                                     |
+| ------------------------ | ------------- | --------------------------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Vendredi <br/>23 octobre | 12h à 21h     | Shop Santé Lebourgneuf                        | Toutes               | [5580, Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9)                             |
+| Samedi <br/>24 octobre   | 6h30h à 10h   | À côté du stationnement P1 (Proche du départ) | 10 km et 5 km        | [2459 Rte de la Bravoure, Québec, QC G3J 1X5](https://maps.app.goo.gl/2EFG4RQsJCkSx4gG7)                                    |
+| Samedi <br/>24 octobre   | 10h30 à 11h45 | Gymnase du Centre des sports PSP              | 2.5 km et 20 minutes | [Base Valcartier, Édifice 516, C.P. 1000, Succ. Forces, Courcelette, QC G1J 3H6](https://maps.app.goo.gl/VneEy95eipQGQXxy9) |
+| Samedi <br/>24 octobre   | 13h30 à 18h   | Shop Santé Lebourgneuf                        | 21.1 km et 42.2 km   | [5580, Bd des Gradins Local 100, Québec, QC G2J 1R8](https://maps.app.goo.gl/7DGTjTCT8ntgJBMP9)                             |
 
 > ⚠️ Aucune récupération de dossard ne sera possible le dimanche 25 octobre pour les participants du demi-marathon et du marathon. Vous devez absolument récupérer votre dossard à l’avance, selon l’horaire prévu au Shop Santé (vendredi ou samedi).
 
-L'horaire est sujet à confirmation.
+**L'horaire est sujet à confirmation.**
 
 > **Exclusivité Shop Santé** : Un panier-cadeau d'une valeur de plus de 250 $ sera tiré au sort parmi tous les participants qui viendront récupérer leur dossard à la boutique le vendredi.
 
@@ -103,6 +103,8 @@ Cette reconnaissance s’inscrit dans notre volonté d’offrir aux participants
 Cette sanction témoigne de notre engagement à offrir une expérience de course de qualité, tant pour les coureurs récréatifs que pour ceux qui souhaitent atteindre des objectifs de performance ou de qualification.
 
 {{< sized-image src="/assets/or-transparent-1.png" alt="Sanction OR" width="30%" >}}
+
+{{< sized-image src="/assets/worldathleticsroadracelabel.png" alt="Certification World Athletics" width="30%" >}}
 
 ## Départ
 
@@ -206,15 +208,15 @@ Nous vous invitons à suivre attentivement les indications des bénévoles et la
 
 **Date :** Samedi 24 octobre 2026
 
-| Activité                                    | Heure       | Emplacement                     |
-| ------------------------------------------- | ----------- | ------------------------------- |
-| Remise des dossards **10 km et 5km**        | 6h30 à 11h  | Devant le Centre de recherche   |
-| **Départ** 10 km                            | **8h00**    | Devant le Centre de recherche   |
-| **Départ** 5 km                             | **10h00**   | Devant le Centre de recherche   |
-| Remise des dossards **2.5km et 20 minutes** | 10h à 11h45 | Centre des sports PSP           |
-| **Départ** 2.5 km                           | **11h00**   | Devant le Centre des sports PSP |
-| **Départ** 20 minutes classique             | **11h45**   | Devant le Centre des sports PSP |
-| Remise des dossards **21.1 km et 42.2 km**  | 13h30 à 18h | Shop Santé Lebourgneuf          |
+| Activité                                    | Heure         | Emplacement                                                |
+| ------------------------------------------- | ------------- | ---------------------------------------------------------- |
+| Remise des dossards **10 km et 5km**        | 6h30 à 10h    | À côté du stationnement P1 (Devant le Centre de recherche) |
+| **Départ** 10 km                            | **8h00**      | Devant le Centre de recherche                              |
+| **Départ** 5 km                             | **10h00**     | Devant le Centre de recherche                              |
+| Remise des dossards **2.5km et 20 minutes** | 10h30 à 11h45 | Gymnase du Centre des sports PSP                           |
+| **Départ** 2.5 km                           | **11h00**     | Devant le Centre des sports PSP                            |
+| **Départ** 20 minutes classique             | **11h45**     | Devant le Centre des sports PSP                            |
+| Remise des dossards **21.1 km et 42.2 km**  | 13h30 à 18h   | Shop Santé Lebourgneuf                                     |
 
 **Date :** Dimanche 25 octobre 2026
 
@@ -270,7 +272,7 @@ Voici les parcours détaillés pour chaque épreuve. (vous pouvez cliquer sur le
 
 Aucun ravitaillement ne sera offert pour les 20 minutes classiques et le 2.5 km.
 
-> ⚠️ Il n'y a pas de verre à usage unique disponiblent aux ravitaillements, vous devez absolument avoir votre propre gourde ou verre avec vous.
+> ⚠️ Il n'y a pas de verre à usage unique disponible aux ravitaillements, vous devez absolument avoir votre propre gourde ou verre avec vous.
 
 Voici les ravitaillements pour les distances du 5 km, 10 km, 21.1 km, 42.2 km :
 
@@ -360,11 +362,14 @@ Merci de nous aider à garder les lieux propres et à minimiser notre empreinte 
 
 Afin d’assurer le bon déroulement et la sécurité de l’événement, un temps limite est établi pour chacune des épreuves suivantes :
 
-* 5 km : passage obligatoire au km  ***avant*** 
-* 10 km : passage obligatoire au km  ***avant*** 
-* 21,1 km : passage obligatoire au km  ***avant*** 
-* 42,2 km : passage obligatoire au km  ***avant*** 
-* Les participants doivent être en mesure de compléter leur épreuve à l’intérieur des délais prévus.
+* 5 km : **1h**
+* 10 km : **2h**
+* 21,1 km : passage obligatoire au km 11 ***avant*** 11h30 (soit 2h après le départ) - **~11min/km**
+* 42,2 km : passage obligatoire au km 32 ***avant*** 12h45 (soit 4h45 après le départ) - **~9min/km**
+
+
+
+\> Nous vous demandons d'être en mesure et confiants de compléter votre épreuve à l’intérieur de ces délais.
 
 Une fois ces délais dépassés, le parcours sera progressivement rouvert à la circulation et la sécurité ne pourra plus être assurée sur le parcours. 
 
