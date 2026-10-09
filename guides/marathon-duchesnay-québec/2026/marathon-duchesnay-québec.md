@@ -278,52 +278,54 @@ Voici les ravitaillements pour les distances du 5 km, 10 km, 21.1 km, 42.2 km :
 
 **5 km :**
 
-| Kilométrage | Ravitaillement                |
-| ----------- | ----------------------------- |
-| 2.5 km      | Eau, électrolytes et toilette |
-| 4 km        | Eau, électrolytes et toilette |
+| Kilométrage | Ravitaillement                             |
+| ----------- | ------------------------------------------ |
+| 2.5 km      | Eau Mont Bel-Air, électrolytes et toilette |
+| 4 km        | Eau Mont Bel-Air, électrolytes et toilette |
 
 **10 km :**
 
-| Kilométrage | Ravitaillement                |
-| ----------- | ----------------------------- |
-| 2.5 km      | Eau, électrolytes et toilette |
-| 7.5 km      | Eau, électrolytes et toilette |
-| 9 km        | Eau, électrolytes et toilette |
+| Kilométrage | Ravitaillement                             |
+| ----------- | ------------------------------------------ |
+| 2.5 km      | Eau Mont Bel-Air, électrolytes et toilette |
+| 7.5 km      | Eau Mont Bel-Air, électrolytes et toilette |
+| 9 km        | Eau Mont Bel-Air, électrolytes et toilette |
 
 **21.1 km :**
 
-| Kilométrage | Ravitaillement                |
-| ----------- | ----------------------------- |
-| 1 km        | Eau, électrolytes et toilette |
-| 3.5 km      | Eau, électrolytes et toilette |
-| 8.5 km      | Eau, électrolytes et toilette |
-| 11 km       | Eau, électrolytes et toilette |
-| 13 km       | Eau, électrolytes et toilette |
-| 16.5 km     | Eau, électrolytes et toilette |
-| 18.5 km     | Eau, électrolytes et toilette |
-| 20 km       | Eau, électrolytes et toilette |
+| Kilométrage | Ravitaillement                             |
+| ----------- | ------------------------------------------ |
+| 1 km        | Eau Mont Bel-Air, électrolytes et toilette |
+| 3.5 km      | Eau Mont Bel-Air, électrolytes et toilette |
+| 8.5 km      | Eau Mont Bel-Air, électrolytes et toilette |
+| 11 km       | Eau Mont Bel-Air, électrolytes et toilette |
+| 13 km       | Eau Mont Bel-Air, électrolytes et toilette |
+| 16.5 km     | Eau Mont Bel-Air, électrolytes et toilette |
+| 18.5 km     | Eau Mont Bel-Air, électrolytes et toilette |
+| 20 km       | Eau Mont Bel-Air, électrolytes et toilette |
 
 **42.2 km :**
 
-| Kilométrage | Ravitaillement                |
-| ----------- | ----------------------------- |
-| 3.7 km      | Eau, électrolytes et toilette |
-| 6.2 km      | Eau, électrolytes et toilette |
-| 8.5 km      | Eau, électrolytes et toilette |
-| 13 km       | Eau, électrolytes et toilette |
-| 15.3 km     | Eau, électrolytes et toilette |
-| 17.8 km     | Eau, électrolytes et toilette |
-| 22.4 km     | Eau, électrolytes et toilette |
-| 24.7 km     | Eau, électrolytes et toilette |
-| 30 km       | Eau, électrolytes et toilette |
-| 32 km       | Eau, électrolytes et toilette |
-| 34 km       | Eau, électrolytes et toilette |
-| 27.8 km     | Eau, électrolytes et toilette |
-| 40 km       | Eau, électrolytes et toilette |
-| 41.2 km     | Eau, électrolytes et toilette |
+| Kilométrage | Ravitaillement                             |
+| ----------- | ------------------------------------------ |
+| 3.7 km      | Eau Mont Bel-Air, électrolytes et toilette |
+| 6.2 km      | Eau Mont Bel-Air, électrolytes et toilette |
+| 8.5 km      | Eau Mont Bel-Air, électrolytes et toilette |
+| 13 km       | Eau Mont Bel-Air, électrolytes et toilette |
+| 15.3 km     | Eau Mont Bel-Air, électrolytes et toilette |
+| 17.8 km     | Eau Mont Bel-Air, électrolytes et toilette |
+| 22.4 km     | Eau Mont Bel-Air, électrolytes et toilette |
+| 24.7 km     | Eau Mont Bel-Air, électrolytes et toilette |
+| 30 km       | Eau Mont Bel-Air, électrolytes et toilette |
+| 32 km       | Eau Mont Bel-Air, électrolytes et toilette |
+| 34 km       | Eau Mont Bel-Air, électrolytes et toilette |
+| 27.8 km     | Eau Mont Bel-Air, électrolytes et toilette |
+| 40 km       | Eau Mont Bel-Air, électrolytes et toilette |
+| 41.2 km     | Eau Mont Bel-Air, électrolytes et toilette |
 
-De l’eau Eau-Mont-Bélair et de la boisson sportive aux électrolytes Maple 3 seront disponibles aux différents points de ravitaillement. 
+
+
+De l’eau **Mont Bel-Air** et de la boisson sportive aux électrolytes seront disponibles aux différents points de ravitaillement. 
 
 #### Offre alimentaire
 
@@ -366,8 +368,6 @@ Afin d’assurer le bon déroulement et la sécurité de l’événement, un tem
 * 10 km : **2h**
 * 21,1 km : passage obligatoire au km 11 ***avant*** 11h30 (soit 2h après le départ) - **~11min/km**
 * 42,2 km : passage obligatoire au km 32 ***avant*** 12h45 (soit 4h45 après le départ) - **~9min/km**
-
-
 
 \> Nous vous demandons d'être en mesure et confiants de compléter votre épreuve à l’intérieur de ces délais.
 
