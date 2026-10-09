@@ -364,10 +364,10 @@ Afin d’assurer le bon déroulement et la sécurité de l’événement, un tem
 
 * 5 km : **1h**
 * 10 km : **2h**
-* 21,1 km : passage obligatoire au km 11 ***avant*** 11h30 (soit 2h après le départ) - **~11min/km**
-* 42,2 km : passage obligatoire au km 32 ***avant*** 12h45 (soit 4h45 après le départ) - **~9min/km**
+* 21,1 km : passage obligatoire au km 11 ***avant*** 11h30 (soit 2h après le départ et **~11min/km**)
+* 42,2 km : passage obligatoire au km 32 ***avant*** 12h45 (soit 4h45 après le départ et **~9min/km**)
 
-\> Nous vous demandons d'être en mesure et confiants de compléter votre épreuve à l’intérieur de ces délais.
+> Nous vous demandons d'être en mesure et confiants de compléter votre épreuve à l’intérieur de ces délais.
 
 Une fois ces délais dépassés, le parcours sera progressivement rouvert à la circulation et la sécurité ne pourra plus être assurée sur le parcours. 
 
