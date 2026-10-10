@@ -279,7 +279,6 @@ Voici les ravitaillements pour les distances du 5 km, 10 km, 21.1 km, 42.2 km :
 | Kilométrage | Ravitaillement                             |
 | ----------- | ------------------------------------------ |
 | 2.5 km      | Eau Mont Bel-Air, électrolytes et toilette |
-| 4 km        | Eau Mont Bel-Air, électrolytes et toilette |
 
 **10 km :**
 
@@ -287,7 +286,6 @@ Voici les ravitaillements pour les distances du 5 km, 10 km, 21.1 km, 42.2 km :
 | ----------- | ------------------------------------------ |
 | 2.5 km      | Eau Mont Bel-Air, électrolytes et toilette |
 | 7.5 km      | Eau Mont Bel-Air, électrolytes et toilette |
-| 9 km        | Eau Mont Bel-Air, électrolytes et toilette |
 
 **21.1 km :**
 
@@ -300,7 +298,6 @@ Voici les ravitaillements pour les distances du 5 km, 10 km, 21.1 km, 42.2 km :
 | 13 km       | Eau Mont Bel-Air, électrolytes et toilette |
 | 16.5 km     | Eau Mont Bel-Air, électrolytes et toilette |
 | 18.5 km     | Eau Mont Bel-Air, électrolytes et toilette |
-| 20 km       | Eau Mont Bel-Air, électrolytes et toilette |
 
 **42.2 km :**
 
@@ -319,9 +316,6 @@ Voici les ravitaillements pour les distances du 5 km, 10 km, 21.1 km, 42.2 km :
 | 34 km       | Eau Mont Bel-Air, électrolytes et toilette |
 | 27.8 km     | Eau Mont Bel-Air, électrolytes et toilette |
 | 40 km       | Eau Mont Bel-Air, électrolytes et toilette |
-| 41.2 km     | Eau Mont Bel-Air, électrolytes et toilette |
-
-
 
 De l’eau **Mont Bel-Air** et de la boisson sportive aux électrolytes seront disponibles aux différents points de ravitaillement. 
 
@@ -357,6 +351,21 @@ L'organisation des Classiques Capitale applique une politique de zéro toléranc
 Nous comptons sur votre civisme pour préserver l'environnement en utilisant les bacs mis à votre disposition sur le site de l'événement.
 
 Merci de nous aider à garder les lieux propres et à minimiser notre empreinte écologique.
+
+
+### Lapins de cadence
+
+Pour vous accompagner tout au long de votre épreuve, voici les différents lapins de cadence qui seront présents sur le parcours.
+Ces coureurs maintiendront un rythme régulier correspondant à différents temps de passage afin de vous aider à atteindre vos objectifs : 
+
+| Marathon (42.2km) | Demi-Marathon (21.1km) |
+| ----------------- | ---------------------------- |
+| 3h50 | 1h25 |
+| 4h00 | 1h40 |
+| 4h10 | 1h45 |
+|      | 1h50 |
+|      | 2h00 |
+|      | 2h10 |
 
 ### Temps limites
 
