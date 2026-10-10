@@ -152,13 +152,25 @@ Aucune réservation n’est nécessaire. Présentez-vous simplement à la zone d
 
 Le samedi, les navettes seront disponibles **uniquement** après votre épreuve afin de vous reconduire de la zone d’arrivée vers le stationnement du Centre de recherche.
 
+**Horaire**
+En continu de 8h45 jusqu'à 12h00
+
 {{< sized-image src="/assets/navettessamedimdq26.png" alt="Navettes samedi MDQ 2026" >}}
 
 #### Dimanche – Vers le départ du marathon et demi-marathon
 
 Le dimanche, vous devez utiliser les navettes pour vous rendre à la zone de départ (la station Duchesnay)
 
-**Horaire à venir.**
+**Horaire**
+Marathon:
+- Premier départ: 6h30
+- Dernier départ 7h15
+
+Demi-Marathon:
+- Premier départ: 7h30
+- Dernier départ 8h15
+
+Après la course : en continu de 10h30 à 14h00
 
 À votre arrivée à la Station Duchesnay, vous aurez accès à une salle intérieure ainsi qu’à des toilettes afin de vous réchauffer et de vous préparer avant votre départ.
 
