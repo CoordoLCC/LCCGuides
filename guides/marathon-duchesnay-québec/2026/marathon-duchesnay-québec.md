@@ -292,54 +292,46 @@ Voici les ravitaillements pour les distances du 5 km, 10 km, 21.1 km, 42.2 km :
 
 | Kilométrage | Ravitaillement                             |
 | ----------- | ------------------------------------------ |
-| 2.5 km      | Eau Mont Bel-Air, électrolytes et toilette |
+| 2.5 km      | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
 
 **10 km :**
 
 | Kilométrage | Ravitaillement                             |
 | ----------- | ------------------------------------------ |
-| 2.5 km      | Eau Mont Bel-Air, électrolytes et toilette |
-| 7.5 km      | Eau Mont Bel-Air, électrolytes et toilette |
+| 2.5 km      | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
+| 7.5 km      | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
 
 **21.1 km :**
 
 | Kilométrage | Ravitaillement                             |
 | ----------- | ------------------------------------------ |
-| 1 km        | Eau Mont Bel-Air, électrolytes et toilette |
-| 3.5 km      | Eau Mont Bel-Air, électrolytes et toilette |
-| 8.5 km      | Eau Mont Bel-Air, électrolytes et toilette |
-| 11 km       | Eau Mont Bel-Air, électrolytes et toilette |
-| 13 km       | Eau Mont Bel-Air, électrolytes et toilette |
-| 16.5 km     | Eau Mont Bel-Air, électrolytes et toilette |
-| 18.5 km     | Eau Mont Bel-Air, électrolytes et toilette |
+| 1 km        | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
+| 3.5 km      | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
+| 8.5 km      | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
+| 11 km       | Eau Mont Bel-Air, électrolytes Maple 3, jujubes XACT Energie 'Chews' et toilette |
+| 13 km       | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
+| 16.5 km     | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
+| 18.5 km     | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
 
 **42.2 km :**
 
 | Kilométrage | Ravitaillement                             |
 | ----------- | ------------------------------------------ |
-| 3.7 km      | Eau Mont Bel-Air, électrolytes et toilette |
-| 6.2 km      | Eau Mont Bel-Air, électrolytes et toilette |
-| 8.5 km      | Eau Mont Bel-Air, électrolytes et toilette |
-| 13 km       | Eau Mont Bel-Air, électrolytes et toilette |
-| 15.3 km     | Eau Mont Bel-Air, électrolytes et toilette |
-| 17.8 km     | Eau Mont Bel-Air, électrolytes et toilette |
-| 22.4 km     | Eau Mont Bel-Air, électrolytes et toilette |
-| 24.7 km     | Eau Mont Bel-Air, électrolytes et toilette |
-| 30 km       | Eau Mont Bel-Air, électrolytes et toilette |
-| 32 km       | Eau Mont Bel-Air, électrolytes et toilette |
-| 34 km       | Eau Mont Bel-Air, électrolytes et toilette |
-| 27.8 km     | Eau Mont Bel-Air, électrolytes et toilette |
-| 40 km       | Eau Mont Bel-Air, électrolytes et toilette |
+| 3.7 km      | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
+| 6.2 km      | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
+| 8.5 km      | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
+| 13 km       | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
+| 15.3 km     | Eau Mont Bel-Air, électrolytes Maple 3, jujubes XACT Energie 'Chews' et toilette |
+| 17.8 km     | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
+| 22.4 km     | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
+| 24.7 km     | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
+| 30 km       | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
+| 32 km       | Eau Mont Bel-Air, électrolytes Maple 3, jujubes XACT Energie 'Chews' et toilette |
+| 34 km       | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
+| 27.8 km     | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
+| 40 km       | Eau Mont Bel-Air, électrolytes Maple 3 et toilette |
 
-De l’eau **Mont Bel-Air** et de la boisson sportive aux électrolytes seront disponibles aux différents points de ravitaillement. 
-
-#### Offre alimentaire
-
-Une offre alimentaire sera disponible à certains points de ravitaillement afin de vous soutenir tout au long de votre épreuve.
-
-Les détails concernant les produits offerts, les emplacements et les ravitaillements concernés seront communiqués prochainement.
-
-Nous vous recommandons tout de même de prévoir votre propre nutrition afin de bien planifier votre alimentation en fonction de vos besoins pendant la course.
+Nous vous recommandons tout de même de prévoir votre propre hydration et nutrition en fonction de vos besoins pendant la course en supplément des ravitaillements.
 
 #### ⚠️ Important : événement sans verre à usage unique
 
