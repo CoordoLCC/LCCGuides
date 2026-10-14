@@ -163,12 +163,14 @@ Le dimanche, vous devez utiliser les navettes pour vous rendre à la zone de dé
 
 **Horaire**
 Marathon:
-- Premier départ: 6h30
-- Dernier départ 7h15
+
+* Premier départ: 6h30
+* Dernier départ 7h15
 
 Demi-Marathon:
-- Premier départ: 7h30
-- Dernier départ 8h15
+
+* Premier départ: 7h30
+* Dernier départ 8h15
 
 Après la course : en continu de 10h30 à 14h00
 
@@ -364,20 +366,19 @@ Nous comptons sur votre civisme pour préserver l'environnement en utilisant les
 
 Merci de nous aider à garder les lieux propres et à minimiser notre empreinte écologique.
 
-
 ### Lapins de cadence
 
 Pour vous accompagner tout au long de votre épreuve, voici les différents lapins de cadence qui seront présents sur le parcours.
 Ces coureurs maintiendront un rythme régulier correspondant à différents temps de passage afin de vous aider à atteindre vos objectifs : 
 
 | Marathon (42.2km) | Demi-Marathon (21.1km) |
-| ----------------- | ---------------------------- |
-| 3h50 | 1h25 |
-| 4h00 | 1h40 |
-| 4h10 | 1h45 |
-|      | 1h50 |
-|      | 2h00 |
-|      | 2h10 |
+| ----------------- | ---------------------- |
+| 3h50              | 1h25                   |
+| 4h00              | 1h40                   |
+| 4h10              | 1h45                   |
+|                   | 1h50                   |
+|                   | 2h00                   |
+|                   | 2h10                   |
 
 ### Temps limites
 
@@ -482,7 +483,7 @@ Des **photographes seront sur place** pour capturer vos plus beaux sourires!
 
 ### Partenaires publiques et fournisseurs
 
-{{< sized-image src="/assets/partenairesfournisseursmdq026.png" alt="Partenaires fournisseurs et publiques MDQ2026" >}}
+{{< sized-image src="/assets/partenairesfournisseursmdq2026.png" alt="Partenaires fournisseurs et publiques MDQ2026" >}}
 
 ## Vous aimeriez plus de détails?
 
