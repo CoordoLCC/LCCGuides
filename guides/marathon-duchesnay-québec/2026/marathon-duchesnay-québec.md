@@ -172,15 +172,15 @@ Le dimanche, vous devez utiliser les navettes pour vous rendre à la zone de dé
 
 **Horaire**
 
-Marathon:
+Marathon :
 
-* Premier départ: 6h30
-* Dernier départ 7h15
+* Premier départ : **6h30**
+* Dernier départ : **7h15**
 
-Demi-Marathon:
+Demi-Marathon :
 
-* Premier départ: 7h30
-* Dernier départ 8h15
+* Premier départ : **7h30**
+* Dernier départ : **8h15**
 
 À votre arrivée à la Station Duchesnay, vous aurez accès à une salle intérieure ainsi qu’à des toilettes afin de vous réchauffer et de vous préparer avant votre départ.
 
