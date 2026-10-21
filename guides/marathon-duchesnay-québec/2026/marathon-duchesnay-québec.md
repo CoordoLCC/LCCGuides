@@ -381,12 +381,17 @@ Ces coureurs maintiendront un rythme régulier correspondant à différents temp
 
 | Marathon (42.2km) | Demi-Marathon (21.1km) |
 | ----------------- | ---------------------- |
-| 3h50              | 1h25                   |
-| 4h00              | 1h40                   |
-| 4h10              | 1h45                   |
-|                   | 1h50                   |
-|                   | 2h00                   |
-|                   | 2h10                   |
+| 3h00              | 1h25                   |
+| 3h15              | 1h30                   |
+| 3h30              | 1h40                   |
+| 3h40              | 1h45                   |
+| 3h50              | 1h50                   |
+| 4h00              | 2h00                   |
+| 4h10              | 2h10                   |
+| 4h20              | 2h15                   |
+| 4h30              | 2h30                   |
+| 4h40              | 2h40                   |
+| 5h00              | 2h40                   |
 
 ### Temps limites
 
