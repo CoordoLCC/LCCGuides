@@ -152,15 +152,13 @@ Aucune réservation n’est nécessaire. Présentez-vous simplement à la zone d
 
 Le samedi, les navettes seront disponibles **uniquement** après votre épreuve afin de vous reconduire de la zone d’arrivée vers le stationnement du Centre de recherche.
 
-**Horaire**
-
-En continu de 8h45 jusqu'à 12h00
-
-{{< sized-image src="/assets/navettessamedimdq26.png" alt="Navettes samedi MDQ 2026" >}}
-
 **Point d'embarquement :** En face du Centre des sports PSP Valcartier (Base Valcartier, Édifice 516, C.P. 1000, Succ. Forces, Courcelette, QC G1J 3H6)
 
 **Point de débarquement :** RDDC - Centre de recherche de Valcartier (2459 Rte de la Bravoure, Québec, QC G3J 1X5)
+
+**Horaire :** en continu de 8h45 jusqu'à 12h00
+
+{{< sized-image src="/assets/navettessamedimdq26.png" alt="Navettes samedi MDQ 2026" >}}
 
 #### Dimanche – Vers le départ du marathon et demi-marathon
 
