@@ -163,7 +163,7 @@ En continu de 8h45 jusqu'à 12h00
 
 #### Dimanche – Vers le départ du marathon et demi-marathon
 
-#### Avant la course
+##### Avant la course
 Le dimanche, vous devez utiliser les navettes pour vous rendre à la zone de départ (la station Duchesnay)
 
 **Emplacements**
@@ -188,7 +188,7 @@ Demi-Marathon:
 
 Nous vous demandons de ne pas demeurer dans l’autobus après votre arrivée, afin de permettre aux autres participants de prendre place et d’assurer une bonne rotation des navettes.
 
-#### Après la course : en continu de 10h30 à 14h00
+##### Après la course : en continu de 10h30 à 14h00
 
 **Point d'embarquement :** En face du Centre des sports PSP Valcartier (Base Valcartier, Édifice 516, C.P. 1000, Succ. Forces, Courcelette, QC G1J 3H6)
 
