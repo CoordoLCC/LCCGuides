@@ -165,6 +165,7 @@ En continu de 8h45 jusqu'à 12h00
 #### Dimanche – Vers le départ du marathon et demi-marathon
 
 ##### Avant la course
+
 Le dimanche, vous devez utiliser les navettes pour vous rendre à la zone de départ (la station Duchesnay)
 
 **Point d'embarquement :** RDDC - Centre de recherche de Valcartier (2459 Rte de la Bravoure, Québec, QC G3J 1X5)
@@ -189,12 +190,11 @@ Nous vous demandons de ne pas demeurer dans l’autobus après votre arrivée, a
 
 ##### Après la course
 
-**Horaire :** en continu de 10h30 à 14h00
-
 **Point d'embarquement :** En face du Centre des sports PSP Valcartier (Base Valcartier, Édifice 516, C.P. 1000, Succ. Forces, Courcelette, QC G1J 3H6)
 
 **Point de débarquement :** RDDC - Centre de recherche de Valcartier (2459 Rte de la Bravoure, Québec, QC G3J 1X5)
 
+**Horaire :** en continu de 10h30 à 14h00
 
 {{< sized-image src="/assets/navettesdimanchemdq26.png" alt="Navettes dimanche MDQ 2026" >}}
 
