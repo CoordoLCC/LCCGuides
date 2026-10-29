@@ -35,8 +35,8 @@ Les Classiques Capitale s'engage à promouvoir la course à pied dans une atmosp
 
 | Dates                    | Heures           | Lieu                   | Épreuves | Adresse                                                                               |
 | ------------------------ | ---------------- | ---------------------- | -------- | ------------------------------------------------------------------------------------- |
-| Samedi <br/>7 novembre   | 12h à 16h        | Grand-Marché de Québec | Toutes   | [220 Bd Wilfrid-Hamel, Québec, QC G1L 5A7](https://maps.app.goo.gl/EXGMXtEX3nhJMUYDA) |
-| Dimanche <br/>8 novembre | À partir de 6h30 | Grand-Marché de Québec | Toutes   | [220 Bd Wilfrid-Hamel, Québec, QC G1L 5A7](https://maps.app.goo.gl/EXGMXtEX3nhJMUYDA) |
+| Samedi 7 novembre   | 12h à 16h        | Grand-Marché de Québec | Toutes   | [220 Bd Wilfrid-Hamel, Québec, QC G1L 5A7](https://maps.app.goo.gl/EXGMXtEX3nhJMUYDA) |
+| Dimanche 8 novembre | À partir de 6h30 | Grand-Marché de Québec | Toutes   | [220 Bd Wilfrid-Hamel, Québec, QC G1L 5A7](https://maps.app.goo.gl/EXGMXtEX3nhJMUYDA) |
 
 Important :
 
