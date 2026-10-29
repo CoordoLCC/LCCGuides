@@ -33,8 +33,8 @@ Les Classiques Capitale s'engage à promouvoir la course à pied dans une atmosp
 
 ### Remise des dossards
 
-| Dates                    | Heures           | Lieu                   | Épreuves | Adresse                                                                               |
-| ------------------------ | ---------------- | ---------------------- | -------- | ------------------------------------------------------------------------------------- |
+| Dates               | Heures           | Lieu                   | Épreuves | Adresse                                                                               |
+| ------------------- | ---------------- | ---------------------- | -------- | ------------------------------------------------------------------------------------- |
 | Samedi 7 novembre   | 12h à 16h        | Grand-Marché de Québec | Toutes   | [220 Bd Wilfrid-Hamel, Québec, QC G1L 5A7](https://maps.app.goo.gl/EXGMXtEX3nhJMUYDA) |
 | Dimanche 8 novembre | À partir de 6h30 | Grand-Marché de Québec | Toutes   | [220 Bd Wilfrid-Hamel, Québec, QC G1L 5A7](https://maps.app.goo.gl/EXGMXtEX3nhJMUYDA) |
 
@@ -42,6 +42,7 @@ Important :
 
 * Ayez en votre possession une **pièce d'identité physique avec photo** - elle vous sera demandée à votre arrivée.
 * Ramassage pour un proche : Vous pouvez récupérer le dossard d’un autre participant, à condition de présenter :
+
   1. Une copie (photo sur téléphone acceptée) de sa pièce d'identité avec photo.
   2. Sa confirmation d'inscription officielle.
 
@@ -105,29 +106,29 @@ L’onglet détachable au bas de votre dossard servira d’étiquette d’identi
 
 **Date :** Samedi 7 novembre 2026
 
-| Activité                            | Heure     | Emplacement            |
-| ----------------------------------- | --------- | ---------------------- |
+| Activité            | Heure     | Emplacement            |
+| ------------------- | --------- | ---------------------- |
 | Remise des dossards | 12h à 16h | Grand-Marché de Québec |
 
 **Date :** Dimanche 8 novembre 2026
 
-| Activité                                        | Heure            | Emplacement                                      |
-| ----------------------------------------------- | ---------------- | ------------------------------------------------ |
-| Remise des dossards                             | À partir de 6h30 | Grand-Marché de Québec                           |
-| **Départ** 10 km/5km/2.5km | **8h00 à 8h20** (voir vagues ci-bas)  | Grand-Marché de Québec                           |
-| **Départ** 20 minutes Classiques                | **10h00**        | Lieu historique national du Parc Cartier-Brébeuf |
+| Activité                         | Heure                                | Emplacement                                      |
+| -------------------------------- | ------------------------------------ | ------------------------------------------------ |
+| Remise des dossards              | À partir de 6h30                     | Grand-Marché de Québec                           |
+| **Départ** 10 km/5km/2.5km       | **8h00 à 8h20** (voir vagues ci-bas) | Grand-Marché de Québec                           |
+| **Départ** 20 minutes Classiques | **10h00**                            | Lieu historique national du Parc Cartier-Brébeuf |
 
 #### Départs par vagues de vitesse 2.5 km, 5 km et 10 km
 
 Afin de faciliter le déroulement des courses, les départs se feront par vagues de vitesse. Nous vous invitons à choisir la vague correspondant à votre rythme de course habituel.
 
-| Heure de départ | Vitesse de course     |
-| --------------- | --------------------- |
-| 8h00          | Moins de 4min10s/km  |
-| 8h05          | De 4min10s à 5min/km |
-| 8h10          | De 5min à 5min30s/km |
-| 8h15          | De 5min30s à 6min/km |
-| 8h20          | Plus de 6min/km       |
+| Heure de départ | Vitesse de course    |
+| --------------- | -------------------- |
+| 8h00            | Moins de 4min10s/km  |
+| 8h05            | De 4min10s à 5min/km |
+| 8h10            | De 5min à 5min30s/km |
+| 8h15            | De 5min30s à 6min/km |
+| 8h20            | Plus de 6min/km      |
 
 > Merci de vous présenter sur la ligne de départ environ 5 minutes avant le départ de votre vague.
 
@@ -278,7 +279,7 @@ Des **photographes seront sur place** pour capturer vos plus beaux sourires!
 
 ### Partenaires publiques et fournisseurs
 
-TODO
+{{< sized-image src="/assets/partenairesfournisseurscjc2026.png" alt="" >}}
 
 ## Vous aimeriez plus de détails?
 
