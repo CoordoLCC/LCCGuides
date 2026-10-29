@@ -78,7 +78,7 @@ Adresse : [175 Rue de l'Espinay, Québec, QC G1L 2H7](https://maps.app.goo.gl/RN
 
 #### Plan du départ
 
-PLAN TODO
+{{< sized-image src="/assets/sitedepartcjc26.png" alt="Plan du site de départ CJC26" >}}
 
 ### Stationnement et accès
 
