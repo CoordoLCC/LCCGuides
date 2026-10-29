@@ -207,7 +207,6 @@ Soyons tous responsables les uns des autres afin de faire de la Classique Jacque
 * Animé par l'équipe du **Grand Club de Course**
 * Course ou marche, en solo ou en famille
 * L'important est de bouger dans le plaisir!
-*
 
 #### Accompagnateur
 
