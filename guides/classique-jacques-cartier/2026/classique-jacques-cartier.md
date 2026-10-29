@@ -142,7 +142,7 @@ Voici les parcours détaillés pour chaque épreuve. (vous pouvez cliquer sur le
 | [20 minutes classiques (boucle de ~400 m)](https://ridewithgps.com/routes/55573563?via=YmGDzD8YOla-VFI5KHRi-w) |
 | [2,5 km](https://ridewithgps.com/routes/53172921?via=a_G13xoVYHLHCgt9_Tcl6Q)                                   |
 | [5 km](https://ridewithgps.com/routes/57734623?via=qHt76I0RuwJGQkJLqhDVSA)                                     |
-| [10 km](https://ridewithgps.com/routes/56171909?via=dfGZ4kpK0MJdE7NCfXfdnQ)                                    |
+| [10 km](https://ridewithgps.com/routes/57734585?via=_5HvhaLektcU1TS4iQ4mgw)                                    |
 
 ### Ravitaillements
 
