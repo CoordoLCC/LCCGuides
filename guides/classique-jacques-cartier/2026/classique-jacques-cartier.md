@@ -150,8 +150,6 @@ Il y aura 1 ravitaillement sur le parcours du 10km (au kilomètre 5) et 1 ravita
 
 > ⚠️ Il n'y a pas de verre à usage unique disponible aux ravitaillements, vous devez absolument avoir votre propre gourde ou verre avec vous.
 
-Nous vous recommandons tout de même de prévoir votre propre hydration et nutrition en fonction de vos besoins pendant la course en supplément des ravitaillements.
-
 #### ⚠️ Important : événement sans verre à usage unique
 
 Les Classiques Capitale s'engage concrètement dans la protection de l'environnement en éliminant tous les verres jetables à usage unique de l'ensemble de ses courses. Cette décision découle de notre volonté de réduire massivement la production de déchets plastiques et de papier, d'éviter que des verres ne se retrouvent dans la nature et de préserver la beauté des sites qui nous accueillent.
