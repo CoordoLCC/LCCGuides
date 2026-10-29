@@ -66,11 +66,13 @@ La Classique Jacques-Cartier 2026 est sanctionné ARGENT par la Fédération qu�
 #### 10 km/5 km/2.5 km
 
 Lieu : Grand-Marché de Québec
+
 Adresse : [220 Bd Wilfrid-Hamel, Québec, QC G1L 5A7](https://maps.app.goo.gl/EXGMXtEX3nhJMUYDA)
 
 #### 20 minutes Classiques
 
-Lieu : Lieu historique national du Parc Cartier-Brébeuf, proche de la ligne d’arrivée.
+Lieu : Lieu historique national du Parc Cartier-Brébeuf, proche de la ligne d’arrivée
+
 Adresse : [175 Rue de l'Espinay, Québec, QC G1L 2H7](https://maps.app.goo.gl/RN1nnZAJaZvBokTZ9)
 
 #### Plan du départ
