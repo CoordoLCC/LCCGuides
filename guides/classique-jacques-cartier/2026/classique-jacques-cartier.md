@@ -217,10 +217,6 @@ Aucune personne ne sera admise sur le parcours sans dossard.
 
 ## Après la course
 
-### Plan d'arrivée
-
-TODO
-
 ### Collation d'après-course
 
 La course terminée, place au plaisir!
