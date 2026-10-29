@@ -107,7 +107,7 @@ L’onglet détachable au bas de votre dossard servira d’étiquette d’identi
 
 | Activité                            | Heure     | Emplacement            |
 | ----------------------------------- | --------- | ---------------------- |
-| Remise des dossards toutes épreuves | 12h à 16h | Grand-Marché de Québec |
+| Remise des dossards | 12h à 16h | Grand-Marché de Québec |
 
 **Date :** Dimanche 8 novembre 2026
 
