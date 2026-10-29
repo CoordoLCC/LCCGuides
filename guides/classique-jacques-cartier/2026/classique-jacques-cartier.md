@@ -42,9 +42,8 @@ Important :
 
 * Ayez en votre possession une **pièce d'identité physique avec photo** - elle vous sera demandée à votre arrivée.
 * Ramassage pour un proche : Vous pouvez récupérer le dossard d’un autre participant, à condition de présenter :
-
-1. Une copie (photo sur téléphone acceptée) de sa pièce d'identité avec photo.
-2. Sa confirmation d'inscription officielle.
+  1. Une copie (photo sur téléphone acceptée) de sa pièce d'identité avec photo.
+  2. Sa confirmation d'inscription officielle.
 
 > ⚠️ Aucune inscription ne sera possible sur place!
 
