@@ -81,7 +81,7 @@ PLAN TODO
 
 ### Stationnement et accès
 
-Le seul stationnement autorisé pour les participants est le stationnement P3 d’ExpoCité. Nous vous invitons à suivre les indications sur place afin de vous diriger vers les espaces autorisés.
+Le seul stationnement d'ExpoCité autorisé pour les participants est le stationnement P3. Nous vous invitons à suivre les indications sur place afin de vous diriger vers les espaces autorisés.
 
 Les spectateurs et les participants du 20 minutes Classiques peuvent se stationner dans les rues avoisinantes du parc Cartier-Brébeuf.
 
